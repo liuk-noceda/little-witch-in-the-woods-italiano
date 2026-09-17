@@ -21,6 +21,8 @@ namespace LiukNoceda.LittleWitchItalian
     {
         private readonly Dictionary<string, Dictionary<string, string>> _perCollezione =
             new Dictionary<string, Dictionary<string, string>>(StringComparer.Ordinal);
+        private readonly Dictionary<string, string> _tutti =
+            new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
 
         private readonly ManualLogSource _log;
 
@@ -68,6 +70,34 @@ namespace LiukNoceda.LittleWitchItalian
                     _log.LogError($"  {collezione}: JSON illeggibile — {e.Message}");
                 }
             }
+
+            AggiornaTutti();
+        }
+
+        private void AggiornaTutti()
+        {
+            _tutti.Clear();
+
+            // Prima tutte le collezioni generali
+            foreach (var kv in _perCollezione)
+            {
+                if (kv.Key == "QuestNode" || kv.Key == "QuestUI") continue;
+                foreach (var entry in kv.Value)
+                    if (!string.IsNullOrEmpty(entry.Value))
+                        _tutti[entry.Key] = entry.Value;
+            }
+
+            // Poi sovrascrivi con QuestUI
+            if (_perCollezione.TryGetValue("QuestUI", out var qui))
+                foreach (var entry in qui)
+                    if (!string.IsNullOrEmpty(entry.Value))
+                        _tutti[entry.Key] = entry.Value;
+
+            // Infine QuestNode ha la massima priorità per le quest
+            if (_perCollezione.TryGetValue("QuestNode", out var qn))
+                foreach (var entry in qn)
+                    if (!string.IsNullOrEmpty(entry.Value))
+                        _tutti[entry.Key] = entry.Value;
         }
 
         /// <summary>Traduzioni di una collezione, o null se non ne abbiamo.</summary>
@@ -75,5 +105,17 @@ namespace LiukNoceda.LittleWitchItalian
         {
             return _perCollezione.TryGetValue(collezione, out var d) ? d : null;
         }
+
+        /// <summary>
+        /// Cerca la traduzione di una chiave in tutte le collezioni caricate,
+        /// con priorità a QuestNode e QuestUI (usate per le missioni).
+        /// </summary>
+        internal bool Cerca(string chiave, out string valore)
+        {
+            valore = null;
+            if (string.IsNullOrEmpty(chiave)) return false;
+            return _tutti.TryGetValue(chiave, out valore) && !string.IsNullOrEmpty(valore);
+        }
     }
 }
+

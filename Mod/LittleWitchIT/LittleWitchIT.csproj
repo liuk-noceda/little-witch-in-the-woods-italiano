@@ -41,6 +41,11 @@
       <HintPath>$(GameManaged)\UnityEngine.CoreModule.dll</HintPath>
       <Private>false</Private>
     </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(GameManaged)\UnityEngine.UI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
     <!-- Unity Localization: il sistema che regge i testi dell'interfaccia -->
     <Reference Include="Unity.Localization">
       <HintPath>$(GameManaged)\Unity.Localization.dll</HintPath>
@@ -90,6 +95,11 @@
       <HintPath>$(GameManaged)\Newtonsoft.Json.dll</HintPath>
       <Private>false</Private>
     </Reference>
+    <Reference Include="SunnySideUp.HUD.Contents">
+      <HintPath>$(GameManaged)\SunnySideUp.HUD.Contents.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
   </ItemGroup>
+
 
 </Project>
