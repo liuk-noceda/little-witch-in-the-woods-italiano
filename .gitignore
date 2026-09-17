@@ -1,0 +1,31 @@
+# Build results and caches
+**/bin/
+**/obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+
+# Decompiled and extracted game data
+Extracted/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+
+# Temporary and local logs
+_log/
+*.log
+*.tmp
+blocco*.json
+
+# Distributions and installers
+_dist/
+Installer/dist/
+_downloads/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini

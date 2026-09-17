@@ -1,0 +1,59 @@
+Little Witch in the Woods - traduzione italiana
+================================================
+
+Traduzione amatoriale non ufficiale, di Liuk Noceda (Luca Nasi).
+Non è approvata né sostenuta da Sunny Side Up.
+
+
+COME SI INSTALLA
+----------------
+
+1. Chiudi il gioco, se è aperto.
+2. Doppio clic su  "Installa la traduzione italiana.bat"
+3. L'installatore cerca il gioco da solo. Se non lo trova, trascina nella
+   finestra la cartella che contiene LWIW.exe.
+4. Scegli 1 e aspetta.
+5. Avvia il gioco, vai in  Impostazioni -> Lingua -> Italiano.
+6. CHIUDI E RIAPRI IL GIOCO: la lingua si applica al riavvio.
+
+Se Windows mostra un avviso di SmartScreen, è perché il file non è
+firmato: "Ulteriori informazioni" -> "Esegui comunque".
+
+
+COME SI TOGLIE
+--------------
+
+Riapri lo stesso installatore e scegli 2. Torna tutto come prima:
+vengono rimossi il plugin, i testi italiani e (se non usi altre mod)
+anche BepInEx. La lingua del gioco viene rimessa su inglese.
+
+
+COSA FA, IN CONCRETO
+--------------------
+
+Nessun file del gioco viene modificato o sostituito. Vengono solo
+AGGIUNTI:
+
+  winhttp.dll, doorstop_config.ini, .doorstop_version, changelog.txt
+  BepInEx\                              (il caricatore di mod)
+  BepInEx\plugins\LiukNoceda\           (il plugin e i testi italiani)
+
+Il plugin registra l'italiano come lingua in più all'avvio e mette i
+testi tradotti in memoria. Le partite salvate non vengono toccate.
+
+
+SE QUALCOSA NON VA
+------------------
+
+Nell'installatore scegli 3: legge il log del gioco e dice se la
+traduzione e' stata caricata davvero. Il log completo sta in
+
+  <cartella del gioco>\BepInEx\LogOutput.log
+
+
+STATO DELLA TRADUZIONE
+----------------------
+
+Interfaccia: completa.
+Dialoghi: in corso. Quello che manca resta in inglese, il gioco
+resta giocabile.

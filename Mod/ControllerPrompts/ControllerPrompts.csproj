@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>ControllerPrompts</AssemblyName>
+    <RootNamespace>LiukNoceda.ControllerPrompts</RootNamespace>
+    <Version>1.0.0</Version>
+    <LangVersion>latest</LangVersion>
+    <NoWarn>$(NoWarn);CS0649;CS0169</NoWarn>
+
+    <GiocoDir Condition="'$(GiocoDir)' == ''">$(LWIW_GIOCO)</GiocoDir>
+    <GiocoDir Condition="'$(GiocoDir)' == ''">C:\Games\Little Witch in the Woods</GiocoDir>
+    <GameManaged>$(GiocoDir)\LWIW_Data\Managed</GameManaged>
+    <BepInExCore>$(MSBuildThisFileDirectory)..\_refs\BepInEx-core</BepInExCore>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BepInEx">
+      <HintPath>$(BepInExCore)\BepInEx.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>$(BepInExCore)\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>$(GameManaged)\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(GameManaged)\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Unity.InputSystem">
+      <HintPath>$(GameManaged)\Unity.InputSystem.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.InputDeviceControl.Data">
+      <HintPath>$(GameManaged)\SunnySideUp.InputDeviceControl.Data.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.InputDeviceControl">
+      <HintPath>$(GameManaged)\SunnySideUp.InputDeviceControl.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>

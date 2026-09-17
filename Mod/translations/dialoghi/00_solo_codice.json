@@ -1,0 +1,2229 @@
+{
+ "conversazioni": {
+  "1002": {
+   "56": "..."
+  },
+  "1016": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "43": "[lua(GetLocalizedString(\"Choice\", \"RequestDecline\"))]",
+   "52": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "53": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "73": "[lua(GetLocalizedString(\"Choice\", \"FullBag\"))]"
+  },
+  "1029": {
+   "40": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "41": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "103": {
+   "61": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "62": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "1030": {
+   "12": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Kyla\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "1032": {
+   "2": "...",
+   "3": "..."
+  },
+  "1033": {
+   "12": "..."
+  },
+  "1034": {
+   "35": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "71": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "1039": {
+   "32": "[lua(GetLocalizedString(\"Choice\", \"FullBag\"))]"
+  },
+  "104300": {
+   "83": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "84": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "105200": {
+   "45": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "54": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "105600": {
+   "50": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "8": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "106300": {
+   "22": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "34": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "106304": {
+   "19": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "9": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "106313": {
+   "1": "..."
+  },
+  "106316": {
+   "24": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Teo\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "106320": {
+   "7": "..."
+  },
+  "109400": {
+   "17": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Teo\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "111200": {
+   "35": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "38": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "112": {
+   "20": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]",
+   "8": "[lua(GetLocalizedString(\"Common\", \"EncyclopediaRank\"))]"
+  },
+  "11201": {
+   "34": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "38": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "114001": {
+   "12": "..."
+  },
+  "115600": {
+   "20": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "26": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "33": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "115601": {
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "42": "...",
+   "48": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "9": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "115611": {
+   "5": "...! ...!!"
+  },
+  "115617": {
+   "10": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "15": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "115620": {
+   "1": "..."
+  },
+  "115623": {
+   "8": "..."
+  },
+  "115625": {
+   "6": "..."
+  },
+  "115627": {
+   "2": "..."
+  },
+  "115629": {
+   "14": "..."
+  },
+  "115630": {
+   "3": "..."
+  },
+  "115641": {
+   "1": "...",
+   "5": "..."
+  },
+  "115643": {
+   "24": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Teo\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "115646": {
+   "5": "..."
+  },
+  "117600": {
+   "11": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "61": "...!",
+   "7": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "117602": {
+   "96": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Clala\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "118001": {
+   "27": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "119800": {
+   "4": "..."
+  },
+  "119803": {
+   "1": "...",
+   "8": "[lua(GetLocalizedString(\"Common\", \"Common_Theme_StarSeaCave\"))]..."
+  },
+  "119809": {
+   "21": "..."
+  },
+  "119812": {
+   "17": "...",
+   "5": "..."
+  },
+  "119814": {
+   "14": "..."
+  },
+  "119815": {
+   "26": "..."
+  },
+  "120": {
+   "8": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Kyla\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "1200": {
+   "33": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "44": "[lua(GetLocalizedString(\"Choice\", \"FullBagByEllie\"))]",
+   "46": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "120000": {
+   "7": "..."
+  },
+  "120100": {
+   "28": "..."
+  },
+  "121": {
+   "18": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Kyla\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "1210": {
+   "35": "...",
+   "52": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "63": "[em1][lua(GetLocalizedString(\"Choice\", \"FullBagByEllie\"))][/em1]",
+   "65": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "121100": {
+   "18": "..."
+  },
+  "121600": {
+   "4": "..."
+  },
+  "122100": {
+   "13": "...",
+   "19": "...",
+   "20": "...",
+   "25": "..."
+  },
+  "124700": {
+   "24": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "30": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "124701": {
+   "13": "..."
+  },
+  "124705": {
+   "21": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "5": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "124722": {
+   "11": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "19": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "5": "..."
+  },
+  "124723": {
+   "19": "...",
+   "20": "...",
+   "27": "...",
+   "28": "..."
+  },
+  "124727": {
+   "24": "..."
+  },
+  "124732": {
+   "8": "..."
+  },
+  "124733": {
+   "24": "..."
+  },
+  "124735": {
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Roy\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "12700": {
+   "3": "...",
+   "45": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "5": "...",
+   "52": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "12706": {
+   "13": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "8": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "12710": {
+   "8": "[em1]<font=\"Astronomicon SDF\">'</font>[/em1]..."
+  },
+  "127501": {
+   "10": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "15": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "17": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "22": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "24": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "6": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "129500": {
+   "12": "...",
+   "35": "...!"
+  },
+  "1308": {
+   "24": "..."
+  },
+  "131102": {
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "5": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]"
+  },
+  "132202": {
+   "18": "..."
+  },
+  "132203": {
+   "12": "..."
+  },
+  "132205": {
+   "10": "..."
+  },
+  "132207": {
+   "21": "...",
+   "22": "..."
+  },
+  "132208": {
+   "13": "..."
+  },
+  "133501": {
+   "19": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "133502": {
+   "16": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "135": {
+   "9": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Aurea\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "136": {
+   "37": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Aurea\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "138": {
+   "19": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]"
+  },
+  "1404": {
+   "3": "..."
+  },
+  "143": {
+   "11": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "12": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "144604": {
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "5": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "144610": {
+   "3": "..."
+  },
+  "145801": {
+   "20": "[em1][lua(GetItemName(\"WarmComfortCandyRecipe\"))][/em1]."
+  },
+  "145802": {
+   "25": "[em1][lua(GetItemName(\"HeavyPressCandyRecipe\"))][/em1].",
+   "4": "<Calling Delivery service>"
+  },
+  "145803": {
+   "12": "[em1][lua(GetItemName(\"WhisperCandyRecipe\"))][/em1].",
+   "4": "<Calling Delivery service>"
+  },
+  "145804": {
+   "4": "<Calling Delivery service>"
+  },
+  "147901": {
+   "10": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "16": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "17": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "23": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "24": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "30": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "31": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "38": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "39": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "47": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "48": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "5": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "54": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "55": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "62": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "63": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "71": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "72": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "148601": {
+   "153": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "158": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "164": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "165": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "171": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "172": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "178": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "179": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "186": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "187": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "195": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "196": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "202": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "203": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "210": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "211": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "219": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "220": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "149001": {
+   "15": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "21": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "22": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "28": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "29": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "35": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "36": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "43": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "44": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "5": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "52": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "53": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "59": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "60": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "67": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "68": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "76": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "77": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "149901": {
+   "104": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "105": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "112": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "113": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "121": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "122": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "128": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "129": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "136": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "137": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "145": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "146": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "79": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "84": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "90": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "91": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "97": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "98": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "1506": {
+   "8": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Vinch\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "1507": {
+   "27": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Vinch\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "150800": {
+   "2": "[lua(GetLocalizedString(\"Map\", \"StarSeaCave_Upper\"))]",
+   "3": "[lua(GetLocalizedString(\"Map\", \"StarSeaCave_Middle\"))]",
+   "4": "[lua(GetLocalizedString(\"Map\", \"StarSeaCave_Under\"))]"
+  },
+  "1514": {
+   "8": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arin\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "1515": {
+   "20": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arin\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "1522": {
+   "8": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rex\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "1523": {
+   "23": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rex\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]",
+   "47": "..."
+  },
+  "1530": {
+   "8": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Alvin\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "1531": {
+   "18": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Alvin\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "1533": {
+   "24": "[lua(GetItemName(\"ChicBlack_PictureFrame\"))]",
+   "29": "[lua(GetItemName(\"Santorini_PictureFrame\"))]",
+   "30": "[lua(GetItemName(\"Sunflower_PictureFrame\"))]"
+  },
+  "1535": {
+   "46": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "56": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "1537": {
+   "10": "...",
+   "119": "...",
+   "120": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rex\"))], [lua(GetLocalizedString(\"InteractableObject\", \"People_Arin\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "18": "...",
+   "19": "...",
+   "3": "[lua(GetLocalizedString(\"Item\", \"MushroomWallPlants_Collect_Name\"))]",
+   "32": "[lua(GetLocalizedString(\"Item\", \"BittergrapeTealeaves_Name\"))]",
+   "35": "[lua(GetLocalizedString(\"Item\", \"RattanPetal_Name\"))]",
+   "51": "[lua(GetLocalizedString(\"Item\", \"Fiction_Long_001_Name\"))]...?",
+   "65": "...",
+   "93": "..."
+  },
+  "156": {
+   "10": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "9": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]"
+  },
+  "15602": {
+   "28": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "38": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "15606": {
+   "15": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "15610": {
+   "20": "..."
+  },
+  "158": {
+   "104": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arden\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "28": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "29": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "63": "......"
+  },
+  "159": {
+   "4": "..."
+  },
+  "1600": {
+   "2": "...",
+   "54": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "78": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "1601": {
+   "19": "...",
+   "21": "...",
+   "24": "...",
+   "53": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "64": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "160200": {
+   "35": "[lua(GetItemName(\"ChicBlack_PictureFrame\"))]",
+   "40": "[lua(GetItemName(\"Santorini_PictureFrame\"))]",
+   "41": "[lua(GetItemName(\"Sunflower_PictureFrame\"))]"
+  },
+  "161": {
+   "18": "...",
+   "3": "..."
+  },
+  "161000": {
+   "13": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "27": "...",
+   "35": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "36": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "42": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "9": "..."
+  },
+  "161001": {
+   "20": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "26": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "47": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "51": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "8": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "161002": {
+   "101": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "104": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "60": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "72": "...",
+   "73": "...",
+   "89": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "94": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "97": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "161003": {
+   "8": "..."
+  },
+  "161005": {
+   "20": "[lua(GetLocalizedString(\"Item\", \"ClalaButter_Name\"))]",
+   "24": "[lua(GetLocalizedString(\"Item\", \"ClalaButter2_Name\"))]",
+   "56": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "59": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "6": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "9": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "161006": {
+   "5": "...",
+   "6": "..."
+  },
+  "161009": {
+   "11": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "30": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "161011": {
+   "19": "...",
+   "24": "...",
+   "30": "..."
+  },
+  "161012": {
+   "4": "..."
+  },
+  "161013": {
+   "20": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Clala\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "22": "..."
+  },
+  "1613": {
+   "15": "...",
+   "4": "...",
+   "6": "..."
+  },
+  "1614": {
+   "10": "...",
+   "5": "..."
+  },
+  "161900": {
+   "3": "[em1][lua(GetLocalizedString(\"Item\", \"DonutBox_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]"
+  },
+  "165400": {
+   "8": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "9": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "165401": {
+   "12": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "166500": {
+   "3": "[em1][lua(GetLocalizedString(\"Item\", \"PrototypeDonut_2_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]"
+  },
+  "166700": {
+   "10": "...",
+   "3": "[em1][lua(GetLocalizedString(\"Item\", \"PrototypeDonut_2_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]"
+  },
+  "167200": {
+   "10": "...",
+   "13": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "18": "...",
+   "36": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "167203": {
+   "29": "[em1][lua(GetLocalizedString(\"Item\", \"FlowerBasket_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]",
+   "39": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "45": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "46": "[lua(GetLocalizedString(\"Choice\",\"RequestDeclineByEllie\"))]"
+  },
+  "167204": {
+   "31": "..."
+  },
+  "167207": {
+   "20": "...",
+   "23": "...",
+   "37": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Clala\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]",
+   "38": "..."
+  },
+  "167208": {
+   "7": "..."
+  },
+  "167209": {
+   "12": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "22": "[lua(GetLocalizedString(\"Item\", \"ClalaButter_Name\"))]",
+   "30": "[lua(GetLocalizedString(\"Item\", \"ClalaButter2_Name\"))]",
+   "45": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "51": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "59": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "6": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "66": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "74": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "80": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "167210": {
+   "6": "...",
+   "7": "..."
+  },
+  "167400": {
+   "18": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "22": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "167401": {
+   "112": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "117": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "122": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "148": "...",
+   "50": "[lua(GetLocalizedString(\"Item\", \"Ondori_Powder_Name\"))]",
+   "55": "[lua(GetLocalizedString(\"Item\", \"FurBall_Jelly_Name\"))]",
+   "56": "[lua(GetLocalizedString(\"Item\", \"RolyPoly_Water_Name\"))]",
+   "85": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "167500": {
+   "3": "[em1][lua(GetLocalizedString(\"Item\", \"PrototypeDonut_2_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]"
+  },
+  "168": {
+   "12": "[lua(GetLocalizedString(\"Item\", \"RememberDreamPotion_Name\"))]!"
+  },
+  "168100": {
+   "3": "[em1][lua(GetLocalizedString(\"Item\", \"PrototypeDonut_2_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]",
+   "9": "..."
+  },
+  "17": {
+   "20": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Enite\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "1703": {
+   "18": "...",
+   "20": "...",
+   "23": "..."
+  },
+  "171601": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "21": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "41": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "42": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "171607": {
+   "13": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "14": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "174700": {
+   "24": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "37": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "174702": {
+   "10": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "174720": {
+   "143": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Vinch\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "176": {
+   "6": "..."
+  },
+  "176500": {
+   "16": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "55": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "57": "[lua(GetLocalizedString(\"Choice\", \"RequestDeclineByEllie\"))]"
+  },
+  "176501": {
+   "102": "[lua(GetLocalizedString(\"Choice\", \"DaytimeEllie\"))]",
+   "113": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "116": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "117": "[lua(GetLocalizedString(\"Choice\", \"RequestDecline\"))]",
+   "52": "...",
+   "81": "[em1][lua(GetLocalizedString(\"Item\", \"ClalaSecretBook_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]"
+  },
+  "176502": {
+   "1": "...",
+   "19": "...",
+   "30": "..."
+  },
+  "176503": {
+   "17": "...",
+   "26": "...",
+   "27": "...",
+   "59": "..."
+  },
+  "176504": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "176508": {
+   "16": "...!"
+  },
+  "176509": {
+   "21": "...",
+   "5": "...",
+   "51": "...",
+   "58": "..."
+  },
+  "176511": {
+   "33": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Clala\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "176700": {
+   "43": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "46": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "51": "[em1][lua(GetLocalizedString(\"Item\", \"ItemDetectionPotion_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]"
+  },
+  "176704": {
+   "57": "...",
+   "61": "...",
+   "66": "..."
+  },
+  "176707": {
+   "9": "..."
+  },
+  "177800": {
+   "69": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "70": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "177804": {
+   "12": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "13": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "25": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "177807": {
+   "32": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "33": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "178700": {
+   "6": "..."
+  },
+  "179": {
+   "13": "...",
+   "18": "..."
+  },
+  "17905": {
+   "9": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Teo\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "17906": {
+   "21": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Teo\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]",
+   "78": "..."
+  },
+  "180": {
+   "43": "..."
+  },
+  "184903": {
+   "34": "...",
+   "50": "...",
+   "56": "...",
+   "58": "...",
+   "75": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "80": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "86": "...",
+   "90": "..."
+  },
+  "184908": {
+   "20": "..."
+  },
+  "189605": {
+   "14": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]"
+  },
+  "189608": {
+   "55": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]"
+  },
+  "189613": {
+   "30": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "42": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "189614": {
+   "15": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "39": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "43": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "189705": {
+   "13": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]"
+  },
+  "189708": {
+   "61": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]"
+  },
+  "189711": {
+   "5": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "6": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "191300": {
+   "1": "[lua(GetLocalizedString(\"Encyclopedia\", \"PumpkinTerrier_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"PlopRadish_Name\"))], [lua(GetLocalizedString(\"Item\", \"Cranapple_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"WitchFlower_Name\"))], [lua(GetLocalizedString(\"Item\", \"Rock_Name\"))]"
+  },
+  "191301": {
+   "2": "[lua(GetLocalizedString(\"Encyclopedia\", \"Pompom_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"SilverStarFlower_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"TinkleSpider_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"MoonButterfly_Name\"))]"
+  },
+  "191302": {
+   "2": "[lua(GetLocalizedString(\"Encyclopedia\", \"OneEyeFrog_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"LittleMandrake_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"MapleHerb_Name\"))], [lua(GetLocalizedString(\"Item\", \"DangleMango_Name\"))], [lua(GetLocalizedString(\"Item\", \"Mud_Name\"))]"
+  },
+  "191303": {
+   "2": "[lua(GetLocalizedString(\"Item\", \"SloshLemon_Name\"))], [lua(GetLocalizedString(\"Item\", \"RainbowBranch_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Bellody_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Kirby_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Uru_Name\"))]"
+  },
+  "191304": {
+   "2": "[lua(GetLocalizedString(\"Encyclopedia\", \"Reaver_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"CaveLizard_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"MushroomWallPlants_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Tails_Name\"))], [lua(GetLocalizedString(\"Item\", \"SlippyGrapefruit_Name\"))], [lua(GetLocalizedString(\"Item\", \"RainbowRock_Name\"))]"
+  },
+  "191305": {
+   "3": "[lua(GetLocalizedString(\"Encyclopedia\", \"LeafOtter_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"CloudFlower_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"StoneCrocodile_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"BeeMoth_Name\"))], [lua(GetLocalizedString(\"Item\", \"HoneycombPiece_Name\"))], [lua(GetLocalizedString(\"Item\", \"Raspberry_Name\"))]"
+  },
+  "191306": {
+   "3": "[lua(GetLocalizedString(\"Item\", \"RainbowMud_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Moondelion_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"FurBall_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"JingleBug_Name\"))]"
+  },
+  "191307": {
+   "3": "[lua(GetLocalizedString(\"Encyclopedia\", \"Baitty_Name\"))], [lua(GetLocalizedString(\"Item\", \"GlassCherry_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"RolyPoly_Name\"))], [lua(GetLocalizedString(\"Item\", \"StarSeaCaveRock_Name\"))], [lua(GetLocalizedString(\"Item\", \"StarSeaCaveBranch_Name\"))]"
+  },
+  "191308": {
+   "3": "[lua(GetLocalizedString(\"Encyclopedia\", \"Gboolnori_Name\"))], [lua(GetLocalizedString(\"Item\", \"StarBubble_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Ondori_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"ShootingStarFlower_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"PhantomJellyfish_Name\"))], [lua(GetLocalizedString(\"Item\", \"StarSeaCaveMud_Name\"))]"
+  },
+  "191309": {
+   "3": "[lua(GetLocalizedString(\"Encyclopedia\", \"BubbleShot_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"FogFox_Name\"))], [lua(GetLocalizedString(\"Item\", \"NailTreeFruit_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Nail_Name\"))]"
+  },
+  "191310": {
+   "3": "[lua(GetLocalizedString(\"Item\", \"Fish_Veyobeta_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Weak_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Leaf_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Rgb_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Stone_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Hello_Name\"))]"
+  },
+  "191311": {
+   "4": "[lua(GetLocalizedString(\"Item\", \"Fish_Cantsee_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_SalmonTuna_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_BigHead_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Gwitch_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Leather_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Fat_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Doctor_Name\"))]"
+  },
+  "191312": {
+   "5": "[lua(GetLocalizedString(\"Item\", \"Fish_NoEndure_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Gloomy_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_YoungCat_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Rainbow_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Silks_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_RockEel_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Angel_Name\"))]"
+  },
+  "191313": {
+   "5": "[lua(GetLocalizedString(\"Item\", \"Fish_HardLobster_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Vwitch_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Piranha_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Sorry_Name\"))]"
+  },
+  "191314": {
+   "5": "[lua(GetLocalizedString(\"Item\", \"Fish_Deviyark_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Driftscale_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Candybelle_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_AquaTail_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Lumineon_Name\"))]"
+  },
+  "191315": {
+   "6": "[lua(GetLocalizedString(\"Common\", \"Common_Theme_GreenForest\"))] [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Potion\"))], [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Candy\"))]"
+  },
+  "191316": {
+   "7": "[lua(GetLocalizedString(\"Common\", \"Common_Theme_RainbowForest\"))] [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Potion\"))], [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Candy\"))]"
+  },
+  "191317": {
+   "7": "[lua(GetLocalizedString(\"Common\", \"Common_Theme_StarSeaCave\"))] [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Potion\"))], [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Candy\"))]"
+  },
+  "191327": {
+   "5": "[lua(GetLocalizedString(\"Item\", \"Constellation_StellarOre_StellumShard_Name\"))]"
+  },
+  "191328": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Constellation_StellarOre_Astrocore_Name\"))]"
+  },
+  "191329": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Constellation_StellarOre_AmethystNova_Name\"))]"
+  },
+  "191330": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Constellation_StellarOre_Celestwing_Name\"))], [lua(GetLocalizedString(\"Item\", \"Constellation_StellarOre_FrostAstrum_Name\"))]"
+  },
+  "191331": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Constellation_StellarOre_OrbitalPearl_Name\"))]"
+  },
+  "191332": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Constellation_StellarOre_SpiralRelic_Name\"))]"
+  },
+  "191333": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Constellation_StellarOre_StarEye_Name\"))]"
+  },
+  "191334": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Constellation_StellarOre_FrostAstrum_Name\"))]"
+  },
+  "191335": {
+   "5": "[lua(GetLocalizedString(\"Item\", \"Fish_BigFist_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Murchin_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Adult_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_BroomStick_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_CloudSalmon_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_DarkMud_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Mdefense_Name\"))]"
+  },
+  "191336": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Fish_Vurchin_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_CoralCrab_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Gangs_Name\"))]"
+  },
+  "191337": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Fish_OldCat_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_PuffyCloud_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Axe_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Tackle_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_VbigHead_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Transparency_Name\"))]"
+  },
+  "191338": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Fish_CrownCrab_Name\"))]"
+  },
+  "191339": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Fish_StarlitUrchin_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_SparkleFin_Name\"))]"
+  },
+  "191340": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Fish_Ponglin_Name\"))]"
+  },
+  "191341": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Fish_SilverLet_Name\"))]"
+  },
+  "191342": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Fish_Ironmaw_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Nokyeomo_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Skyfin_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Goldmoontail_Name\"))]"
+  },
+  "191343": {
+   "4": "[lua(GetLocalizedString(\"Encyclopedia\", \"CliffRoot_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Dubby_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Rodeo_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"WaterDragonfly_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"WallSticky_Name\"))]"
+  },
+  "191344": {
+   "6": "[lua(GetLocalizedString(\"Item\", \"Fish_Switch_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Violuna_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_OreEel_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Starflutter_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Nebulune_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Noctilux_Name\"))]"
+  },
+  "191345": {
+   "2": "[lua(GetLocalizedString(\"Encyclopedia\", \"BubbleLizard_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Mongsiri_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"FlowerBird_Name\"))], [lua(GetLocalizedString(\"Item\", \"Branch_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"BushBug_Name\"))]"
+  },
+  "192": {
+   "14": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Roy\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "194": {
+   "5": "[lua(GetLocalizedString(\"UI\", \"FishingNote_Title\"))]"
+  },
+  "196": {
+   "15": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Roy\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "199505": {
+   "29": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]"
+  },
+  "199506": {
+   "8": "..."
+  },
+  "199508": {
+   "38": "...",
+   "56": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]"
+  },
+  "2004": {
+   "6": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "8": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "2006": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "202900": {
+   "30": "[lua(GetLocalizedString(\"Map\", \"Museum_ThemeGreenForest\"))]",
+   "33": "[lua(GetLocalizedString(\"Map\", \"Museum_ThemeRainbowForest\"))]",
+   "44": "[lua(GetLocalizedString(\"Map\", \"Museum_Aquarium\"))]",
+   "46": "[lua(GetLocalizedString(\"Map\", \"Museum_Brewing\"))]"
+  },
+  "202901": {
+   "25": "[lua(GetLocalizedString(\"Encyclopedia\", \"Pompom_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"SilverStarFlower_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"TinkleSpider_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"MoonButterfly_Name\"))]",
+   "26": "[lua(GetLocalizedString(\"Encyclopedia\", \"OneEyeFrog_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"LittleMandrake_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"MapleHerb_Name\"))], [lua(GetLocalizedString(\"Item\", \"DangleMango_Name\"))], [lua(GetLocalizedString(\"Item\", \"Mud_Name\"))]",
+   "27": "[lua(GetLocalizedString(\"Encyclopedia\", \"PumpkinTerrier_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"PlopRadish_Name\"))], [lua(GetLocalizedString(\"Item\", \"Cranapple_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"WitchFlower_Name\"))], [lua(GetLocalizedString(\"Item\", \"Rock_Name\"))]",
+   "39": "[lua(GetLocalizedString(\"Encyclopedia\", \"BubbleLizard_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Mongsiri_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"FlowerBird_Name\"))], [lua(GetLocalizedString(\"Item\", \"Branch_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"BushBug_Name\"))]"
+  },
+  "202902": {
+   "27": "[lua(GetLocalizedString(\"Common\", \"Common_Theme_GreenForest\"))], [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Potion\"))], [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Candy\"))]",
+   "29": "[lua(GetLocalizedString(\"Common\", \"Common_Theme_RainbowForest\"))] [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Potion\"))], [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Candy\"))]",
+   "36": "[lua(GetLocalizedString(\"Common\", \"Common_Theme_StarSeaCave\"))] [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Potion\"))], [lua(GetLocalizedString(\"UI\", \"MuseumDonation_MainCategory_Candy\"))]"
+  },
+  "202903": {
+   "33": "[lua(GetLocalizedString(\"Encyclopedia\", \"Reaver_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"CaveLizard_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"MushroomWallPlants_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Tails_Name\"))], [lua(GetLocalizedString(\"Item\", \"SlippyGrapefruit_Name\"))], [lua(GetLocalizedString(\"Item\", \"RainbowRock_Name\"))]",
+   "34": "[lua(GetLocalizedString(\"Item\", \"SloshLemon_Name\"))], [lua(GetLocalizedString(\"Item\", \"RainbowBranch_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Bellody_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Kirby_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Uru_Name\"))]",
+   "35": "[lua(GetLocalizedString(\"Encyclopedia\", \"LeafOtter_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"CloudFlower_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"StoneCrocodile_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"BeeMoth_Name\"))], [lua(GetLocalizedString(\"Item\", \"HoneycombPiece_Name\"))], [lua(GetLocalizedString(\"Item\", \"Raspberry_Name\"))]",
+   "46": "[lua(GetLocalizedString(\"Item\", \"RainbowMud_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"Moondelion_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"FurBall_Name\"))], [lua(GetLocalizedString(\"Encyclopedia\", \"JingleBug_Name\"))]"
+  },
+  "202904": {
+   "28": "[lua(GetLocalizedString(\"Item\", \"Fish_Veyobeta_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Weak_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Leaf_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Rgb_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Stone_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Hello_Name\"))]",
+   "29": "[lua(GetLocalizedString(\"Item\", \"Fish_NoEndure_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Gloomy_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_YoungCat_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Rainbow_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Silks_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_RockEel_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Angel_Name\"))]",
+   "35": "[lua(GetLocalizedString(\"Item\", \"Fish_Cantsee_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_SalmonTuna_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_BigHead_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Gwitch_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Leather_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Fat_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Doctor_Name\"))]",
+   "36": "[lua(GetLocalizedString(\"Item\", \"Fish_BigFist_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Murchin_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Adult_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_BroomStick_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_CloudSalmon_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_DarkMud_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Mdefense_Name\"))]",
+   "37": "[lua(GetLocalizedString(\"Item\", \"Fish_HardLobster_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Vwitch_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Piranha_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Sorry_Name\"))]",
+   "38": "[lua(GetLocalizedString(\"Item\", \"Fish_Vurchin_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_CoralCrab_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Gangs_Name\"))]",
+   "39": "[lua(GetLocalizedString(\"Item\", \"Fish_OldCat_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_PuffyCloud_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Axe_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Tackle_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_VbigHead_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Transparency_Name\"))]",
+   "40": "[lua(GetLocalizedString(\"Item\", \"Fish_Deviyark_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Driftscale_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Candybelle_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_AquaTail_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Lumineon_Name\"))]",
+   "41": "[lua(GetLocalizedString(\"Item\", \"Fish_CrownCrab_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_StarlitUrchin_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_SparkleFin_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Ponglin_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_SilverLet_Name\"))]",
+   "42": "[lua(GetLocalizedString(\"Item\", \"Fish_Ironmaw_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Nokyeomo_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Skyfin_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Goldmoontail_Name\"))]",
+   "43": "[lua(GetLocalizedString(\"Item\", \"Fish_Switch_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Violuna_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_OreEel_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Starflutter_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Nebulune_Name\"))], [lua(GetLocalizedString(\"Item\", \"Fish_Noctilux_Name\"))]"
+  },
+  "202905": {
+   "17": "...",
+   "35": "..."
+  },
+  "202906": {
+   "20": "...",
+   "43": "..."
+  },
+  "202907": {
+   "11": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "22": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "27": "..."
+  },
+  "202911": {
+   "22": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "26": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "31": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "8": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "204207": {
+   "7": "...",
+   "8": "..."
+  },
+  "204210": {
+   "30": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "41": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "209308": {
+   "58": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]"
+  },
+  "21": {
+   "8": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Enite\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "2100": {
+   "35": "<Calling Delivery service>",
+   "75": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "76": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "2101": {
+   "35": "<Calling Delivery service>",
+   "75": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "76": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "214601": {
+   "42": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "9": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "214603": {
+   "15": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "4": "...",
+   "8": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "214605": {
+   "3": "..."
+  },
+  "214606": {
+   "7": "..."
+  },
+  "214607": {
+   "2": "..."
+  },
+  "214618": {
+   "7": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "9": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "214901": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "214903": {
+   "6": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "7": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "218114": {
+   "9": "..."
+  },
+  "225": {
+   "20": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "48": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "225105": {
+   "116": "...",
+   "127": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]",
+   "128": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]",
+   "48": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]",
+   "78": "[lua(GetLocalizedString(\"Choice\", \"Cancel\"))]"
+  },
+  "228901": {
+   "6": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "7": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "2304": {
+   "8": "..."
+  },
+  "2305": {
+   "21": "..."
+  },
+  "23100": {
+   "14": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "20": "...",
+   "37": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "38": "[lua(GetLocalizedString(\"Choice\", \"RequestDecline\"))]",
+   "40": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "45": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "47": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "8": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "23102": {
+   "16": "...",
+   "2": "...",
+   "6": "..."
+  },
+  "23104": {
+   "10": "...",
+   "21": "...",
+   "5": "..."
+  },
+  "23105": {
+   "67": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Roy\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "2319": {
+   "5": "..."
+  },
+  "2322": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "2324": {
+   "15": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "18": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "235605": {
+   "10": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "12": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "16": ".......",
+   "19": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "20": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "23": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "24": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "235610": {
+   "5": "..."
+  },
+  "2400": {
+   "11": "...",
+   "5": "..."
+  },
+  "2401": {
+   "3": "<Calling Delivery service>"
+  },
+  "241": {
+   "12": "[lua(GetLocalizedString(\"Choice\", \"Together_Yes\"))]",
+   "13": "[lua(GetLocalizedString(\"Choice\", \"Together_No\"))]",
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "2410": {
+   "58": "..."
+  },
+  "2508": {
+   "7": "[lua(GetLocalizedString(\"Item\", \"MoonTear_Name\"))]."
+  },
+  "2509": {
+   "6": "..."
+  },
+  "2510": {
+   "26": "...",
+   "31": "...",
+   "4": "...",
+   "47": "...",
+   "55": "...",
+   "57": "[em1][lua(GetLocalizedString(\"Item\", \"ForgetMeNotTea_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "59": "..."
+  },
+  "2511": {
+   "16": "...",
+   "17": "...?",
+   "2": "[em1][lua(GetLocalizedString(\"Item\", \"SacredWater_Water_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "41": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "47": "<shake>...</shake>"
+  },
+  "2517": {
+   "23": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "24": "[em1][lua(GetLocalizedString(\"Item\", \"ForgetMeNot_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "2518": {
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "5": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "252": {
+   "32": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "33": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "2609": {
+   "24": "[lua(GetLocalizedString(\"Item\", \"WitchTaxiTicket_Name\"))]",
+   "301": "[lua(GetLocalizedString(\"Common\", \"EncyclopediaRank\"))]"
+  },
+  "2613": {
+   "35": "<Calling Delivery service>",
+   "70": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "71": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "278": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "2903": {
+   "19": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "2911": {
+   "19": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "296": {
+   "39": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "40": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "74": "[lua(GetLocalizedString(\"Choice\", \"Together_Yes\"))]",
+   "75": "[lua(GetLocalizedString(\"Choice\", \"Together_No\"))]"
+  },
+  "3000": {
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "3001": {
+   "10": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "40": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "41": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "42": "[em1][lua(GetLocalizedString(\"Item\", \"RainbowBranch_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]",
+   "9": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]"
+  },
+  "304": {
+   "3": "..."
+  },
+  "30601": {
+   "13": "..."
+  },
+  "3100": {
+   "56": "[em1][lua(GetLocalizedString(\"Item\", \"HoneyBearDoll_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "3110": {
+   "27": "...",
+   "45": "[em1][lua(GetLocalizedString(\"Item\", \"SewingBox_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]",
+   "51": "[em1][lua(GetLocalizedString(\"Item\", \"HoneyBearDoll_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "3111": {
+   "52": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "64": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "3116": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "3135": {
+   "12": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "13": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "16": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "17": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "8": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "9": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "314": {
+   "3": "..."
+  },
+  "31504": {
+   "1": "[em1][lua(GetLocalizedString(\"Item\", \"RealFlowerPotion_Name\"))][/em1]?"
+  },
+  "317": {
+   "6": "[em1][lua(GetLocalizedString(\"Common\", \"Ritoring\"))][/em1]?"
+  },
+  "32001": {
+   "23": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "3202": {
+   "1": "..."
+  },
+  "3203": {
+   "18": "...",
+   "20": "..."
+  },
+  "3205": {
+   "45": "..."
+  },
+  "32102": {
+   "13": "...",
+   "15": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "38": "...",
+   "5": "...",
+   "53": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "54": "[lua(GetLocalizedString(\"Choice\", \"RequestDecline\"))]",
+   "7": "..."
+  },
+  "32106": {
+   "41": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "43": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "32108": {
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "5": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "32113": {
+   "14": "..."
+  },
+  "32114": {
+   "15": "...",
+   "21": "...",
+   "25": "...",
+   "38": "...",
+   "40": "...",
+   "52": "...",
+   "58": "...",
+   "70": "..."
+  },
+  "32115": {
+   "18": "...",
+   "20": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Roy\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "333": {
+   "47": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rosie\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "337": {
+   "20": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "21": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "3411": {
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "6": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "9": "[em1][lua(GetLocalizedString(\"Item\", \"SunlightPotion_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]"
+  },
+  "3414": {
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "6": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "3415": {
+   "13": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "15": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "344": {
+   "102": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arden\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "37": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "38": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "34801": {
+   "19": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "34803": {
+   "19": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "34805": {
+   "18": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "36": {
+   "20": "...",
+   "23": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arden\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "360": {
+   "10": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "11": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "8": "..."
+  },
+  "3602": {
+   "5": "?"
+  },
+  "36702": {
+   "85": "..."
+  },
+  "376": {
+   "37": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "38": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "377": {
+   "107": "...",
+   "37": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "38": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "47": "..."
+  },
+  "37800": {
+   "5": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "8": "[lua(GetLocalizedString(\"Choice\", \"No\"))]\r"
+  },
+  "3802": {
+   "4": "<Calling Delivery service>",
+   "9": "[em1][lua(GetLocalizedString(\"Item\", \"DejavuCandyRecipe_Name\"))][/em1]"
+  },
+  "3803": {
+   "11": "[em1][lua(GetLocalizedString(\"Item\", \"CryingCandyRecipe_Name\"))][/em1]",
+   "4": "<Calling Delivery service>",
+   "9": "[em1][lua(GetLocalizedString(\"Item\", \"AntidoteCandyRecipe_Name\"))][/em1],"
+  },
+  "3804": {
+   "10": "[em1][lua(GetLocalizedString(\"Item\", \"GrandmaWisdomCandyRecipe_Name\"))][/em1],",
+   "12": "[em1][lua(GetLocalizedString(\"Item\", \"EnduranceUpCandyRecipe_Name\"))][/em1],",
+   "14": "[em1][lua(GetLocalizedString(\"Item\", \"SweetDreamCandyRecipe_Name\"))][/em1]",
+   "5": "<Calling Delivery service>"
+  },
+  "3828": {
+   "13": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "23": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "24": "[em1][lua(GetLocalizedString(\"Item\", \"HoneyBearLetterKey_Complete_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "389": {
+   "15": "..."
+  },
+  "399": {
+   "10": "..."
+  },
+  "407": {
+   "27": "[em1][lua(GetLocalizedString(\"Item\", \"IntUpPotion_Name\"))][/em1]!"
+  },
+  "408": {
+   "32": "...",
+   "34": "...",
+   "35": "...?"
+  },
+  "4113": {
+   "10": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "12": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "4202": {
+   "34": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "47": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "54": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "68": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "4204": {
+   "2": "..."
+  },
+  "42501": {
+   "20": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "27": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "4300": {
+   "19": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "21": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "5": "..."
+  },
+  "4313": {
+   "1": "<Workplace Notice>"
+  },
+  "4316": {
+   "8": "...",
+   "9": "..."
+  },
+  "435": {
+   "8": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "9": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "4400": {
+   "25": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "59": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "65": "[em1][lua(GetLocalizedString(\"Choice\", \"FullBagByEllie\"))][/em1]"
+  },
+  "444": {
+   "50": "<Mud Shoes>"
+  },
+  "447": {
+   "1": "<Life with Mushrooms>"
+  },
+  "4500": {
+   "14": "...",
+   "40": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "79": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "452": {
+   "14": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "15": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "455": {
+   "123": "..."
+  },
+  "456": {
+   "95": "..."
+  },
+  "4603": {
+   "15": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "9": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "462": {
+   "21": "[em1][lua(GetLocalizedString(\"Item\", \"CurseWatchCandy_Name\"))][/em1]?"
+  },
+  "4624": {
+   "17": "<rainb>[lua(GetLocalizedString(\"Item\", \"ColourfulPotion_Name\"))]!</rainb>"
+  },
+  "4634": {
+   "8": "..."
+  },
+  "465": {
+   "43": "..."
+  },
+  "46501": {
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "7": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "8": "[em1][lua(GetLocalizedString(\"Item\", \"LetterFromChildren_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "46502": {
+   "16": "..."
+  },
+  "46602": {
+   "15": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "16": "[lua(GetLocalizedString(\"Choice\", \"No\"))]\r",
+   "17": "[lua(GetLocalizedString(\"Choice\", \"RequestDecline\"))]"
+  },
+  "46604": {
+   "10": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "11": "[lua(GetLocalizedString(\"Choice\", \"RequestDecline\"))]",
+   "7": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "467": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "34": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "35": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "61": "...",
+   "66": "...",
+   "67": "......"
+  },
+  "476": {
+   "2": "...",
+   "21": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "22": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "4800": {
+   "108": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "47": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "66": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "73": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "48001": {
+   "17": "..."
+  },
+  "48003": {
+   "1": "..."
+  },
+  "48008": {
+   "5": "[em1][lua(GetLocalizedString(\"Item\", \"BartenderLetter_Name\"))][/em1], [em1][lua(GetLocalizedString(\"Item\", \"SeedOfWisteria_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "48009": {
+   "13": "...",
+   "14": "...",
+   "77": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "79": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "48016": {
+   "5": "[em1][lua(GetLocalizedString(\"Item\", \"ParadeFlag_Name\"))][/em1], [em1][lua(GetLocalizedString(\"Item\", \"SeedOfWisteria_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "48017": {
+   "71": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "73": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "48029": {
+   "33": "..."
+  },
+  "48031": {
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "5": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "48700": {
+   "15": "[em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]...",
+   "4": "<Waiting for a gift>"
+  },
+  "48701": {
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Alvin\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "6": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Alvin\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "48800": {
+   "15": "[em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]...?",
+   "4": "<Waiting for a gift>"
+  },
+  "48801": {
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arden\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "6": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arden\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "48900": {
+   "4": "<Waiting for a gift>"
+  },
+  "48901": {
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arin\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "6": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arin\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "4900": {
+   "8": "<Repair UI>"
+  },
+  "49200": {
+   "4": "<Waiting for a gift>"
+  },
+  "49400": {
+   "17": "[em1][lua(GetLocalizedString(\"Item\", presentID))][/em1]...",
+   "4": "<Waiting for a gift>"
+  },
+  "496": {
+   "5": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "6": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "49600": {
+   "4": "<Waiting for a gift>"
+  },
+  "49800": {
+   "4": "<Waiting for a gift>"
+  },
+  "49801": {
+   "6": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Enite\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "7": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Enite\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "499": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "500": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "50000": {
+   "4": "<Waiting for a gift>"
+  },
+  "50001": {
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Kyla\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "6": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Kyla\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "50100": {
+   "17": "[em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]...?",
+   "4": "<Waiting for a gift>"
+  },
+  "50101": {
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rex\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "6": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rex\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "50300": {
+   "4": "<Waiting for a gift>"
+  },
+  "50301": {
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Roy\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "6": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Roy\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "50400": {
+   "4": "<Waiting for a gift>"
+  },
+  "50401": {
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rubrum\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "6": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rubrum\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "50500": {
+   "4": "<Waiting for a gift>"
+  },
+  "50700": {
+   "17": "[em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]?",
+   "4": "<Waiting for a gift>"
+  },
+  "50701": {
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Vinch\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "6": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Vinch\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "508": {
+   "15": "[lua(GetLocalizedString(\"Item\", \"GlueCandy_Name\"))]!"
+  },
+  "510": {
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "5": "[lua(GetLocalizedString(\"Choice\", \"No\"))]\r"
+  },
+  "515": {
+   "20": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "21": "[lua(GetLocalizedString(\"Choice\", \"No\"))]\r"
+  },
+  "517": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"No\"))]\r"
+  },
+  "5200": {
+   "74": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "76": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "524": {
+   "12": "...",
+   "8": "..."
+  },
+  "527": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "21": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "5300": {
+   "5": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "6": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "53202": {
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "30": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "533": {
+   "3": "...",
+   "5": "..."
+  },
+  "539": {
+   "15": "...",
+   "16": "...",
+   "28": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "29": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "5400": {
+   "31": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "35": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "37": "[lua(GetLocalizedString(\"Choice\", \"FullBagByEllie\"))]"
+  },
+  "5401": {
+   "47": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Enite\"))]",
+   "53": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rubrum\"))]",
+   "59": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arden\"))]",
+   "65": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Roy\"))]",
+   "72": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "84": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "5411": {
+   "26": "..."
+  },
+  "5412": {
+   "12": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))]",
+   "26": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "27": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))]",
+   "30": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "5": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))]",
+   "6": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5413": {
+   "11": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "12": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))]",
+   "15": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "16": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))]",
+   "28": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "6": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))]"
+  },
+  "5414": {
+   "18": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "19": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))]",
+   "24": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "25": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))]",
+   "29": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "5": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))]"
+  },
+  "5415": {
+   "10": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))]",
+   "13": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "14": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))]",
+   "18": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "5": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))]",
+   "9": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5416": {
+   "10": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "11": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))]",
+   "13": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "14": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))]",
+   "16": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "5": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))]"
+  },
+  "5417": {
+   "10": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))]",
+   "11": "...",
+   "16": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "17": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))]",
+   "19": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "6": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))]",
+   "9": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5418": {
+   "10": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "11": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))]",
+   "14": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "2": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))]",
+   "6": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "7": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))]"
+  },
+  "5419": {
+   "10": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))]",
+   "14": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Yellow_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "2": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))]",
+   "5": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Red_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "6": "[lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))]",
+   "9": "[em1][lua(GetLocalizedString(\"Item\", \"BradsLetter_Blue_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "542": {
+   "15": "...",
+   "30": "..."
+  },
+  "5430": {
+   "28": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "62": "[lua(GetLocalizedString(\"Choice\", \"FullBagByEllie\"))]",
+   "63": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "64": "[em1][lua(GetLocalizedString(\"Item\", \"ThornlessRosePiece_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5431": {
+   "8": "..."
+  },
+  "5432": {
+   "5": "...",
+   "7": "..."
+  },
+  "5433": {
+   "9": "..."
+  },
+  "5440": {
+   "52": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "57": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "58": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "5443": {
+   "42": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "43": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "5445": {
+   "11": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5446": {
+   "15": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5447": {
+   "13": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5448": {
+   "14": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5449": {
+   "14": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5450": {
+   "13": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5451": {
+   "16": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5452": {
+   "13": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5453": {
+   "13": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5454": {
+   "13": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5455": {
+   "13": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5456": {
+   "13": "[em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5459": {
+   "21": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "22": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "5460": {
+   "15": "..."
+  },
+  "549": {
+   "36": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "37": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "57": "...",
+   "58": "..."
+  },
+  "5500": {
+   "61": "..."
+  },
+  "5503": {
+   "23": "...",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "62": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "551": {
+   "130": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "131": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "557": {
+   "75": "?"
+  },
+  "5602": {
+   "25": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "564": {
+   "9": "..."
+  },
+  "57": {
+   "32": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "33": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "571": {
+   "12": "...",
+   "56": "..."
+  },
+  "575": {
+   "19": "...",
+   "27": "[lua(GetLocalizedString(\"Encyclopedia\", \"FlowerBird_Name\"))]",
+   "28": "[lua(GetLocalizedString(\"Encyclopedia\", \"Pompom_Name\"))]"
+  },
+  "576": {
+   "127": "[lua(GetLocalizedString(\"Choice\", \"FullBag\"))]",
+   "158": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Roy\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "70": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "71": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "98": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "99": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "5800": {
+   "12": "...",
+   "29": "...?",
+   "30": "...",
+   "46": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "70": "...",
+   "72": "...",
+   "86": "...",
+   "89": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "93": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "97": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "98": "[em1][lua(GetLocalizedString(\"Item\", \"DiaryOfBrave_Name\"))][/em1], [em1][lua(GetLocalizedString(\"Item\", \"AccessoryOfBrave_Name\"))][/em1], [em1][lua(GetLocalizedString(\"Item\", \"CurseWatchCandy_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5802": {
+   "56": "[em1][lua(GetLocalizedString(\"Item\", \"DiaryOfBrave_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5806": {
+   "4": "..."
+  },
+  "5811": {
+   "10": "[em1][lua(GetLocalizedString(\"Item\", \"Roy'sFastGrowSeed_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "5814": {
+   "11": "...",
+   "112": "...",
+   "116": "...",
+   "120": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arden\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "43": "...",
+   "46": "...",
+   "6": "...",
+   "61": "...",
+   "91": "..."
+  },
+  "5820": {
+   "4": "...",
+   "54": "...",
+   "7": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "70": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "75": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "79": "...",
+   "80": "...",
+   "82": "...",
+   "91": "...",
+   "98": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "5823": {
+   "6": "[lua(GetLocalizedString(\"Choice\", \"FullBagByEllie\"))]"
+  },
+  "583": {
+   "2": "[lua(GetLocalizedString(\"Item\", \"GoldRosemary_Name\"))]"
+  },
+  "5834": {
+   "22": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "5838": {
+   "4": "[lua(GetLocalizedString(\"Choice\", \"FullBagByEllie\"))]"
+  },
+  "5840": {
+   "12": "...",
+   "6": "..."
+  },
+  "5843": {
+   "3": "[lua(GetLocalizedString(\"Choice\", \"FullBagByEllie\"))]"
+  },
+  "5846": {
+   "9": "..."
+  },
+  "5852": {
+   "38": "...",
+   "39": "..."
+  },
+  "5853": {
+   "16": "...",
+   "17": "...",
+   "2": "..."
+  },
+  "5855": {
+   "33": "...",
+   "34": "...",
+   "43": "...",
+   "59": "...",
+   "72": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arden\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "586": {
+   "17": "[lua(GetLocalizedString(\"EffectFoodCommon\", \"BeefStew_Name\"))]",
+   "8": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arden\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "5861": {
+   "4": "..."
+  },
+  "5862": {
+   "7": "..."
+  },
+  "59100": {
+   "26": "...",
+   "27": "..."
+  },
+  "59300": {
+   "13": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "14": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "59700": {
+   "34": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "35": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "6000": {
+   "11": "...",
+   "20": "...",
+   "29": "...",
+   "31": "[lua(GetLocalizedString(\"Common\", \"Common_Theme_StarSeaCave\"))]...",
+   "33": "..."
+  },
+  "6011": {
+   "10": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "6030": {
+   "20": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "21": "[em1][lua(GetLocalizedString(\"Item\", \"ColourfulPotion_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "6043": {
+   "1": "..."
+  },
+  "60923": {
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "6": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "60924": {
+   "13": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "15": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "18": "[em1][lua(GetLocalizedString(\"Item\", \"SunlightPotion_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]"
+  },
+  "60932": {
+   "7": "..."
+  },
+  "60934": {
+   "5": "...",
+   "90": "..."
+  },
+  "6101": {
+   "2": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "40": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "53": "[em1][lua(GetLocalizedString(\"Item\", \"Catbowl_Name\"))][/em1][lua(GetLocalizedString(\"Choice\", \"NotHaveItem\"))]"
+  },
+  "61301": {
+   "31": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "4": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "61700": {
+   "16": "...",
+   "2": "..."
+  },
+  "6202": {
+   "16": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "21": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "63200": {
+   "15": "...",
+   "19": "...",
+   "20": "...",
+   "26": "...",
+   "35": "...",
+   "39": "...",
+   "6": "...",
+   "7": "...",
+   "71": "...",
+   "75": "...",
+   "94": "[em1][lua(GetItemName(\"LisaWitchBrooch\"))][/em1][lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "63201": {
+   "114": "...",
+   "65": "...",
+   "91": "..."
+  },
+  "6402": {
+   "25": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r"
+  },
+  "66001": {
+   "24": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Teo\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Teo\"))][lua(GetLocalizedString(\"Choice\", \"Chipchat_Add\"))]"
+  },
+  "6605": {
+   "9": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Clala\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "6606": {
+   "18": "...",
+   "27": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Clala\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]",
+   "89": "..."
+  },
+  "6655": {
+   "8": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Dana\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "6656": {
+   "26": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Dana\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "7": {
+   "9": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rubrum\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "71701": {
+   "11": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "5": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "72200": {
+   "29": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "33": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "38": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "42": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "72202": {
+   "32": "..."
+  },
+  "72207": {
+   "7": "..."
+  },
+  "72209": {
+   "27": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "3": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "72210": {
+   "16": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "7": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "73315": {
+   "111": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "135": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arin\"))]",
+   "141": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Vinch\"))]",
+   "147": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Alvin\"))]",
+   "208": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rex\"))]",
+   "223": "...",
+   "228": "...!",
+   "270": "...",
+   "59": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arin\"))]",
+   "60": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Vinch\"))]",
+   "61": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Alvin\"))]",
+   "62": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rex\"))]",
+   "78": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "85": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "90": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "73701": {
+   "7": "..."
+  },
+  "74900": {
+   "14": "..."
+  },
+  "76800": {
+   "36": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "44": "...",
+   "67": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "76804": {
+   "11": "[lua(GetLocalizedString(\"Choice\", \"No\"))]",
+   "17": "[lua(GetLocalizedString(\"Choice\", \"Together_Yes\"))]",
+   "18": "[lua(GetLocalizedString(\"Choice\", \"Together_No\"))]",
+   "7": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]"
+  },
+  "76807": {
+   "17": "..."
+  },
+  "76811": {
+   "49": "...",
+   "50": "..."
+  },
+  "76812": {
+   "142": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Arin\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "76815": {
+   "45": "[lua(GetLocalizedString(\"Item\", \"FirecrackerPotion_2_Name\"))]"
+  },
+  "76816": {
+   "6": "...",
+   "7": "..."
+  },
+  "76817": {
+   "59": "..."
+  },
+  "79500": {
+   "60": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]\r",
+   "61": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "8": {
+   "15": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Rubrum\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]"
+  },
+  "83300": {
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Bjorn\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  },
+  "86800": {
+   "24": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Dana\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Dana\"))][lua(GetLocalizedString(\"Choice\", \"Chipchat_Add\"))]"
+  },
+  "9006": {
+   "10": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Bjorn\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Small\"))]"
+  },
+  "9007": {
+   "26": "...",
+   "3": "...",
+   "39": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Bjorn\"))][lua(GetLocalizedString(\"Choice\", \"FavorabilityUP_Large\"))]",
+   "5": "...",
+   "7": "...",
+   "8": "..."
+  },
+  "92800": {
+   "24": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Clala\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]",
+   "5": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Clala\"))][lua(GetLocalizedString(\"Choice\", \"Chipchat_Add\"))]"
+  },
+  "95058": {
+   "16": "[lua(GetItemName(\"ManaDetectingCandy\"))]?",
+   "24": "[lua(GetItemName(\"BoomPotion\"))]?"
+  },
+  "95061": {
+   "6": "[em1][lua(GetItemName(\"PolarisPotion_Materials_0#Important\"))][/em1]... [em1][lua(GetItemName(\"PolarisPotion_Materials_1#Important\"))][/em1]... [em1][lua(GetItemName(\"PolarisPotion_Materials_2#Important\"))][/em1]...?"
+  },
+  "95072": {
+   "103": "...",
+   "12": "...",
+   "121": "...",
+   "133": "...",
+   "147": "..."
+  },
+  "97000": {
+   "25": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]",
+   "33": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]"
+  },
+  "97001": {
+   "12": "[lua(GetLocalizedString(\"Choice\", \"Decline\"))]",
+   "6": "[lua(GetLocalizedString(\"Choice\", \"Accept\"))]"
+  },
+  "97004": {
+   "13": "[lua(GetLocalizedString(\"Choice\", \"Yes\"))]",
+   "21": "[lua(GetLocalizedString(\"Choice\", \"No\"))]"
+  },
+  "97011": {
+   "29": "...",
+   "8": "..."
+  },
+  "97017": {
+   "22": "...",
+   "27": "...",
+   "50": "[lua(GetLocalizedString(\"InteractableObject\", \"People_Teo\"))][lua(GetLocalizedString(\"Choice\", \"AboutYou_Add\"))]"
+  }
+ }
+}

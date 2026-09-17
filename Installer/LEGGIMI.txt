@@ -1,0 +1,69 @@
+Little Witch in the Woods in italiano
+=====================================
+
+Traduzione amatoriale non ufficiale, di Liuk Noceda (Luca Nasi).
+Non è approvata né sostenuta da Sunny Side Up.
+
+
+COME SI USA
+-----------
+
+1. Chiudi il gioco, se è aperto.
+2. Avvia  LittleWitchInItaliano.exe
+3. Il gestore cerca il gioco da solo. Se non lo trova, premi "Cambia..."
+   e indica la cartella che contiene LWIW.exe.
+4. Premi "Installa la traduzione".
+5. Avvia il gioco, vai in  Impostazioni -> Lingua -> Italiano.
+6. CHIUDI E RIAPRI IL GIOCO: la lingua si applica al riavvio.
+
+Serve .NET Desktop Runtime 8. Se manca, il gestore non parte: si scarica
+da  https://dotnet.microsoft.com/download/dotnet/8.0/runtime
+(la versione con installer per Windows x64, "Desktop Runtime").
+
+
+COME SI TOGLIE
+--------------
+
+Riapri il gestore e premi "Rimuovi". Torna tutto come prima: vengono
+tolti il plugin, i testi italiani e — se non usi altre mod — anche
+BepInEx. La lingua del gioco viene rimessa su inglese.
+
+
+COSA FA, IN CONCRETO
+--------------------
+
+Nessun file del gioco viene modificato o sostituito. Vengono solo
+AGGIUNTI:
+
+  winhttp.dll, doorstop_config.ini, .doorstop_version, changelog.txt
+  BepInEx\                              (il caricatore di mod)
+  BepInEx\plugins\LiukNoceda\           (il plugin e i testi italiani)
+
+Il plugin registra l'italiano come lingua in più all'avvio e mette i
+testi tradotti in memoria. Le partite salvate non vengono toccate.
+
+
+LA CARTELLA "PAYLOAD"
+---------------------
+
+Accanto all'eseguibile c'è una cartella Payload con BepInEx, il plugin e
+tutti i testi. Serve: se sposti solo il .exe, il gestore non ha niente da
+installare e te lo dice.
+
+
+SE QUALCOSA NON VA
+------------------
+
+Nel gestore, "Controlla il log del gioco" legge il log di BepInEx e dice
+se il plugin è partito davvero e se i dialoghi sono stati innestati.
+Il log completo sta in
+
+  <cartella del gioco>\BepInEx\LogOutput.log
+
+
+STATO DELLA TRADUZIONE
+----------------------
+
+Interfaccia: completa.
+Dialoghi: in corso. Quello che manca resta in inglese, il gioco resta
+perfettamente giocabile.

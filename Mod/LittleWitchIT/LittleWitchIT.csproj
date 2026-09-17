@@ -1,0 +1,95 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>LittleWitchItalian</AssemblyName>
+    <RootNamespace>LiukNoceda.LittleWitchItalian</RootNamespace>
+    <Version>0.1.0</Version>
+    <LangVersion>latest</LangVersion>
+    <NoWarn>$(NoWarn);CS0649;CS0169</NoWarn>
+
+    <!-- Dove sta il gioco. Nell'ordine: -p:GiocoDir=..., la variabile d'ambiente
+         LWIW_GIOCO, il percorso usato per lo sviluppo. Stessa catena di tools/lwiw.py. -->
+    <GiocoDir Condition="'$(GiocoDir)' == ''">$(LWIW_GIOCO)</GiocoDir>
+    <GiocoDir Condition="'$(GiocoDir)' == ''">C:\Games\Little Witch in the Woods</GiocoDir>
+    <GameManaged>$(GiocoDir)\LWIW_Data\Managed</GameManaged>
+
+    <!-- BepInEx si prende da Mod\_refs, non dal gioco: altrimenti per compilare il
+         plugin servirebbe un gioco gia' moddato. -->
+    <BepInExCore>$(MSBuildThisFileDirectory)..\_refs\BepInEx-core</BepInExCore>
+  </PropertyGroup>
+
+  <!-- BepInEx: le stesse DLL che gireranno a runtime -->
+  <ItemGroup>
+    <Reference Include="BepInEx">
+      <HintPath>$(BepInExCore)\BepInEx.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>$(BepInExCore)\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <!-- DLL del gioco: sola lettura, nessuna copia in output -->
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>$(GameManaged)\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(GameManaged)\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <!-- Unity Localization: il sistema che regge i testi dell'interfaccia -->
+    <Reference Include="Unity.Localization">
+      <HintPath>$(GameManaged)\Unity.Localization.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.LocalizationModule">
+      <HintPath>$(GameManaged)\UnityEngine.LocalizationModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <!-- Addressables: AsyncOperationHandle e ResourceManager -->
+    <Reference Include="Unity.ResourceManager">
+      <HintPath>$(GameManaged)\Unity.ResourceManager.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Unity.Addressables">
+      <HintPath>$(GameManaged)\Unity.Addressables.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <!-- Il wrapper del gioco: LocaleManager, LocalizationSetter -->
+    <Reference Include="SunnySideUp.Localization">
+      <HintPath>$(GameManaged)\SunnySideUp.Localization.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Settings">
+      <HintPath>$(GameManaged)\SunnySideUp.UI.Settings.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <!-- Font: serve per la diagnostica sugli accenti -->
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>$(GameManaged)\Unity.TextMeshPro.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreTextEngineModule">
+      <HintPath>$(GameManaged)\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <!-- Dialogue System (PixelCrushers): i dialoghi, il 78% del testo -->
+    <Reference Include="DialogueSystem">
+      <HintPath>$(GameManaged)\DialogueSystem.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="PixelCrushers">
+      <HintPath>$(GameManaged)\PixelCrushers.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>$(GameManaged)\Newtonsoft.Json.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,187 @@
+{
+ "conversazioni": {
+  "128": {
+   "7": "<shake>Craa!</shake>",
+   "8": "<shake>Craa!</shake>"
+  },
+  "141": {
+   "5": "<shake> Craa!</shake> Sputa il rospo!"
+  },
+  "159100": {
+   "6": "Il regolamento delle Ferrovie Brightman ci vieta di accettare oggetti dei passeggeri."
+  },
+  "181": {
+   "4": "Occupato! <shake>Craa!</shake> Niente chiacchiere! <shake>Craa!</shake>"
+  },
+  "183": {
+   "7": "Massima riservatezza! <shake>Craa!</shake> Segreto! <shake>Craa!</shake>"
+  },
+  "184": {
+   "2": "Non so! <shake>Craa!</shake>"
+  },
+  "197": {
+   "1": "Uh, che schifo di sapore.",
+   "3": "Che ne dici se adesso vado a dormire?",
+   "4": "Non la puoi più usare."
+  },
+  "199": {
+   "1": "La Terra è rotonda.",
+   "19": "L'antica lingua delle streghe è semplice.",
+   "20": "Lacrime di luna",
+   "21": "Un [lua(GetLocalizedString(\"Encyclopedia\", \"MoonFlower_Name\"))] e una tazza di [lua(GetLocalizedString(\"Item\", \"SacredWater_Water_Name\"))].",
+   "22": "Aggiungi l'acqua sacra al succo di [lua(GetLocalizedString(\"Encyclopedia\", \"MoonFlower_Name\"))] e scalda a fuoco basso mescolando in senso orario finché non bolle.",
+   "23": "È più semplice di quanto pensassi.",
+   "24": "Aspetta, c'è ancora scritto qualcosa.",
+   "25": "Ehm... fu creata... perché era difficile da gestire con l'[lua(GetLocalizedString(\"Item\", \"MoonOil_Name\"))]...?",
+   "26": "Direi che l'effetto sta passando.",
+   "27": "Però la cosa importante l'ho presa.",
+   "28": "Non riesco più a leggere.",
+   "29": "Ma l'acqua sacra...? Dove la troviamo?",
+   "3": "Molecola",
+   "30": "Di solito si trova nei santuari e in posti simili, ma qui credo che si debba comprare da Diane.",
+   "31": "Bene, il [lua(GetLocalizedString(\"Encyclopedia\", \"MoonFlower_Name\"))] ce l'abbiamo: appena avremo l'acqua sacra la prepariamo subito.",
+   "37": "Allora? Ti senti un po' più intelligente?",
+   "38": "La Terra è rotonda.",
+   "39": "La Terra è piatta.",
+   "40": "Se è rotonda, come fanno le persone sotto o ai lati a restare in piedi?",
+   "41": "Perché la Terra attira a sé gli oggetti che le stanno sopra.",
+   "42": "E il motivo per cui nasce questa forza è...",
+   "43": "Piantala con le sciocchezze e leggi l'appunto finché fa effetto.",
+   "44": "Anche se non so mica se sei diventata davvero intelligente...",
+   "46": "Troviamo l'appunto e leggiamo che cosa dice.",
+   "47": "L'antica lingua delle streghe è semplice.",
+   "48": "Lacrime di luna",
+   "49": "Un [lua(GetLocalizedString(\"Encyclopedia\", \"MoonFlower_Name\"))] e una tazza di [lua(GetLocalizedString(\"Item\", \"SacredWater_Water_Name\"))].",
+   "50": "Aggiungi l'acqua sacra al succo di [lua(GetLocalizedString(\"Encyclopedia\", \"MoonFlower_Name\"))] e scalda a fuoco basso mescolando in senso orario finché non bolle.",
+   "51": "È più semplice di quanto pensassi.",
+   "52": "Aspetta, c'è ancora scritto qualcosa.",
+   "53": "Ehm... fu creata... perché era difficile da gestire con l'[lua(GetLocalizedString(\"Item\", \"MoonOil_Name\"))]...?",
+   "54": "Direi che l'effetto sta passando.",
+   "55": "Però la cosa importante l'ho presa.",
+   "56": "Non riesco più a leggere.",
+   "57": "Ma l'acqua sacra...? Dove la troviamo?",
+   "58": "Di solito si trova nei santuari e in posti simili, ma qui credo che si debba comprare da Diane.",
+   "59": "Bene, il [lua(GetLocalizedString(\"Encyclopedia\", \"MoonFlower_Name\"))] ce l'abbiamo: appena avremo l'acqua sacra la prepariamo subito.",
+   "62": "Troviamo l'appunto e leggiamo che cosa dice.",
+   "63": "E non sapevo che ci fosse una [em1]ricetta[/em1] che dà [em1]3 bottiglie[/em1] di questa pozione.",
+   "64": "E non sapevo che ci fosse una [em1]ricetta[/em1] che dà [em1]3 bottiglie[/em1] di questa pozione.",
+   "7": "Ti sembra di essere diventata più intelligente?",
+   "8": "In che senso più intelligente?",
+   "9": "La pozione funziona di sicuro."
+  },
+  "209308": {
+   "64": "Acquista"
+  },
+  "2104": {
+   "3": "Per presentare un reclamo, segua la procedura.",
+   "4": "Durante il servizio le chiacchiere sono vietate."
+  },
+  "214900": {
+   "1": "Bene, l'[em1][lua(GetLocalizedString(\"Common\", \"Energy\"))] massima[/em1] è aumentata. Posso raccogliere più cose ogni giorno."
+  },
+  "214901": {
+   "1": "La ricompensa sarà in [em1]Monete Lunari[/em1]. Vuoi usare l'oggetto?",
+   "4": "Hai ricevuto [em1]100 Monete Lunari[/em1] come ricompensa.",
+   "5": "L'[em1][lua(GetLocalizedString(\"Common\", \"Energy\"))][/em1] è già al [em1]livello massimo[/em1]. Non puoi aumentarla oltre."
+  },
+  "214902": {
+   "1": "Bene, adesso che la [em1][lua(GetLocalizedString(\"Common\", \"Stamina\"))] massima[/em1] è aumentata posso correre più a lungo."
+  },
+  "214903": {
+   "5": "La ricompensa sarà in [em1]Monete Lunari[/em1]. Vuoi usare l'oggetto?",
+   "8": "Hai ricevuto [em1]100 Monete Lunari[/em1] come ricompensa.",
+   "9": "La [em1][lua(GetLocalizedString(\"Common\", \"Stamina\"))][/em1] è già al [em1]livello massimo[/em1]. Non puoi aumentarla oltre."
+  },
+  "228900": {
+   "1": "Bene, adesso che lo [em1]spazio nella borsa[/em1] è aumentato posso tenere più oggetti."
+  },
+  "228901": {
+   "10": "Lo [em1]spazio nella borsa[/em1] è già al livello massimo. Non puoi aumentarlo oltre.",
+   "5": "La ricompensa sarà in [em1]Oro[/em1]. Vuoi usare l'oggetto?",
+   "8": "Hai ricevuto [em1]500 Monete d'oro[/em1] come ricompensa.",
+   "9": "Lo [em1]spazio nella borsa è al massimo[/em1]. Non aumenterà oltre."
+  },
+  "2800": {
+   "1": "Bene, la [lua(GetLocalizedString(\"Item\", \"IntUpPotion_Name\"))] è pronta.",
+   "2": "Mi sento già più intelligente!",
+   "3": "E adesso direi che è ora di berla.",
+   "4": "La [lua(GetLocalizedString(\"Item\", \"RememberDreamPotion_Name\"))] è pronta!",
+   "5": "Anche se sa di succo d'uva acerba...",
+   "6": "Devo berla."
+  },
+  "310": {
+   "1": "<shake>Craa!</shake>",
+   "10": "Veramente è la prima volta che vengo qui.",
+   "106": "<shake>Craa!</shake> [em1]<shake>Regalo!</shake>[/em1] ",
+   "109": "Direi che restare qui un po' non fa male.",
+   "11": "[em1]<shake>La Strega Torna!</shake>[/em1]",
+   "110": "Quando?",
+   "111": "[em1]<shake>Chiuso per oggi!</shake>[/em1]",
+   "112": "Così, di colpo?",
+   "113": "Non è facile farsi capire dai corvi delle streghe.",
+   "114": "Mmm, allora tanto vale continuare a cercare il villaggio.",
+   "115": "Non si sa mai quando salterà fuori il Catalogo delle Streghe.",
+   "116": "Restiamo al piano e troviamo il villaggio.",
+   "117": "Lavoro finito! Lavoro finito! <shake>Chiuso per oggi!</shake>",
+   "12": "Non è che ascolti molto, eh?",
+   "13": "Beni e servizi! <shake>Craa!</shake> Beni e servizi! <shake>Catalogo delle Streghe!</shake>",
+   "16": "Il Catalogo delle Streghe!",
+   "17": "Ho sempre voluto provarlo.",
+   "2": "Un corvo?",
+   "20": "Devi dirigerti verso Highlion, signorina.",
+   "21": "Ma non posso mica morire di fame fino al villaggio.",
+   "26": "E poi, una volta trovato il villaggio, ci resterò un po' prima di andare a Highlion.",
+   "3": "[em1]Strega![/em1] <shake>Craa!</shake>",
+   "4": "Ha parlato?",
+   "5": "È un corvo delle streghe.",
+   "6": "Oh, è un corvo delle streghe.",
+   "8": "La Strega torna! La Strega torna!",
+   "80": "Offerta a tempo! Iscriviti subito e ricevi un [em1]regalo[/em1]! <shake>Craa!</shake>",
+   "81": "Prova il [em1]Catalogo delle Streghe[/em1]! Prova il Catalogo delle Streghe!",
+   "82": "Danno anche dei [em1]regali[/em1]! E per di più è un'[em1]offerta a tempo[/em1]!",
+   "83": "Colla multiuso? Accessori da cucina? Un cucchiaio-forchetta?",
+   "84": "In ogni caso, mi serve il [em1]Catalogo delle Streghe[/em1].",
+   "87": "Da loro puoi comprare [em1]ingredienti[/em1] o [em1]ricette di pozioni[/em1].",
+   "88": "Va bene, intanto iscriviamoci.",
+   "89": "Grazie! <shake>Craa!</shake> Grazie! Arriva l'incaricato! <shake>Arriva l'incaricato!</shake>",
+   "90": "<shake>Craa!</shake> [em1]<shake>Arriva l'incaricato!</shake>[/em1] "
+  },
+  "312": {
+   "3": "Non ho bisogno di dormire.",
+   "4": "Devo tornare al treno.",
+   "5": "Prima andiamo al villaggio.",
+   "6": "Prima incontriamo il capo del villaggio, poi ci riposiamo.",
+   "7": "Adesso non è il caso di dormire.",
+   "8": "Non ho ancora sonno.",
+   "9": "Prima devo mettere in ordine qui."
+  },
+  "355": {
+   "5": "Più avanti c'è la sala macchine."
+  },
+  "356": {
+   "1": "Durante il servizio le chiacchiere sono vietate."
+  },
+  "357": {
+   "1": "Sono un addetto delle Ferrovie Brightman.",
+   "2": "Il mio compito è garantire comodità e sicurezza ai passeggeri."
+  },
+  "358": {
+   "1": "Per informazioni sui souvenir della stazione, attenda di essere scesa dal treno."
+  },
+  "400": {
+   "1": "Non controlliamo l'abbigliamento dei passeggeri.",
+   "2": "Anche se non lo controllate, con gli stivali stringati scendere è scomodo.",
+   "3": "I capi che danno fastidio sono così tanti e diversi che non posso elencarli tutti.",
+   "4": "E allora il fatto che scendendo si faccia fatica a togliersi le scarpe?",
+   "5": "Ogni tanto qualche ritardo per via delle scarpe capita, ma anche questo non è disciplinato.",
+   "6": "Quindi non c'è una multa.",
+   "7": "Non è più una questione di reputazione che di multa?"
+  },
+  "421": {
+   "10": "Carica partita",
+   "12": "I progressi non salvati andranno persi. Vuoi caricare l'ultimo salvataggio?",
+   "16": "Che cosa faccio?",
+   "5": "Salva"
+  }
+ }
+}

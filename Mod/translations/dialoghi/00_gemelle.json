@@ -1,0 +1,4252 @@
+{
+ "conversazioni": {
+  "1000": {
+   "1": "Kyla, hai un momento?",
+   "13": "Che c'è?",
+   "27": "Va bene, lo farò."
+  },
+  "1001": {
+   "16": "Salve.",
+   "8": "Bene."
+  },
+  "1002": {
+   "10": "Davvero?",
+   "17": "In quel caso...",
+   "2": "Mmm...",
+   "20": "No.",
+   "23": "Cosa?",
+   "26": "Davvero?",
+   "36": "Sei fantastica.",
+   "38": "Va bene, lo farò.",
+   "46": "Eh?",
+   "52": "Kyla!",
+   "55": "Visto?"
+  },
+  "1004": {
+   "20": "Molto gentile da parte tua.",
+   "7": "Sì."
+  },
+  "1007": {
+   "17": "Ehm...",
+   "5": "Allora...",
+   "8": "Ehm..."
+  },
+  "1008": {
+   "10": "Il modello dell'abitante svanisce e sparisce, poi l'abitante ricompare normalmente",
+   "2": "Battute per quando il personaggio dimentica dopo averlo preso",
+   "6": "Contenuto: andrò a vedere il ponte una volta riparato"
+  },
+  "1010": {
+   "2": "Battute per quando il personaggio dimentica dopo averlo preso",
+   "5": "Contenuto: andrò a vedere il ponte una volta riparato"
+  },
+  "1011": {
+   "12": "Il modello dell'abitante svanisce e sparisce, poi l'abitante ricompare normalmente",
+   "2": "Battute per quando il personaggio dimentica dopo averlo preso",
+   "6": "Contenuto: andrò a vedere il ponte una volta riparato"
+  },
+  "1015": {
+   "12": "Chi?",
+   "13": "Arden.",
+   "15": "Sì.",
+   "44": "No.",
+   "49": "Mmm, direi di sì.",
+   "56": "Uau...",
+   "70": "Va bene, ho capito."
+  },
+  "1016": {
+   "24": "Tutto qui?",
+   "30": "È davvero così buono questo vino?",
+   "60": "Ehm...",
+   "7": "Oh, Ellie."
+  },
+  "1017": {
+   "11": "Che vuoi dire?",
+   "24": "Forse?",
+   "6": "Sì."
+  },
+  "1020": {
+   "10": "Che c'è?"
+  },
+  "1022": {
+   "9": "Bel lavoro, Ellie."
+  },
+  "1027": {
+   "2": "Cos'è questo?"
+  },
+  "1029": {
+   "58": "Cos'è questo?"
+  },
+  "103": {
+   "47": "L'ho trovato! È il cuore del rovo spinoso.",
+   "57": "Devono aver nascosto la chiave della gabbia per uccelli proprio lì.",
+   "58": "Bene. Immagino che ora possiamo aprirla.",
+   "59": "Tracciamo di nuovo il sigillo e apriamo la gabbia per uccelli.",
+   "60": "Usare le [em1][em1][lua(GetLocalizedString(\"Item\", \"MoonTear_Name\"))][/em1][/em1]?"
+  },
+  "1030": {
+   "6": "Bel lavoro, Ellie."
+  },
+  "1031": {
+   "14": "Non ce n'è bisogno."
+  },
+  "1033": {
+   "15": "Ah sì?",
+   "20": "Davvero?"
+  },
+  "1034": {
+   "10": "Davvero?!",
+   "45": "Me?",
+   "55": "Grazie, Rubrum."
+  },
+  "1035": {
+   "9": "Certo."
+  },
+  "1039": {
+   "10": "Che c'è?",
+   "22": "Ottimo."
+  },
+  "104305": {
+   "49": "Io...",
+   "74": "Che intenzioni hai?"
+  },
+  "104308": {
+   "78": "Io...",
+   "89": "Che intenzioni hai?"
+  },
+  "105200": {
+   "10": "Oh, davvero?",
+   "40": "Non ho ancora raccolto tutto."
+  },
+  "105600": {
+   "15": "Oh, davvero?",
+   "17": "Sì.",
+   "27": "Ma..."
+  },
+  "106310": {
+   "41": "Theo?",
+   "46": "Rubrum"
+  },
+  "106314": {
+   "14": "Boh."
+  },
+  "106315": {
+   "9": "Eh?"
+  },
+  "106316": {
+   "11": "Oh, ciao, Ellie."
+  },
+  "106318": {
+   "36": "Orsetto del miele",
+   "69": "Aspetto"
+  },
+  "106321": {
+   "1": "<shake>*brontolio di pancia*</shake>"
+  },
+  "107": {
+   "7": "Ciao, Ellie!"
+  },
+  "109": {
+   "25": "Lascia perdere"
+  },
+  "110": {
+   "23": "Sì.",
+   "34": "Ah, capisco."
+  },
+  "1101": {
+   "11": "Eh? Io?",
+   "18": "Ma certo!",
+   "8": "Grazie di cuore, Ellie."
+  },
+  "1102": {
+   "11": "Va bene."
+  },
+  "111": {
+   "5": "Che c'è?",
+   "7": "Hai qualcosa da dire?"
+  },
+  "111200": {
+   "11": "Ma..."
+  },
+  "111206": {
+   "10": "Ha funzionato!"
+  },
+  "112": {
+   "1": "Ti serve qualcosa?",
+   "18": "Amplia il laboratorio",
+   "2": "Acquista",
+   "4": "Attendo la sua prossima visita.",
+   "5": "Vendi",
+   "7": "Attendo la sua prossima visita."
+  },
+  "11201": {
+   "21": "Non vi siete fatti male, vero?"
+  },
+  "11202": {
+   "10": "Grazie dell'aiuto, Ellie.",
+   "3": "Ma si figuri."
+  },
+  "112100": {
+   "2": "Va bene, lo farò."
+  },
+  "112400": {
+   "9": "Quando?"
+  },
+  "113": {
+   "1": "Quella storia non la conosco."
+  },
+  "114": {
+   "51": "Va bene.",
+   "59": "Ehm...",
+   "6": "Sì, esatto.",
+   "60": "Sì, dimmi pure.",
+   "64": "Uau, grazie!",
+   "74": "Te l'avevo detto che so recitare."
+  },
+  "114900": {
+   "13": "Grazie, Enite!"
+  },
+  "115600": {
+   "9": "Uh-uh."
+  },
+  "115607": {
+   "5": "Uffa."
+  },
+  "115609": {
+   "13": "Scoprilo da sola."
+  },
+  "115610": {
+   "8": "Ma..."
+  },
+  "115621": {
+   "7": "Theo?"
+  },
+  "115626": {
+   "8": "Theo!"
+  },
+  "115633": {
+   "24": "Che vuoi dire?",
+   "6": "Sì, lo so."
+  },
+  "115642": {
+   "46": "Va bene, lo farò!"
+  },
+  "117100": {
+   "2": "Clala?",
+   "5": "Che vuoi dire?"
+  },
+  "117601": {
+   "20": "Cosa? E perché no?"
+  },
+  "117602": {
+   "48": "Fatto!"
+  },
+  "117800": {
+   "17": "Davvero?"
+  },
+  "118": {
+   "7": "Alla prossima."
+  },
+  "118000": {
+   "4": "È vero?"
+  },
+  "119": {
+   "8": "Dilla."
+  },
+  "119800": {
+   "1": "Quindi... e adesso?",
+   "14": "Va bene.",
+   "6": "Ma..."
+  },
+  "119803": {
+   "12": "Eh?"
+  },
+  "119809": {
+   "20": "Io...",
+   "38": "Grazie a tutti.",
+   "6": "Già...",
+   "8": "Mmm..."
+  },
+  "119811": {
+   "22": "Va bene, lo farò.",
+   "26": "Sì.",
+   "29": "No.",
+   "3": "...Si può dire di sì."
+  },
+  "119812": {
+   "12": "Di cosa state parlando voi due?",
+   "15": "Grazie ancora, Ellie.\r",
+   "16": "Non è stato niente."
+  },
+  "119814": {
+   "1": "È vero?"
+  },
+  "119815": {
+   "18": "Ma?",
+   "25": "E cioè?\r"
+  },
+  "119816": {
+   "23": "Certo."
+  },
+  "120": {
+   "17": "Wisteria",
+   "30": "Foresta Verde",
+   "34": "Pesca",
+   "38": "Infanzia",
+   "46": "Passatempi",
+   "51": "Valle delle Nuvole",
+   "55": "Streghe",
+   "59": "Negozio di casalinghi",
+   "68": "Giorno",
+   "72": "Notte",
+   "78": "Lascia perdere"
+  },
+  "120100": {
+   "8": "In che senso?"
+  },
+  "1202": {
+   "38": "Devo andare, Kyla."
+  },
+  "120501": {
+   "18": "Sì.",
+   "2": "Per niente.",
+   "25": "Un attimo."
+  },
+  "120700": {
+   "18": "Vero?",
+   "23": "Va bene.",
+   "28": "Grazie."
+  },
+  "120900": {
+   "12": "Boh.",
+   "20": "Va bene."
+  },
+  "121": {
+   "109": "Che vuoi dire?",
+   "84": "(Rileggere la storia di prima?)\r",
+   "88": "Indietro"
+  },
+  "1210": {
+   "16": "Oh... Capisco.",
+   "44": "Oh...",
+   "46": "Allora lascio fare a te."
+  },
+  "1211": {
+   "12": "Davvero?",
+   "25": "Lasci fare a me."
+  },
+  "121100": {
+   "23": "Enite...",
+   "8": "Sì."
+  },
+  "121101": {
+   "3": "Meno male.",
+   "5": "Certo."
+  },
+  "121102": {
+   "11": "No.",
+   "7": "Sì"
+  },
+  "1215": {
+   "22": "Ehm...",
+   "24": "C'è qualcosa che non va?"
+  },
+  "1216": {
+   "11": "Grazie, Ellie."
+  },
+  "121600": {
+   "12": "Non proprio.",
+   "13": "Ho capito.",
+   "14": "E per quale motivo?",
+   "33": "Che c'è?",
+   "46": "E cioè?",
+   "49": "Lo farò."
+  },
+  "121800": {
+   "12": "Allora...",
+   "17": "Prendi.",
+   "19": "Che c'è?",
+   "8": "Che vuoi dire?"
+  },
+  "122100": {
+   "10": "Che c'è?",
+   "28": "Va bene.",
+   "41": "E cioè?",
+   "43": "No.",
+   "55": "Sì!"
+  },
+  "123": {
+   "1": "Negozio",
+   "6": "Benvenuta.",
+   "8": "Passa quando vuoi."
+  },
+  "123600": {
+   "2": "Perché?"
+  },
+  "123800": {
+   "6": "Che vuoi dire?"
+  },
+  "124": {
+   "1": "Quella storia non la conosco.",
+   "2": "Non ne ho mai sentito parlare."
+  },
+  "124100": {
+   "21": "È più semplice di quanto pensassi."
+  },
+  "124500": {
+   "7": "Va bene, lo farò."
+  },
+  "124700": {
+   "10": "Roy?"
+  },
+  "124701": {
+   "2": "Credo di sì.",
+   "34": "Ah.",
+   "39": "Alla prossima."
+  },
+  "124711": {
+   "1": "Virgil."
+  },
+  "124712": {
+   "10": "Che c'è?"
+  },
+  "124716": {
+   "1": "Fatto!"
+  },
+  "124718": {
+   "34": "Andiamo a [em1]chiedere a Diane[/em1]!",
+   "37": "...Eh?"
+  },
+  "124719": {
+   "4": "Si parte!"
+  },
+  "124720": {
+   "11": "Fatto!"
+  },
+  "124722": {
+   "20": "Ho da fare. Torno più tardi.",
+   "4": "Benvenuta, Ellie. Come posso aiutarti oggi?"
+  },
+  "124724": {
+   "28": "Ma in che modo, di preciso, potrebbero aiutare?"
+  },
+  "124727": {
+   "22": "Che vuoi dire?"
+  },
+  "125": {
+   "29": "Virgil!",
+   "42": "Me ne pentirò."
+  },
+  "1265": {
+   "4": "Guardiamoci ancora un po' in giro."
+  },
+  "1267": {
+   "4": "Parliamo con Enite!"
+  },
+  "12700": {
+   "20": "Non dovrebbe esserci problema.",
+   "4": "Arin?",
+   "46": "Certo!"
+  },
+  "12701": {
+   "1": "Va bene."
+  },
+  "12702": {
+   "8": "Capito."
+  },
+  "12705": {
+   "3": "Mmm..."
+  },
+  "12708": {
+   "77": "Eh?"
+  },
+  "12709": {
+   "2": "Mmm..."
+  },
+  "12710": {
+   "1": "Ehm...",
+   "2": "Ah..."
+  },
+  "129": {
+   "19": "\"La prima rugiada di primavera, una farfalla lunablu rossa, la quarta alba d'estate...\"",
+   "24": "Pare di sì.",
+   "28": "Ma...",
+   "31": "Esatto.",
+   "50": "Che c'è?"
+  },
+  "129100": {
+   "14": "Proprio così.",
+   "4": "Continuo a non capire."
+  },
+  "129500": {
+   "5": "Davvero?!"
+  },
+  "1301": {
+   "13": "Non è stato niente, davvero."
+  },
+  "1302": {
+   "10": "Grazie a tutti."
+  },
+  "1303": {
+   "12": "Ellie.",
+   "13": "Cosa?"
+  },
+  "1304": {
+   "17": "Sono contento di sentirlo."
+  },
+  "130400": {
+   "26": "Lascia perdere",
+   "3": "Lascia perdere"
+  },
+  "132": {
+   "1": "Guarda i saluti speciali"
+  },
+  "132200": {
+   "10": "Tutti sbagliano."
+  },
+  "132201": {
+   "13": "Sì, più o meno.",
+   "27": "Ci penserò."
+  },
+  "132202": {
+   "16": "Non è quello...",
+   "24": "Allora...",
+   "27": "Va bene..."
+  },
+  "132203": {
+   "14": "Ellie...",
+   "15": "Che vuoi dire?",
+   "18": "Capisco...",
+   "20": "Va bene, lo farò.",
+   "3": "Ma certo!",
+   "6": "Visto?",
+   "7": "Va bene..."
+  },
+  "132204": {
+   "1": "Salve.",
+   "2": "Ciao, Ellie.",
+   "20": "Io...",
+   "3": "Ti stai divertendo?",
+   "5": "E tu, Roy?"
+  },
+  "132205": {
+   "2": "Mmm... va bene...",
+   "24": "Grazie.",
+   "7": "Presa!"
+  },
+  "132206": {
+   "15": "Ah sì?",
+   "18": "Ce la puoi fare!",
+   "20": "Grazie.",
+   "25": "Anch'io!",
+   "6": "Grazie.",
+   "7": "Dovrei ringraziarti io."
+  },
+  "132207": {
+   "10": "Vero?",
+   "13": "Ne hai fatta di strada, Ellie.",
+   "2": "Certo!",
+   "23": "Diane?",
+   "5": "Grazie!"
+  },
+  "132208": {
+   "4": "Perbacco...",
+   "6": "Davvero?!"
+  },
+  "132209": {
+   "26": "Ti ho sentita.",
+   "40": "In che senso?",
+   "54": "Tsk."
+  },
+  "132210": {
+   "1": "Ah, ecco.",
+   "13": "E adesso?",
+   "18": "Ah sì?",
+   "21": "No.",
+   "27": "Cosa c'è dentro?"
+  },
+  "132211": {
+   "17": "Va bene, lo farò.",
+   "2": "Ciao, Ellie.",
+   "22": "Non vedo l'ora."
+  },
+  "133": {
+   "7": "Benvenuta."
+  },
+  "133501": {
+   "1": "Hai deciso?",
+   "10": "Bjorn",
+   "13": "Theo",
+   "7": "Va bene, porto la lettera ad Aurea.",
+   "8": "Ellie, vuoi chiedere a Kyla di riparare le case?",
+   "9": "Già. La pensiamo allo stesso modo."
+  },
+  "133502": {
+   "1": "Hai deciso?",
+   "18": "Bjorn",
+   "19": "Theo"
+  },
+  "133701": {
+   "13": "Al momento serve questo.",
+   "16": "Hai già raccolto tutto? Che velocità.",
+   "17": "Bene, comincio a lavorarci domani.",
+   "21": "Faccia con comodo."
+  },
+  "133702": {
+   "15": "Al momento serve questo.",
+   "18": "Hai già raccolto tutto? Che velocità.",
+   "19": "Bene, comincio a lavorarci domani.",
+   "26": "Faccia con comodo."
+  },
+  "133703": {
+   "19": "Al momento serve questo.",
+   "22": "Hai già raccolto tutto? Che velocità.",
+   "23": "Bene, comincio a lavorarci domani.",
+   "30": "Faccia con comodo."
+  },
+  "134": {
+   "5": "Ti serve qualcosa?"
+  },
+  "135": {
+   "28": "Lascia perdere"
+  },
+  "13500": {
+   "14": "Sì!"
+  },
+  "136": {
+   "22": "È quello che sto dicendo.",
+   "29": "Cosa? E perché no?"
+  },
+  "138": {
+   "3": "Acquista",
+   "5": "Passa quando vuoi.",
+   "7": "Vendi",
+   "72": "Acquista",
+   "9": "Passa quando vuoi."
+  },
+  "138500": {
+   "40": "Lascia perdere"
+  },
+  "138501": {
+   "44": "Lascia perdere"
+  },
+  "1402": {
+   "5": "Bella teoria."
+  },
+  "1403": {
+   "4": "Giusto!",
+   "6": "Vero, però..."
+  },
+  "1404": {
+   "10": "Allora...",
+   "30": "Va bene.",
+   "44": "Pare di sì.",
+   "45": "Ma... perché?",
+   "47": "Allora...",
+   "54": "Probabilmente.",
+   "62": "Beh... e va bene.",
+   "72": "Eh? Cos'è questo?"
+  },
+  "1405": {
+   "5": "Forse."
+  },
+  "1406": {
+   "3": "Questa è..."
+  },
+  "141500": {
+   "5": "Che c'è?"
+  },
+  "1416": {
+   "17": "Mmm..."
+  },
+  "142": {
+   "5": "È proprio questo il problema."
+  },
+  "1422": {
+   "108": "Che c'è?",
+   "140": "Cos'è questo?",
+   "145": "No, direi di no.",
+   "191": "Ehm...",
+   "195": "Cosa?",
+   "92": "Ciao, Ellie."
+  },
+  "143": {
+   "13": "Va bene, lo farò.",
+   "6": "C'è qualcosa che posso fare per aiutare?"
+  },
+  "144603": {
+   "7": "Va bene."
+  },
+  "144604": {
+   "6": "Ne parliamo dopo."
+  },
+  "144605": {
+   "1": "Eccola qua!"
+  },
+  "144607": {
+   "22": "Ma in che modo, di preciso, potrebbero aiutare?",
+   "31": "Non necessariamente.",
+   "32": "Che vuoi dire?",
+   "6": "Cosa dice?"
+  },
+  "144612": {
+   "7": "Hai ragione."
+  },
+  "144613": {
+   "21": "Esatto."
+  },
+  "144614": {
+   "15": "Esatto.",
+   "2": "Allora...",
+   "6": "Certo che no."
+  },
+  "144615": {
+   "22": "Devo pensarci su.",
+   "6": "Ah, giusto."
+  },
+  "144617": {
+   "1": "Eccola qua!"
+  },
+  "144619": {
+   "28": "Virgil.",
+   "31": "Davvero? E come?",
+   "37": "È proprio questo il problema."
+  },
+  "145": {
+   "3": "Sì.",
+   "9": "Va bene."
+  },
+  "145003": {
+   "4": "Sono d'accordo."
+  },
+  "145006": {
+   "20": "Libro delle Stelle",
+   "21": "Libro delle Stelle",
+   "40": "Libro delle Stelle",
+   "41": "Libro delle Stelle"
+  },
+  "145801": {
+   "9": "Sì."
+  },
+  "145802": {
+   "1": "Sei qui per consegnare oggetti raccolti e usare il servizio di acquisto ricette di caramelle?",
+   "2": "Ti mostro l'elenco degli oggetti raccolti che devi consegnare.",
+   "24": "Con calma. Non c'è fretta.",
+   "3": "Oggi sono disponibili [em1]4 ricette di caramelle per la consegna[/em1].",
+   "6": "Ho controllato le pozioni che hai consegnato."
+  },
+  "145803": {
+   "1": "Sei qui per consegnare oggetti raccolti e usare il servizio di acquisto ricette di caramelle?",
+   "2": "Ti mostro l'elenco degli oggetti raccolti che devi consegnare.",
+   "26": "Con calma. Non c'è fretta.",
+   "3": "Oggi sono disponibili [em1]4 ricette di caramelle per la consegna[/em1].",
+   "6": "Ho controllato le pozioni che hai consegnato."
+  },
+  "145804": {
+   "1": "Sei qui per consegnare oggetti raccolti e usare il servizio di acquisto ricette di caramelle?",
+   "2": "Ti mostro l'elenco degli oggetti raccolti che devi consegnare.",
+   "24": "Con calma. Non c'è fretta.",
+   "3": "Oggi sono disponibili [em1]4 ricette di caramelle per la consegna[/em1].",
+   "6": "Ho controllato le pozioni che hai consegnato."
+  },
+  "146": {
+   "8": "E cioè?"
+  },
+  "147": {
+   "3": "Sì."
+  },
+  "147900": {
+   "121": "Certo!"
+  },
+  "15": {
+   "7": "Benvenuta.",
+   "8": "Riguardati."
+  },
+  "1500": {
+   "12": "Certo."
+  },
+  "1504": {
+   "3": "Salve."
+  },
+  "1506": {
+   "11": "Enite",
+   "22": "Passatempi",
+   "5": "Wisteria",
+   "50": "Treni",
+   "58": "Streghe",
+   "62": "Cibo",
+   "67": "Notte",
+   "72": "Fucina",
+   "78": "Lascia perdere"
+  },
+  "1507": {
+   "93": "(Rileggere la storia di prima?)\r",
+   "97": "Indietro"
+  },
+  "1508": {
+   "12": "Lascia perdere",
+   "9": "Acquista"
+  },
+  "150800": {
+   "5": "Lascia perdere"
+  },
+  "1514": {
+   "17": "Abitanti",
+   "23": "Streghe",
+   "27": "Passatempi",
+   "30": "Foresta Verde",
+   "34": "Biblioteca",
+   "38": "Cucina",
+   "42": "Famiglia",
+   "48": "Valle delle Nuvole",
+   "5": "Wisteria",
+   "52": "Infanzia",
+   "56": "L'amore",
+   "59": "Gusti",
+   "62": "Notte",
+   "66": "Pesca",
+   "71": "Roy",
+   "76": "Lascia perdere"
+  },
+  "1515": {
+   "101": "Highlion",
+   "124": "Capisco...",
+   "87": "(Rileggere la storia di prima?)\r",
+   "91": "Indietro",
+   "98": "Highlion"
+  },
+  "152": {
+   "10": "Giusto!",
+   "7": "Uau, davvero?"
+  },
+  "15200": {
+   "20": "Ehehe.",
+   "23": "Andiamo!",
+   "24": "Andiamo!"
+  },
+  "1522": {
+   "11": "Arin",
+   "17": "Foresta Verde",
+   "23": "Valle delle Nuvole",
+   "31": "Sonno",
+   "47": "Cibo",
+   "5": "Wisteria",
+   "63": "Ristorante",
+   "72": "Lascia perdere"
+  },
+  "1523": {
+   "100": "Presentati",
+   "105": "Indietro",
+   "62": "Allora...",
+   "85": "Cosa?",
+   "99": "(Rileggere la storia di prima?)\r"
+  },
+  "1524": {
+   "155": "Lascia perdere"
+  },
+  "153": {
+   "10": "Ellie.",
+   "24": "Buona idea.",
+   "28": "Va bene, lo farò."
+  },
+  "1530": {
+   "21": "Negozio di casalinghi",
+   "30": "Cibo",
+   "39": "Streghe",
+   "5": "Wisteria",
+   "50": "Lisa Whitegarden",
+   "60": "Fucina",
+   "64": "Valle delle Nuvole",
+   "72": "Lascia perdere",
+   "80": "Foresta Verde"
+  },
+  "1531": {
+   "107": "Streghe",
+   "81": "(Rileggere la storia di prima?)\r",
+   "83": "Negozio di casalinghi",
+   "85": "Indietro",
+   "92": "Streghe",
+   "95": "Cosa? E perché no?"
+  },
+  "1532": {
+   "14": "Lascia perdere",
+   "17": "Acquista"
+  },
+  "1533": {
+   "2": "Bel lavoro, Ellie."
+  },
+  "1535": {
+   "12": "Certo!"
+  },
+  "1536": {
+   "13": "Che c'è?",
+   "17": "Grazie."
+  },
+  "1537": {
+   "22": "EVVIVA!!!",
+   "38": "Che velocità...",
+   "67": "Già?"
+  },
+  "1539": {
+   "21": "Che vuoi dire?"
+  },
+  "154": {
+   "9": "Sì."
+  },
+  "156": {
+   "11": "Ho altro da fare. Torno più tardi.",
+   "12": "Fa' come ti pare.",
+   "13": "Perché vuoi buttarle?",
+   "14": "Perché non so perché siano qui. Sembra che siano spuntate e basta.",
+   "15": "In passato ho buttato via parecchie cose così.",
+   "16": "Alcune sembrano essere state prese da altri.",
+   "17": "Se vedi qualcosa che ti piace, puoi prenderla.",
+   "18": "Anche se potrebbe essere maledetta...",
+   "19": "Allora lascia stare.",
+   "26": "Sei qui.",
+   "6": "Sì.",
+   "7": "A pensarci bene, ci sono cose che ho messo fuori perché ho intenzione di buttarle."
+  },
+  "15602": {
+   "41": "Fammi sapere quando sei pronta."
+  },
+  "15605": {
+   "13": "Ehehe, grazie del complimento."
+  },
+  "15606": {
+   "16": "Sono... pronta.",
+   "27": "Capisco...",
+   "5": "Grazie."
+  },
+  "15609": {
+   "1": "Ellie...",
+   "11": "Allora..."
+  },
+  "157": {
+   "16": "Sì.",
+   "2": "Grazie.",
+   "24": "Me ne pentirò.",
+   "26": "Sì."
+  },
+  "158": {
+   "61": "Che vuoi dire?",
+   "64": "Arden.",
+   "74": "Oh..."
+  },
+  "159": {
+   "12": "Va bene."
+  },
+  "16": {
+   "5": "Hai qualcosa da dire?",
+   "8": "Che c'è?"
+  },
+  "1601": {
+   "18": "E come mai?",
+   "32": "Mmm..."
+  },
+  "1606": {
+   "9": "Tieni."
+  },
+  "161": {
+   "11": "Ma che stai dicendo?",
+   "6": "Su questo hai ragione."
+  },
+  "161001": {
+   "30": "Ellie, non credo che tu abbia abbastanza spazio nella borsa.",
+   "31": "Ti consiglio di lasciare [em1]2 spazi liberi[/em1] nella borsa."
+  },
+  "161002": {
+   "50": "Fragola",
+   "57": "Fragola",
+   "91": "Cioccolato"
+  },
+  "161003": {
+   "35": "Torno in un lampo!"
+  },
+  "161004": {
+   "18": "Presa!"
+  },
+  "161005": {
+   "10": "Non credo che sia questo che serviva a Clala.",
+   "12": "Oh no, perché ho di nuovo la borsa piena?",
+   "13": "Perché continui a raccogliere roba a caso.",
+   "14": "Direi che devo [em1]liberare uno spazio.[/em1]",
+   "28": "Non prenderlo",
+   "29": "Non credo che sia questo.",
+   "36": "Dev'essere questo!",
+   "4": "Questo sembra [lua(GetLocalizedString(\"Item\", \"ClalaMilk_Name\"))].",
+   "46": "Dev'essere questo!",
+   "5": "Lo prendo?",
+   "50": "Si parte!",
+   "53": "Questo è [lua(GetLocalizedString(\"Item\", \"ClalaEgg_Name\"))].",
+   "54": "È senz'altro un ingrediente essenziale.",
+   "55": "Clala aveva chiesto questo?",
+   "60": "Non credo che sia questo.",
+   "61": "Non prenderlo",
+   "62": "Non credo che sia questo."
+  },
+  "161006": {
+   "11": "Sì, più o meno.",
+   "14": "Credo di avere tutto quello che ci serve.",
+   "23": "Grazie! Sei gentilissima!",
+   "27": "Ops, mi è sfuggito qualcosa?! Scusa!",
+   "28": "Non fa niente, ma potresti tornare a prendere quelle giuste?",
+   "3": "Sono esattamente quelli che ci servono. Grazie!",
+   "32": "Riposati. Le ciambelle saranno pronte a momenti."
+  },
+  "161007": {
+   "17": "Su questo non posso obiettare."
+  },
+  "161009": {
+   "31": "Sarebbe una bella cosa."
+  },
+  "1614": {
+   "12": "Non è stato niente."
+  },
+  "162": {
+   "13": "Che vuoi dire?",
+   "23": "Esatto.",
+   "25": "Ah, già.",
+   "6": "Che vuoi dire?",
+   "7": "Certo."
+  },
+  "163": {
+   "2": "Davvero?"
+  },
+  "16400": {
+   "11": "Eh? Che vuoi dire?"
+  },
+  "165402": {
+   "62": "Indietro"
+  },
+  "166": {
+   "6": "Davvero?",
+   "9": "Sì."
+  },
+  "16600": {
+   "1": "Ciao, Ellie."
+  },
+  "166700": {
+   "9": "Se insisti..."
+  },
+  "167": {
+   "12": "Davvero?",
+   "14": "Grazie mille.",
+   "17": "Va bene.",
+   "3": "No."
+  },
+  "167200": {
+   "40": "Ciao, Ellie.",
+   "5": "È successo qualcosa?",
+   "8": "Oh."
+  },
+  "167201": {
+   "1": "A chi lo chiedo?"
+  },
+  "167203": {
+   "7": "Fammi vedere."
+  },
+  "167204": {
+   "9": "E allora che cosa devo fare?"
+  },
+  "167205": {
+   "6": "Va bene.",
+   "7": "Presa!"
+  },
+  "167206": {
+   "23": "Mmm, be'..."
+  },
+  "167209": {
+   "24": "1",
+   "32": "1",
+   "47": "1",
+   "62": "1",
+   "76": "1",
+   "8": "1"
+  },
+  "167401": {
+   "41": "Fragola"
+  },
+  "167402": {
+   "17": "Allora...",
+   "26": "Allora..."
+  },
+  "168": {
+   "2": "Sì.",
+   "4": "Esatto.",
+   "5": "Ah, capisco.",
+   "6": "Oh, e questo?",
+   "7": "Che c'è?"
+  },
+  "168100": {
+   "27": "Ah sì?"
+  },
+  "17": {
+   "7": "Cosa?",
+   "81": "(Rileggere la storia di prima?)\r",
+   "82": "Arden",
+   "85": "Indietro"
+  },
+  "1703": {
+   "17": "E come mai?",
+   "31": "Mmm..."
+  },
+  "1706": {
+   "6": "Che c'è?"
+  },
+  "1708": {
+   "4": "Che c'è?"
+  },
+  "1710": {
+   "2": "Cos'è questo?"
+  },
+  "172": {
+   "7": "Salve.",
+   "8": "Buon cammino, piccola strega."
+  },
+  "173": {
+   "5": "Che c'è?"
+  },
+  "174716": {
+   "23": "Indietro"
+  },
+  "174718": {
+   "36": "Lascia perdere"
+  },
+  "176": {
+   "10": "No."
+  },
+  "176500": {
+   "20": "Eh?"
+  },
+  "176501": {
+   "106": "Benvenuta, Ellie.",
+   "107": "Clala, tutto bene? Sei un po' pallida.",
+   "41": "Eh?",
+   "94": "Certo!"
+  },
+  "176502": {
+   "11": "E adesso?"
+  },
+  "176503": {
+   "31": "Cosa?",
+   "55": "Ellie..."
+  },
+  "176504": {
+   "12": "Glassa a filo",
+   "26": "Panna montata",
+   "6": "Codette",
+   "60": "E le guarnizioni?",
+   "61": "Codette",
+   "63": "Zucchero a velo",
+   "65": "Glassa a filo",
+   "67": "E le decorazioni finali?",
+   "68": "Decorazioni a orecchie di coniglio",
+   "69": "Fragola al centro",
+   "70": "Panna montata extra",
+   "74": "Direi che il disegno è deciso. Cominciamo a decorare la ciambella?",
+   "75": "Indietro",
+   "76": "Conferma",
+   "77": "Indietro",
+   "78": "Indietro",
+   "81": "Bada bene a [em1]scegliere il momento giusto[/em1] quando aggiungi la crema.",
+   "82": "Cominciamo!",
+   "9": "Zucchero a velo"
+  },
+  "176505": {
+   "2": "Ma certo!"
+  },
+  "176506": {
+   "13": "Capito.",
+   "34": "Capisco..."
+  },
+  "176508": {
+   "15": "Mmm..."
+  },
+  "176509": {
+   "19": "Oh...",
+   "35": "Che vuoi dire?"
+  },
+  "176513": {
+   "20": "Grazie!"
+  },
+  "176514": {
+   "21": "Mmm... ehm..."
+  },
+  "176701": {
+   "57": "<shake>Ma...!</shake>"
+  },
+  "176702": {
+   "25": "Io...",
+   "48": "Cosa?"
+  },
+  "176704": {
+   "42": "Virgil!"
+  },
+  "176706": {
+   "25": "Blu",
+   "28": "Giallo",
+   "70": "Tutto qui?",
+   "72": "Non credo proprio."
+  },
+  "176707": {
+   "5": "Mmm..."
+  },
+  "176800": {
+   "11": "Fatto!"
+  },
+  "178": {
+   "1": "Quella storia non la conosco."
+  },
+  "178700": {
+   "12": "Che rapidità...",
+   "29": "Benissimo!",
+   "30": "Vediamo..."
+  },
+  "179": {
+   "1": "Ciao, Ellie.",
+   "11": "Che c'è?",
+   "14": "Che c'è?",
+   "4": "Che c'è?"
+  },
+  "17903": {
+   "2": "Di che cosa hai bisogno?",
+   "3": "Non hai qualche notizia interessante?",
+   "4": "Che c'è?"
+  },
+  "17904": {
+   "30": "Arrivederci."
+  },
+  "17905": {
+   "12": "Cibo",
+   "16": "Lascia perdere",
+   "20": "Età",
+   "41": "Ambizioni",
+   "5": "Wisteria",
+   "83": "Streghe",
+   "84": "Pesca",
+   "85": "Enite",
+   "86": "Foresta Verde",
+   "87": "Valle delle Nuvole"
+  },
+  "17906": {
+   "105": "(Rileggere la storia di prima?)\r",
+   "107": "Genitori",
+   "110": "Streghe",
+   "113": "Perché?",
+   "123": "Che vuoi dire?",
+   "156": "<shake>Ehi!</shake>",
+   "209": "Indietro"
+  },
+  "17909": {
+   "7": "Che c'è?"
+  },
+  "180": {
+   "28": "Va bene."
+  },
+  "182": {
+   "19": "Cos'è questo?",
+   "21": "Uau, grazie.",
+   "23": "Tieni, prendi anche questo."
+  },
+  "184901": {
+   "19": "Allora...",
+   "25": "Va bene, ho capito."
+  },
+  "184902": {
+   "10": "Mmm...",
+   "14": "Sì, esatto.",
+   "19": "Buona idea.",
+   "6": "Giusto..."
+  },
+  "184903": {
+   "2": "Ti piace?",
+   "21": "Va bene, lo farò.",
+   "37": "Prego?",
+   "60": "Esatto.",
+   "67": "Grazie.",
+   "72": "Cioè?",
+   "82": "<shake>Cosa?!</shake>",
+   "84": "Ahi ahi...",
+   "93": "Allora..."
+  },
+  "184904": {
+   "12": "Oh!",
+   "15": "Ahi ahi..."
+  },
+  "184908": {
+   "17": "<shake>Uaaaaaah!!</shake>",
+   "25": "No."
+  },
+  "184909": {
+   "20": "Va bene."
+  },
+  "184910": {
+   "10": "Esatto.",
+   "2": "Cioè?",
+   "24": "Va bene.",
+   "48": "Va bene."
+  },
+  "188001": {
+   "4": "Va bene.",
+   "9": "Va bene."
+  },
+  "189": {
+   "7": "Benvenuta.",
+   "8": "Arrivederci."
+  },
+  "189608": {
+   "51": "Tutto qui?",
+   "54": "Tutto qui?"
+  },
+  "189611": {
+   "14": "Sì.",
+   "4": "Capito."
+  },
+  "189613": {
+   "27": "Capito.",
+   "39": "Va bene."
+  },
+  "189614": {
+   "25": "Come, scusa?",
+   "36": "Certo."
+  },
+  "189704": {
+   "20": "Prego."
+  },
+  "189711": {
+   "2": "Sì."
+  },
+  "190": {
+   "5": "Che c'è?",
+   "7": "Hai qualcosa da dire?",
+   "8": "Dilla."
+  },
+  "191321": {
+   "4": "Orsetto del miele"
+  },
+  "192": {
+   "10": "Treni",
+   "25": "Wisteria",
+   "33": "Highlion",
+   "36": "Passatempi",
+   "40": "Foresta Verde",
+   "43": "Biblioteca",
+   "51": "Valle delle Nuvole",
+   "55": "Cibo",
+   "59": "Ciambelle",
+   "63": "Amici",
+   "67": "Aspirazioni",
+   "71": "Pesca",
+   "74": "Lascia perdere",
+   "75": "Notte",
+   "80": "Negozio di casalinghi"
+  },
+  "192500": {
+   "8": "È proprio per questo che sono qui."
+  },
+  "192501": {
+   "8": "È proprio per questo che sono qui."
+  },
+  "192502": {
+   "8": "È proprio per questo che sono qui."
+  },
+  "192700": {
+   "10": "Cosa?"
+  },
+  "192701": {
+   "10": "Cosa?"
+  },
+  "192702": {
+   "10": "Cosa?"
+  },
+  "193": {
+   "11": "Eccolo qui.",
+   "21": "Sì?",
+   "25": "Grazie, Enite!",
+   "27": "Chiedilo solo dopo aver parlato con Arden."
+  },
+  "194": {
+   "14": "Lascia perdere"
+  },
+  "195": {
+   "1": "Quella storia non la conosco.",
+   "2": "Non ne ho mai sentito parlare."
+  },
+  "196": {
+   "101": "Biblioteca",
+   "124": "Cucina",
+   "126": "Biblioteca",
+   "164": "Viaggi",
+   "166": "Viaggi",
+   "174": "Oh, davvero?",
+   "184": "Streghe",
+   "201": "Streghe",
+   "33": "Allora...",
+   "74": "(Rileggere la storia di prima?)\r",
+   "75": "Highlion",
+   "76": "Negozio di fiori",
+   "78": "Indietro",
+   "85": "Uau...",
+   "99": "Cucina"
+  },
+  "198": {
+   "4": "Sto ancora preparando.",
+   "9": "Molto gentile da parte tua."
+  },
+  "199": {
+   "34": "Ehm, non so che tipo di scrittura sia.",
+   "35": "L'hai studiata a scuola. È l'[em1]antica lingua delle streghe[/em1]."
+  },
+  "199505": {
+   "21": "Dona"
+  },
+  "199506": {
+   "102": "Ehm...",
+   "109": "Tutto qui?",
+   "116": "Indietro",
+   "57": "Davvero?!"
+  },
+  "199508": {
+   "2": "Dona",
+   "3": "(Apre l'interfaccia delle donazioni)",
+   "47": "Valuta i cristalli stellari",
+   "48": "(Apre l'interfaccia di valutazione)",
+   "50": "Vendi i cristalli stellari",
+   "53": "Scambia i cristalli stellari",
+   "54": "(Apre lo scambio delle costellazioni)"
+  },
+  "2": {
+   "8": "Eh?"
+  },
+  "20": {
+   "121": "Va bene, lo farò.",
+   "125": "Io...",
+   "66": "Sono Ellie, strega apprendista.",
+   "81": "Che vuoi dire?",
+   "86": "Ma...",
+   "97": "Ellie..."
+  },
+  "2000": {
+   "20": "Mmm.",
+   "29": "Dev'essere divertente!",
+   "6": "Tsk."
+  },
+  "201400": {
+   "2": "Lascia perdere"
+  },
+  "202": {
+   "5": "*Sussulto*"
+  },
+  "202901": {
+   "51": "Grazie!"
+  },
+  "202902": {
+   "51": "Tutto qui?"
+  },
+  "202906": {
+   "33": "Perché?"
+  },
+  "202908": {
+   "33": "O Strega, aiuta chi ti sta a portata di mano."
+  },
+  "202911": {
+   "25": "Grazie!"
+  },
+  "203": {
+   "11": "Grazie, Ellie."
+  },
+  "204204": {
+   "1": "So cos'è! È un [em1]estrattore[/em1]! ",
+   "2": "L'abbiamo usato un saaacco di volte a scuola. Anche se era un po' più piccolo.",
+   "25": "Vero, però...",
+   "3": "Sarà difficile usarlo. Guarda la [em1]bottiglia di vetro[/em1] qui sotto.",
+   "4": "Oh, è vero. È rotta.",
+   "5": "Mi servirà almeno un rospo di buona volontà.",
+   "7": "Per preparare le pozioni devi almeno riparare l'estrattore.",
+   "8": "Va bene. Prima andiamo al [em1]villaggio[/em1].",
+   "9": "Andiamone a cercare una."
+  },
+  "204205": {
+   "28": "Una [em1]tostatrice[/em1]? Uffa, la odio.",
+   "29": "Dopo averci messo dentro i raccolti, c'è una lunga attesa che ti mette ansia.",
+   "32": "Davvero? Ah, sì. Non c'è la manopola per caricare la molla."
+  },
+  "204207": {
+   "15": "Oh no...",
+   "24": "Davvero?",
+   "29": "Mmm?"
+  },
+  "204208": {
+   "12": "Va bene, ho capito.",
+   "17": "Certo."
+  },
+  "204209": {
+   "20": "Ehm...",
+   "21": "Che faccia è quella? Hai dormito in un bel letto morbido."
+  },
+  "204210": {
+   "1": "Una [em1]lettera[/em1]!",
+   "11": "Dice che c'è un [em1]<wave>villaggio</wave>[/em1], Virgil!",
+   "2": "Che gentili, hanno lasciato una lettera.",
+   "3": "Vediamo... Credo sia del barista del treno.",
+   "31": "Sarai rimasta di sasso nel vedere che il treno non c'è più.",
+   "33": "Purtroppo il treno non poteva più aspettare ed è dovuto ripartire subito.",
+   "34": "Ma non preoccuparti. Il treno tornerà, e qui vicino c'è un [em1]villaggio[/em1] in cui abitavo un tempo.",
+   "36": "Quando arrivi al [em1]villaggio[/em1], porta i miei saluti a Enite e Arden.",
+   "39": "Basta che troviamo il villaggio.",
+   "4": "Sarai rimasta di sasso nel vedere che il treno non c'è più.",
+   "44": "Anche questo è vero.",
+   "6": "Purtroppo il treno non poteva più aspettare ed è dovuto ripartire subito.",
+   "7": "Ma non preoccuparti. Il treno tornerà, e qui vicino c'è un [em1]villaggio[/em1] in cui abitavo un tempo.",
+   "9": "Quando arrivi al [em1]villaggio[/em1], porta i miei saluti a Enite e Arden."
+  },
+  "206": {
+   "2": "Tecnicamente è una libreria che una strega ha usato un tempo.",
+   "24": "Direi che chi abitava qui era una strega che studiava le piante.",
+   "25": "Da adesso i libri che trovo li metto qui.",
+   "3": "È la stessa cosa!",
+   "4": "Comunque non ho intenzione di leggere. I libri mi hanno stufata.",
+   "5": "Perfino un [em1]fungo velenoso[/em1] è meglio di [em1]una strega che non legge[/em1].",
+   "6": "Ma che stai dicendo?",
+   "7": "Perché [em1]un fungo velenoso[/em1] uccide [em1]una persona sola[/em1].",
+   "8": "Smettila di brontolare. Di libri ne ho letti abbastanza a scuola!"
+  },
+  "207601": {
+   "2": "Guarda laggiù!",
+   "25": "Lo so."
+  },
+  "207603": {
+   "11": "Giusto!",
+   "66": "Fa ancora un po' male...",
+   "67": "Però devo sbrigarmi a tornare al villaggio.",
+   "68": "Se no la nonna mi sgrida.",
+   "69": "Va bene. Lascia fare a me.",
+   "71": "Uau, davvero?",
+   "72": "Ti riporto al villaggio. Non preoccuparti.",
+   "73": "Va bene, grazie.",
+   "74": "Ah, prima di tutto però devo curarti la [em1]gamba[/em1].",
+   "75": "Rubrum, aspetta qui un momento."
+  },
+  "207604": {
+   "10": "Va bene, grazie.",
+   "11": "Ah, prima di tutto però devo curarti la [em1]gamba[/em1].",
+   "22": "Giusto!",
+   "25": "Le gambe mi fanno ancora male.",
+   "26": "Vuoi provare questa?",
+   "27": "Uau, che cos'è? È una caramella?",
+   "28": "Sì, questa caramella può guarirti le gambe.",
+   "29": "Uau, grazie. Sembra buona.",
+   "3": "Fa ancora un po' male...",
+   "30": "Oh, è buona.",
+   "31": "Uh, ha un sapore orribile.",
+   "32": "Ti fa bene. ",
+   "33": "Come vanno le gambe adesso?",
+   "34": "Beh, mi sembra che stiano meglio.",
+   "35": "Grazie, Ellie.",
+   "36": "La caramella ha un sapore orribile.",
+   "37": "Allora, come sei finito nella ragnatela?",
+   "38": "Ero venuto nella foresta a giocare un pochino...",
+   "4": "Però devo sbrigarmi a tornare al villaggio.",
+   "40": "Stavo cercando un'altra strada, quando ho sentito il [em1]rumore di un treno[/em1].",
+   "41": "Oh, dev'essere quello su cui viaggiavo io.",
+   "42": "Sono andato verso il treno, ma all'improvviso un [em1]uccello strano[/em1] ha cominciato a inseguirmi...",
+   "43": "Dev'essere stato quell'uccello, non il treno.",
+   "44": "Era quell'uccello.",
+   "45": "Sono corso disperatamente nel folto della foresta...",
+   "49": "Cos'è questo?",
+   "5": "Se no la nonna mi sgrida.",
+   "6": "Va bene. Lascia fare a me.",
+   "8": "Uau, davvero?",
+   "9": "Ti riporto al villaggio. Non preoccuparti."
+  },
+  "207605": {
+   "8": "Perché si trova qui?"
+  },
+  "207606": {
+   "1": "Inseguiamolo!"
+  },
+  "207607": {
+   "1": "Eh? Dov'è finito il gatto?"
+  },
+  "207610": {
+   "1": "C'è della polvere là, Ellie.",
+   "3": "Ti avevo detto di non entrare nell'ufficio del preside, Ellie.",
+   "4": "Dovevi darmi retta.",
+   "5": "Oh, questo è un [em1]ascensore della strega[/em1]!",
+   "6": "Ecco perché bisogna ascoltare i professori."
+  },
+  "209": {
+   "49": "Cosa?",
+   "78": "Sarebbe una bella cosa.",
+   "80": "Ah, ecco."
+  },
+  "209305": {
+   "11": "Lascia perdere"
+  },
+  "209306": {
+   "2": "(Rileggere la storia di prima?)\r",
+   "8": "Indietro"
+  },
+  "21": {
+   "11": "Tè",
+   "21": "Foresta Verde",
+   "29": "Passatempi",
+   "33": "La fontana",
+   "37": "Valle delle Nuvole",
+   "44": "Il palcoscenico",
+   "48": "Lisa Whitegarden",
+   "5": "Wisteria",
+   "55": "Rubrum",
+   "58": "Negozio di casalinghi",
+   "64": "Negozio di fiori",
+   "69": "Notte",
+   "74": "Lascia perdere",
+   "75": "Cibo"
+  },
+  "2100": {
+   "39": "Sì",
+   "40": "No",
+   "48": "Sì",
+   "49": "No",
+   "52": "Sono qui quando ti servo.",
+   "53": "Più ti impegni a fare e consegnare caramelle, più caramelle puoi consegnare. Tieni duro.",
+   "74": "Scrivo nei [em1][lua(GetLocalizedString(\"UI\", \"Wishlist_Name\"))][/em1] le cose da consegnare?",
+   "77": "Bene, le ho scritte nei [em1][lua(GetLocalizedString(\"UI\", \"Wishlist_Name\"))][/em1].",
+   "78": "Facciamolo più tardi."
+  },
+  "2101": {
+   "39": "Sì",
+   "40": "No",
+   "43": "Faccia con comodo.",
+   "48": "Sì",
+   "49": "No",
+   "52": "Se ti serve qualcosa, basta chiedere.",
+   "74": "Scrivo nei [em1][lua(GetLocalizedString(\"UI\", \"Wishlist_Name\"))][/em1] le cose da consegnare?",
+   "77": "Bene, le ho scritte nei [em1][lua(GetLocalizedString(\"UI\", \"Wishlist_Name\"))][/em1].",
+   "78": "Facciamolo più tardi."
+  },
+  "2102": {
+   "64": "Tieni presente che tutto il contenuto attuale verrà rimosso al prossimo aggiornamento.",
+   "65": "Le [em1]consegne di caramelle[/em1] si aggiornano oggi.",
+   "67": "asd",
+   "68": "aa",
+   "69": "bb",
+   "70": "abdfbasdfgbasg",
+   "71": "aa",
+   "72": "bb",
+   "73": "asdfasdfasdf",
+   "74": "aa",
+   "75": "bb"
+  },
+  "211": {
+   "24": "Chiedilo solo dopo aver parlato con Arden."
+  },
+  "212": {
+   "1": "Benissimo. Finalmente è ora di esplorare.",
+   "2": "Ti prego, non usare la parola \"esplorare\"...",
+   "3": "Quella parola mi mette ansia, grazie a tua madre."
+  },
+  "214700": {
+   "32": "[em1][lua(GetLocalizedString(\"Item\", \"MoonOil_Name\"))][/em1]? Sembra la [em1]ricetta[/em1] di una pozione.",
+   "34": "Le [lua(GetLocalizedString(\"Common\", \"LimitedRecipe\"))] sono anche [em1]usa e getta[/em1].",
+   "38": "C'è anche qualcosa sotto.",
+   "39": "Dove? Ah, hai ragione.",
+   "40": "Ehm, non so che tipo di scrittura sia.",
+   "41": "L'hai studiata a scuola. È l'[em1]antica lingua delle streghe[/em1].",
+   "42": "Vuoi dire che ho imparato a leggere questi simboli strani?",
+   "43": "E non avevi neanche un brutto voto.",
+   "44": "Non mi ricordo niente.",
+   "45": "Comunque, prima diamo un'occhiata.",
+   "46": "Ehm... Sembra una [em1]ricetta[/em1]...",
+   "47": "Pare che sia [em1]della luna...[/em1] qualcosa...",
+   "48": "Non ne ho idea. Mi è venuto mal di testa.",
+   "49": "Riguardala più avanti, se ti torna in mente."
+  },
+  "21501": {
+   "18": "Eccolo qui.",
+   "20": "Grazie!",
+   "21": "Adesso mi basta portarlo a Roy per andare dal Dio Gatto Nero.",
+   "26": "Un momento.",
+   "29": "Eccolo qui.",
+   "33": "Un momento.",
+   "36": "Eccolo qui.",
+   "39": "Lascia perdere",
+   "9": "Grazie!"
+  },
+  "215600": {
+   "1": "Oh, questo è un frammento di rovo spinoso?",
+   "10": "Davvero? E allora sbrigati a provarlo!",
+   "12": "Solo per questa volta.",
+   "13": "Uau, fantastico.",
+   "14": "Va bene. Ci siamo.",
+   "18": "Eh?",
+   "19": "Cosa...?",
+   "2": "Sì. Ne sai qualcosa?",
+   "20": "Il frammento di rovo spinoso... è sparito?!",
+   "21": "Che strano... Perché è sparito...?",
+   "3": "Non ne ho la minima idea.",
+   "4": "Ma ho una cosa che potrebbe essere d'aiuto.",
+   "40": "Devo andare a prendere il [em1][lua(GetLocalizedString(\"Item\", \"ThornPiece_Name\"))][/em1].",
+   "5": "Una cosa che potrebbe essere d'aiuto?",
+   "6": "Tadàn! L'[em1]<wave>identificatore universale di oggetti</wave>[/em1]!",
+   "7": "Uau! Che cos'è?",
+   "8": "È uno strumento fatto da una certa strega.",
+   "9": "Con il [em1]potere della luna[/em1] della pietra di luna incastonata qui, puoi scoprire [em1]l'identità[/em1] di qualunque oggetto."
+  },
+  "218100": {
+   "3": "E cioè?"
+  },
+  "218101": {
+   "19": "Uau, questo pentolone sembra bello buono.",
+   "20": "Credo sia stato fatto dai \"[lua(GetLocalizedString(\"InteriorPropTheme\", \"BasementBasic\"))]\".",
+   "21": "E ha un design molto classico.",
+   "22": "A scuola ho sempre usato solo pentoloni da quattro soldi. Finalmente ne uso uno buono!",
+   "23": "Ti ricordi come si usa?",
+   "24": "Certo.",
+   "25": "Si usano [em1]ingredienti[/em1] lavorati, si [em1]scaldano[/em1] con precisione e si [em1]mescola nel verso giusto[/em1].",
+   "26": "E alla fine!",
+   "27": "E alla fine ne esce una [em1]pozione[/em1] fatta come si deve.",
+   "28": "In effetti mi piace il modo di parlare della signora Olivia.",
+   "31": "Gli attrezzi per la lavorazione, però, sono messi male.",
+   "32": "Visto che ci sono degli ingredienti scartati..."
+  },
+  "218107": {
+   "11": "Questo è un ingrediente per pozioni, vero?",
+   "12": "Li hai usati a scuola un'infinità di volte.",
+   "13": "Le streghe sono di solito così sciatte?",
+   "14": "Sciatte o no, con gli ingredienti stanno attente.",
+   "15": "Allora la strega che viveva qui era davvero sciatta.",
+   "16": "Oppure è andata via di fretta.",
+   "17": "E per quale motivo?",
+   "18": "Boh."
+  },
+  "218109": {
+   "7": "Dove?"
+  },
+  "218116": {
+   "10": "Quelli riesco a scalarli.",
+   "11": "Brutta notizia.",
+   "7": "È una collina.",
+   "8": "Non sarà facile scalarla.",
+   "9": "Guarda là. Ci sono dei rampicanti che pendono lungo la collina."
+  },
+  "218117": {
+   "10": "Con tua madre ne ho passate di molto peggiori.",
+   "2": "Eh?",
+   "3": "Dov'è il [em1]treno[/em1]?",
+   "4": "Ahahah! Sembra che quell'[em1]uccello[/em1] stesse imitando il [em1]fischio del treno[/em1].",
+   "5": "Ma il treno dov'è?",
+   "6": "È andato a Highlion, ovviamente.",
+   "7": "E adesso che facciamo?",
+   "8": "Guardiamoci intorno per [em1]la zona[/em1]. Magari troviamo qualche indizio.",
+   "9": "Come fai a essere così tranquillo?"
+  },
+  "218118": {
+   "27": "Fantastico. La [em1]<wave>\"Pozione ammazza erbacce ostinate\"</wave>[/em1] è pronta!",
+   "28": "Si dice \"sterminaerbacce\", non \"ammazza erbacce\".",
+   "29": "Comunque è pronta!",
+   "30": "Va bene. Non preoccuparti.",
+   "31": "Devi usarla con attenzione, perché non ci sono più ingredienti.",
+   "32": "Andiamo a lanciarla sulla [em1][lua(GetLocalizedString(\"InteractableObject\", \"LittleHoneyPumkin\"))][/em1].",
+   "37": "Lanciala sulla [em1][lua(GetLocalizedString(\"InteractableObject\", \"LittleHoneyPumkin\"))][/em1], trova il [em1]cuore del rovo[/em1] ed eliminalo.",
+   "38": "Perché la [lua(GetLocalizedString(\"Item\", \"BadGrassPotion_Name\"))] è solo un [em1]rimedio temporaneo[/em1].",
+   "39": "Ho capito!"
+  },
+  "218119": {
+   "1": "Ormai questo è facile.",
+   "2": "Adesso andiamo nel posto nuovo."
+  },
+  "218120": {
+   "6": "Bene, adesso andiamo al dispensario. ",
+   "7": "Devo preparare l'[lua(GetLocalizedString(\"Item\", \"MoonOil_Name\"))]."
+  },
+  "2200": {
+   "13": "Davvero?"
+  },
+  "2202": {
+   "3": "Uau, davvero?"
+  },
+  "2203": {
+   "19": "Lascia perdere",
+   "2": "Sinistra",
+   "3": "Destra",
+   "4": "Giù",
+   "9": "[Consegna]"
+  },
+  "2204": {
+   "10": "Puoi collocare solo [em1]1[/em1] esemplare di ogni [em1]attrezzo di lavorazione[/em1] e di ogni [em1]attrezzo di creazione[/em1].",
+   "11": "È una questione di sicurezza. Rispetta queste regole, per favore.",
+   "12": "Mmm...",
+   "13": "Ma tranquilla. Per gli attrezzi diversi da quelli di lavorazione e creazione non c'è limite.",
+   "14": "I depositi e l'incubatrice puoi disporli come preferisci.",
+   "15": "Va bene.",
+   "16": "Ah, un'ultima cosa.",
+   "17": "Per incoraggiare tutte le streghe a [em1]migliorare i propri attrezzi[/em1], il Catalogo delle Streghe compra attrezzi usati.",
+   "18": "Se hai comprato attrezzi migliori, puoi vendere quelli vecchi [em1]al Catalogo delle Streghe[/em1].",
+   "19": "Compriamo a prezzi superiori alla media di mercato, quindi vendi pure i tuoi vecchi attrezzi al Catalogo delle Streghe.",
+   "20": "Va bene.",
+   "4": "Uau, davvero?",
+   "5": "Con attrezzi migliori la vita da strega sarà più comoda, si spera.",
+   "6": "Il che vuol dire che posso avere più tostatrici o più pentole della strega, no?!",
+   "7": "Beh... non proprio.",
+   "8": "Cosa? E perché no?",
+   "9": "Gli attrezzi collocati nel laboratorio di ogni strega devono rispettare [em1]rigorosamente[/em1] le regole dell'Associazione delle Pozioni delle Streghe."
+  },
+  "2205": {
+   "24": "Davvero?"
+  },
+  "222": {
+   "1": "Salve.",
+   "7": "Esatto.",
+   "8": "Ehm...",
+   "9": "Che c'è?"
+  },
+  "222600": {
+   "2": "Salve.",
+   "24": "Sì?",
+   "54": "Ah, capisco.",
+   "8": "Eh?"
+  },
+  "224": {
+   "39": "Eh?",
+   "40": "Cosa...?"
+  },
+  "225": {
+   "12": "Va bene, lo farò.",
+   "7": "C'è qualcosa che posso fare per aiutare?"
+  },
+  "225105": {
+   "69": "Vero.",
+   "80": "[em1][lua(GetLocalizedString(\"Item\", \"MoonOil_Name\"))][/em1]? Sembra la [em1]ricetta[/em1] di una pozione.",
+   "82": "Le [lua(GetLocalizedString(\"Common\", \"LimitedRecipe\"))] sono anche [em1]usa e getta[/em1].",
+   "88": "C'è anche qualcosa sotto.",
+   "89": "Dove? Ah, hai ragione.",
+   "90": "Ehm, non so che tipo di scrittura sia.",
+   "91": "L'hai studiata a scuola. È l'[em1]antica lingua delle streghe[/em1].",
+   "92": "Vuoi dire che ho imparato a leggere questi simboli strani?",
+   "93": "E non avevi neanche un brutto voto.",
+   "94": "Non mi ricordo niente.",
+   "95": "Comunque, prima diamo un'occhiata.",
+   "96": "Ehm... Sembra una [em1]ricetta[/em1]...",
+   "98": "Non ne ho idea. Mi è venuto mal di testa.",
+   "99": "Riguardala più avanti, se ti torna in mente."
+  },
+  "228601": {
+   "10": "Basta che non facciamo tardi.",
+   "11": "Dobbiamo tornare al treno entro [em1]domani mattina[/em1].",
+   "12": "Va bene.",
+   "13": "Torniamo indietro [em1]dalla strada da cui siamo salite[/em1]. Magari ci sono altre stranezze.",
+   "9": "Per riempire l'[em1]enciclopedia[/em1] e tutto il resto, giusto?"
+  },
+  "23": {
+   "22": "Certo.",
+   "31": "Sul serio?",
+   "39": "Molto gentile da parte tua.",
+   "6": "Davvero?"
+  },
+  "230": {
+   "7": "Benvenuta.",
+   "8": "Arrivederci."
+  },
+  "2301": {
+   "15": "Blu",
+   "17": "Un attimo solo.",
+   "2": "Benvenuta, Ellie.",
+   "20": "Rosso"
+  },
+  "2302": {
+   "2": "Sì",
+   "5": "No"
+  },
+  "2304": {
+   "6": "Ehm..."
+  },
+  "230400": {
+   "12": "[em1]<shake>Ehi, Ellie!</shake>[/em1]",
+   "13": "Eh? Come?",
+   "14": "Fai la sciocca mentre sono via? Non ti sarai dimenticata di registrarti al Catalogo delle Streghe, vero?",
+   "18": "<shake>S... sì!</shake>",
+   "19": "Sta' zitta, Ellie. Piccola peste, [em1]cappello sciocco e incompiuto[/em1].",
+   "20": "Possibile che non riesca a fare bene nemmeno una cosuccia simile?",
+   "21": "Ti avevo detto di avvisarmi quando arrivava l'impiegata del Catalogo delle Streghe!",
+   "22": "Scusa, stavo giusto per dirtelo.",
+   "35": "Va bene.",
+   "39": "Sì?"
+  },
+  "230402": {
+   "1": "Secondo te è andata bene?",
+   "10": "Non puoi continuare a recitare?",
+   "11": "E per quanto funzionerà?",
+   "12": "E resta la questione della [em1]strega che stava qui in origine[/em1], in questa casa della strega.",
+   "13": "Sarebbe bello sapere chi è quella strega.",
+   "14": "La [em1]strega che stava qui in origine[/em1]...",
+   "15": "Potrebbe anche essere [em1]qualcuno con cattive intenzioni[/em1].",
+   "16": "Chiediamolo agli abitanti, più avanti.",
+   "2": "Sì, sembra che l'incendio più urgente sia spento.",
+   "3": "Com'è stata la mia [em1]recitazione[/em1]?",
+   "4": "Tu? Ho recitato io. Tu hai solo balbettato.",
+   "5": "Il balbettio era tutta scena!",
+   "6": "Questa cosa potrebbe diventare un problema più avanti.",
+   "7": "Te l'avevo detto che so recitare.",
+   "8": "No, non la tua pessima recitazione, ma il fatto che ti manchi una [em1]strega maestra[/em1]."
+  },
+  "2307": {
+   "16": "No",
+   "6": "Va bene."
+  },
+  "23100": {
+   "22": "Mmm...",
+   "3": "Ciao, Ellie.",
+   "4": "Ciao, Roy.",
+   "41": "Molto bene."
+  },
+  "23102": {
+   "43": "Grazie, Ellie.",
+   "47": "Che c'è?"
+  },
+  "23103": {
+   "17": "Lo so.",
+   "20": "Ehm...",
+   "25": "Dafne",
+   "33": "Adone",
+   "39": "Wisteria"
+  },
+  "23104": {
+   "16": "Grazie.",
+   "18": "Dafne",
+   "32": "Adone",
+   "33": "Wisteria"
+  },
+  "23105": {
+   "13": "Mmm...",
+   "20": "L'amore",
+   "24": "Ho capito.",
+   "30": "Sì.",
+   "66": "Molto gentile da parte tua."
+  },
+  "2318": {
+   "12": "Eh?"
+  },
+  "232": {
+   "25": "Che c'è?",
+   "28": "Oh, è vero!"
+  },
+  "233": {
+   "28": "*Gemito*..."
+  },
+  "235": {
+   "13": "Come lo sai?",
+   "9": "Rubrum?"
+  },
+  "236": {
+   "1": "Benvenuta, Ellie.",
+   "25": "Non è stato niente.",
+   "28": "Ehehe.",
+   "34": "Uno, due, tre!",
+   "36": "Oh.",
+   "37": "Ah.",
+   "38": "Che c'è?"
+  },
+  "237": {
+   "2": "Vero?",
+   "25": "Grazie ancora, Ellie.\r",
+   "3": "Grazie di cuore, Ellie.",
+   "34": "Anch'io!"
+  },
+  "240": {
+   "3": "Cos'è questo?"
+  },
+  "2400": {
+   "16": "Ma certo!",
+   "34": "Aaaah!",
+   "37": "Ma certo!"
+  },
+  "2401": {
+   "17": "Va bene.",
+   "21": "Ah, e c'è un'altra cosa.",
+   "36": "Sì, senz'altro."
+  },
+  "2402": {
+   "3": "Dalla prossima volta seguirà il calendario normale.",
+   "4": "Tieni presente che l'ordine che compare oggi va completato prima del prossimo giorno di aggiornamento, non oltre questo [em1][lua(GetLocalizedString(\"Common\", GetGlobalVariable(\"$711\")))][/em1].",
+   "67": "Gli elenchi delle consegne si aggiornano ogni [em1][lua(GetLocalizedString(\"Common\", \"Monday\"))][/em1] e ogni [em1][lua(GetLocalizedString(\"Common\", \"Thursday\"))][/em1]."
+  },
+  "2404": {
+   "7": "Va bene, ho capito."
+  },
+  "241": {
+   "31": "Torno più tardi."
+  },
+  "2410": {
+   "12": "Ehm... beh...",
+   "15": "Ellie.",
+   "53": "Che vuoi dire?",
+   "66": "Normalmente no.",
+   "71": "Vero, ma..."
+  },
+  "24300": {
+   "1": "Giusto!"
+  },
+  "24301": {
+   "14": "Grazie, Ellie."
+  },
+  "244": {
+   "2": "Non ne ho mai sentito parlare."
+  },
+  "247": {
+   "23": "Non ho scelta."
+  },
+  "2505": {
+   "2": "Hai fame?",
+   "3": "No, non parlo di me!"
+  },
+  "2506": {
+   "2": "Davvero?"
+  },
+  "2508": {
+   "6": "Eh?",
+   "8": "Ah."
+  },
+  "2511": {
+   "20": "Mmm... va bene...",
+   "23": "Ah.",
+   "24": "Eh?",
+   "30": "Cosa?!",
+   "40": "Mi chiamo Diane. Grazie di essere passata oggi.",
+   "46": "Mi chiamo Diane. Grazie di essere passata oggi.",
+   "48": "Che c'è?"
+  },
+  "2512": {
+   "7": "Kyla!"
+  },
+  "2513": {
+   "5": "E..."
+  },
+  "2516": {
+   "18": "Oh...",
+   "19": "Oh."
+  },
+  "2517": {
+   "14": "Oh...",
+   "21": "Grazie, Enite!"
+  },
+  "2518": {
+   "1": "Evviva! La [em1][lua(GetLocalizedString(\"Item\", \"SunlightPotion_Name\"))][/em1] è pronta!"
+  },
+  "2519": {
+   "1": "Va bene. Ecco qua!"
+  },
+  "2520": {
+   "1": "Bene, adesso andiamo al dispensario. "
+  },
+  "254": {
+   "39": "Sì.",
+   "4": "Daglieli",
+   "49": "Tieni.",
+   "5": "Vuoi provare questa?",
+   "55": "Capisco...",
+   "62": "Cos'è questo?",
+   "76": "Davvero?",
+   "84": "Non darglieli"
+  },
+  "26": {
+   "1": "Su quello non saprei."
+  },
+  "2602": {
+   "5": "Salve."
+  },
+  "2607": {
+   "24": "Aspirazioni",
+   "27": "Lascia perdere"
+  },
+  "2609": {
+   "2": "Acquista",
+   "20": "Lascia perdere"
+  },
+  "2611": {
+   "8": "Piacere di fare la tua conoscenza."
+  },
+  "2613": {
+   "40": "Lascia perdere"
+  },
+  "2614": {
+   "18": "Lascia perdere"
+  },
+  "262": {
+   "1": "Devo trovare la manopola per usare la tostatrice.",
+   "2": "Uso per la tostatrice la manopola di metallo che ho?",
+   "3": "Usala",
+   "5": "Bene, adesso posso usare la tostatrice.",
+   "6": "Ottimo lavoro. Potrai preparare più pozioni."
+  },
+  "267": {
+   "3": "Ma che stai dicendo?"
+  },
+  "27": {
+   "1": "È la prima volta che ne sento parlare.",
+   "2": "Non ne sono sicuro."
+  },
+  "2700": {
+   "1": "Ellie!"
+  },
+  "2701": {
+   "14": "Va bene, ho capito.",
+   "17": "Uau, davvero?",
+   "21": "Cosa? E perché no?",
+   "25": "Mmm...",
+   "29": "Va bene.",
+   "34": "Capito.",
+   "7": "Capito."
+  },
+  "2702": {
+   "18": "Va bene.",
+   "50": "Ellie, sai a cosa serve un'[lua(GetLocalizedString(\"Common\", \"Incubator\"))]?",
+   "51": "Ehm, no.",
+   "52": "L'[lua(GetLocalizedString(\"Common\", \"Incubator\"))] è un attrezzo da strega avanzato, riservato alle streghe che hanno padroneggiato la raccolta.",
+   "53": "Usandola ottieni [em1]molti ingredienti[/em1] da [em1]pochi oggetti raccolti[/em1].",
+   "54": "Vuol dire che possono usarla solo le streghe esperte e non le apprendiste?",
+   "55": "No! Ellie, hai l'[em1]enciclopedia[/em1] rilasciata dalla Scuola per Streghe, vero?",
+   "56": "Nell'[lua(GetLocalizedString(\"Common\", \"Incubator\"))] si possono usare solo le forme di vita di [em1]zone la cui ricerca nell'enciclopedia è arrivata a un certo punto[/em1].",
+   "57": "Il che vuol dire che diventerai brava a usare l'[lua(GetLocalizedString(\"Common\", \"Incubator\"))] se ti impegni a completare le ricerche nell'enciclopedia.",
+   "58": "Uau, così mi risparmio la fatica di raccogliere roba in giro.",
+   "59": "Esatto. È molto apprezzata dalle streghe che devono [em1]viaggiare parecchio per raccogliere oggetti[/em1].",
+   "60": "E nel tuo [em1]laboratorio[/em1] puoi mettere [em1]più di una [/em1][lua(GetLocalizedString(\"Common\", \"Incubator\"))].",
+   "62": "Uau, grazie, Diane!"
+  },
+  "27300": {
+   "72": "E tu chi saresti...?",
+   "73": "Ciao, Ellie."
+  },
+  "27302": {
+   "2": "Pfff!"
+  },
+  "275": {
+   "7": "Prima andiamo al villaggio."
+  },
+  "278": {
+   "4": "Bene, andiamo subito."
+  },
+  "282": {
+   "4": "Oh, sì."
+  },
+  "284": {
+   "21": "Lascia fare a me!"
+  },
+  "288": {
+   "129": "Uau, davvero?",
+   "2": "Che vuoi dire?",
+   "37": "Va bene..."
+  },
+  "289": {
+   "106": "Grazie per l'acquisto.",
+   "11": "Lascia perdere",
+   "110": "Sì",
+   "111": "No",
+   "128": "Grazie per l'acquisto.",
+   "13": "Sì.",
+   "134": "Va bene.",
+   "151": "Lascia perdere",
+   "153": "Sì.",
+   "157": "Lascia perdere",
+   "161": "Lascia perdere",
+   "163": "Sì.",
+   "167": "Lascia perdere",
+   "169": "Sì.",
+   "173": "Lascia perdere",
+   "175": "Sì.",
+   "43": "Sì",
+   "44": "No",
+   "5": "Lascia perdere",
+   "55": "Grazie per l'acquisto.",
+   "56": "Sì",
+   "57": "No",
+   "65": "Grazie per l'acquisto.",
+   "72": "Sì",
+   "73": "No",
+   "8": "Ti serve qualcosa?",
+   "90": "Sarebbe una bella cosa."
+  },
+  "290": {
+   "1": "Cos'è questo?"
+  },
+  "2900": {
+   "4": "Bel lavoro."
+  },
+  "2903": {
+   "10": "Alvin",
+   "13": "Biblioteca",
+   "4": "Vinch"
+  },
+  "2904": {
+   "13": "Al momento serve questo.",
+   "16": "Hai già raccolto tutto? Che velocità.",
+   "17": "Bene, comincio a lavorarci domani.",
+   "21": "Faccia con comodo."
+  },
+  "291": {
+   "2": "Sì.",
+   "29": "Che intenzioni hai?",
+   "40": "Su questo non posso obiettare.",
+   "49": "Su questo non posso obiettare."
+  },
+  "2910": {
+   "8": "Va bene."
+  },
+  "2911": {
+   "10": "Alvin",
+   "13": "Biblioteca",
+   "4": "Vinch"
+  },
+  "2912": {
+   "13": "Al momento serve questo.",
+   "16": "Hai già raccolto tutto? Che velocità.",
+   "17": "Bene, comincio a lavorarci domani.",
+   "21": "Faccia con comodo."
+  },
+  "2914": {
+   "13": "Al momento serve questo.",
+   "16": "Hai già raccolto tutto? Che velocità.",
+   "17": "Bene, comincio a lavorarci domani.",
+   "21": "Faccia con comodo."
+  },
+  "294": {
+   "10": "Oh, va bene."
+  },
+  "296": {
+   "11": "Sì.",
+   "36": "Grazie.",
+   "5": "Grazie mille.",
+   "64": "Lascia fare a me!"
+  },
+  "297": {
+   "10": "Argento",
+   "11": "Giallo",
+   "18": "Oh, a proposito...",
+   "27": "Va bene.",
+   "35": "Che c'è?",
+   "40": "Buona idea.",
+   "9": "Rosa"
+  },
+  "298": {
+   "15": "Giallo",
+   "18": "Uau, grazie!",
+   "22": "Rosa"
+  },
+  "299": {
+   "11": "Accetta"
+  },
+  "3000": {
+   "28": "Ah, giusto.",
+   "5": "È una passeggiata."
+  },
+  "3001": {
+   "15": "Ma si figuri.",
+   "20": "È una passeggiata.",
+   "49": "Che vuoi dire?",
+   "59": "Vero, però...",
+   "61": "Va bene."
+  },
+  "3006": {
+   "1": "Ehm..."
+  },
+  "3009": {
+   "1": "Questa è..."
+  },
+  "3010": {
+   "1": "Questa è..."
+  },
+  "3011": {
+   "7": "Lo so."
+  },
+  "3012": {
+   "6": "Va bene."
+  },
+  "3013": {
+   "1": "Ehm..."
+  },
+  "3014": {
+   "1": "Ehm..."
+  },
+  "3015": {
+   "3": "Ma non ho ancora detto una parola."
+  },
+  "3017": {
+   "12": "Sì.",
+   "8": "Bene."
+  },
+  "3018": {
+   "13": "Eh? Ma...",
+   "23": "In che senso?",
+   "33": "Riguardati.",
+   "8": "Prego."
+  },
+  "3019": {
+   "1": "Uff...",
+   "13": "Sì."
+  },
+  "3022": {
+   "11": "Ehi!"
+  },
+  "303": {
+   "15": "Va bene."
+  },
+  "304": {
+   "20": "Qual è il problema?",
+   "24": "Ho capito.",
+   "5": "Sì!",
+   "9": "Sì."
+  },
+  "30501": {
+   "12": "Allora...",
+   "18": "Mmm..."
+  },
+  "30800": {
+   "2": "Davvero?!",
+   "4": "Che vuoi dire?"
+  },
+  "3101": {
+   "1": "E cioè?"
+  },
+  "3104": {
+   "6": "Ehm...",
+   "7": "Aspetta, esiste una [em1]pozione[/em1] così?"
+  },
+  "3110": {
+   "47": "Lascia perdere"
+  },
+  "3111": {
+   "30": "Mmm...",
+   "31": "Che c'è?",
+   "37": "Ben fatto."
+  },
+  "3114": {
+   "1": "Cos'è questo?"
+  },
+  "3120": {
+   "7": "Ehm...",
+   "8": "Aspetta, esiste una [em1]pozione[/em1] così?"
+  },
+  "3124": {
+   "4": "Riesci a leggerla?",
+   "5": "Allora..."
+  },
+  "3126": {
+   "8": "Ehm...",
+   "9": "Aspetta, esiste una [em1]pozione[/em1] così?"
+  },
+  "313": {
+   "14": "Ah sì?",
+   "2": "Mmm...",
+   "202": "E...",
+   "3": "Diane?",
+   "4": "Oh cielo...",
+   "9": "È successo qualcosa?"
+  },
+  "3130": {
+   "8": "Ehm...",
+   "9": "Aspetta, esiste una [em1]pozione[/em1] così?"
+  },
+  "3132": {
+   "3": "Sai cosa fare, vero?",
+   "4": "Certo."
+  },
+  "3136": {
+   "6": "Ma certo!"
+  },
+  "3139": {
+   "23": "Ehm...",
+   "28": "Eh? Come?",
+   "6": "Davvero?"
+  },
+  "3140": {
+   "2": "Non ne sono sicuro."
+  },
+  "3141": {
+   "6": "Bene, andiamo!"
+  },
+  "31502": {
+   "7": "Certo."
+  },
+  "31800": {
+   "15": "Oh no...",
+   "7": "Uau! Davvero?"
+  },
+  "319": {
+   "2": "È come una ghianda, ma con braccia, gambe e una faccia."
+  },
+  "320": {
+   "4": "Oh!"
+  },
+  "3200": {
+   "2": "Che cosa stai facendo lì?",
+   "4": "Cosa?"
+  },
+  "3202": {
+   "13": "Sì, è così."
+  },
+  "3203": {
+   "25": "Allora..."
+  },
+  "3204": {
+   "1": "Allora..."
+  },
+  "3205": {
+   "29": "Cosa? E perché no?"
+  },
+  "3206": {
+   "26": "Va bene, lo farò.",
+   "3": "E per quale motivo?",
+   "33": "Sì.",
+   "40": "Certo.",
+   "7": "Ma..."
+  },
+  "3207": {
+   "1": "Uff...",
+   "12": "O sotto due metri di terra.",
+   "13": "Non credo proprio.",
+   "24": "Su questo non posso obiettare."
+  },
+  "3208": {
+   "21": "Oh...",
+   "27": "Capisco...",
+   "40": "Va bene, alla prossima.",
+   "8": "Com'è andata?"
+  },
+  "3209": {
+   "32": "Aspetta, aveva detto di avere una cosa da consegnare al bibliotecario quando la biblioteca sarà a posto...",
+   "33": "Ah, sì. È la [em1][lua(GetLocalizedString(\"Item\", \"LisasBooks_Name\"))][/em1]!",
+   "34": "Adesso che mi è tornata in mente, porto subito la [em1][lua(GetLocalizedString(\"Item\", \"LisasBooks_Name\"))][/em1] ad [em1]Arin[/em1]!"
+  },
+  "32102": {
+   "12": "Che c'è?",
+   "37": "Lo faresti?",
+   "49": "\"O strega, aiuta chi ti sta a portata di mano.\"",
+   "6": "Roy?"
+  },
+  "32106": {
+   "22": "Oh...",
+   "31": "Lo spero.",
+   "42": "Certo!"
+  },
+  "32114": {
+   "11": "Mmm?",
+   "18": "Ellie...",
+   "22": "Roy?"
+  },
+  "32117": {
+   "10": "Ma certo!",
+   "46": "Sì.",
+   "48": "Grazie, Ellie."
+  },
+  "32201": {
+   "13": "Così?",
+   "18": "Uau, davvero?"
+  },
+  "324": {
+   "1": "Glicine."
+  },
+  "329": {
+   "12": "Grazie ancora dell'aiuto."
+  },
+  "3300": {
+   "4": "E poi?"
+  },
+  "3301": {
+   "22": "Magari la prossima volta."
+  },
+  "3302": {
+   "2": "Usala",
+   "3": "Lascia perdere"
+  },
+  "332": {
+   "13": "Pesca",
+   "29": "Lascia perdere"
+  },
+  "333": {
+   "27": "Vero?",
+   "9": "Sì, esatto."
+  },
+  "337": {
+   "1": "Ciao, Arden.",
+   "18": "Non lo so.",
+   "2": "Ehm...",
+   "22": "Com'è fatta?",
+   "25": "Ha uno strano colore argenteo e non ha né stoppino né candela, anche se è una lampada.",
+   "26": "Sono andato al [em1]lago della [lua(GetLocalizedString(\"Common\", \"Common_Theme_GreenForest\"))][/em1] lontano dal villaggio e ci ho passato un po' di tempo.",
+   "3": "Arden?",
+   "31": "Quando sono andato a cercarla non c'era, ma non si sa mai.",
+   "32": "Di notte quella zona si riempie del [em1]profumo dei fiori[/em1].",
+   "4": "Mmm..."
+  },
+  "339": {
+   "1": "E cioè?"
+  },
+  "3410": {
+   "10": "Credo di sì."
+  },
+  "3416": {
+   "2": "Sì.",
+   "3": "Va bene. Ecco qua!"
+  },
+  "344": {
+   "20": "Bel lavoro.",
+   "22": "Perché sì.",
+   "44": "Ha uno strano colore argenteo e non ha né stoppino né candela, anche se è una lampada.",
+   "45": "Sono andato al [em1]lago della [lua(GetLocalizedString(\"Common\", \"Common_Theme_GreenForest\"))][/em1] lontano dal villaggio e ci ho passato un po' di tempo.",
+   "47": "Di notte quella zona si riempie del [em1]profumo dei fiori[/em1]."
+  },
+  "348": {
+   "23": "Davvero?",
+   "36": "Non vorrai chiederlo a una persona sola, vero?",
+   "37": "Che c'è?",
+   "38": "Qualunque ricerca tu faccia, un campione solo non basta mai, lo sai.",
+   "39": "Nemmeno il più grande dei detective arriva alla verità con un unico indizio.",
+   "40": "Mmm... Non hai tutti i torti.",
+   "49": "Avrei dovuto strappare quello stupido [em1]biglietto[/em1] all'istante.",
+   "50": "Guarda che disegno idiota. Sembra fatto con le piume dell'ascella di una fenice!",
+   "51": "Non dell'ascella, ma [em1][lua(GetLocalizedString(\"Item\", \"Phoenix_Collect_Name\"))][/em1] di fenice c'è di sicuro.",
+   "52": "Serve a impedire che biglietti così costosi vengano [em1]falsificati[/em1].",
+   "53": "Sei un gran saccente. Nessuno ti ha chiesto niente."
+  },
+  "34801": {
+   "10": "Uau! Fantastico!",
+   "13": "Che rapidità!",
+   "16": "Uh! Grazie."
+  },
+  "34803": {
+   "26": "Già?"
+  },
+  "350": {
+   "71": "Ci scusiamo per il disagio.",
+   "72": "Un problema grave, forse?",
+   "73": "Il treno non può proseguire la corsa a causa di un [em1]problema grave[/em1]...",
+   "74": "EVVIVA!!!"
+  },
+  "36": {
+   "129": "Oh...",
+   "17": "Esatto.",
+   "172": "Mmm...",
+   "19": "Beh, ovviamente.",
+   "208": "Esatto.",
+   "223": "Sì.",
+   "28": "Esatto.",
+   "29": "Cosa?",
+   "34": "Mmm...",
+   "5": "Esatto."
+  },
+  "3601": {
+   "2": "Mmm..."
+  },
+  "3602": {
+   "25": "Va bene, lo farò.",
+   "3": "Che vuoi dire?"
+  },
+  "362": {
+   "58": "No."
+  },
+  "365": {
+   "11": "E come mai?",
+   "19": "Andiamo!",
+   "3": "Certo."
+  },
+  "36701": {
+   "10": "Ma...",
+   "41": "Ma certo!",
+   "7": "Arin..."
+  },
+  "36702": {
+   "193": "Lascia perdere",
+   "81": "Evviva!",
+   "84": "Mi dai un indizio?"
+  },
+  "3700": {
+   "26": "E poi?"
+  },
+  "373": {
+   "64": "No",
+   "65": "Sì"
+  },
+  "374": {
+   "64": "No",
+   "65": "Sì"
+  },
+  "376": {
+   "45": "E cioè?"
+  },
+  "377": {
+   "103": "Salve.",
+   "104": "Salve.",
+   "49": "Sì!",
+   "53": "Sì.",
+   "62": "Qual è il problema?",
+   "66": "Ho capito."
+  },
+  "380": {
+   "45": "Sì.",
+   "51": "Grazie."
+  },
+  "3800": {
+   "25": "E allora che cosa devo fare?",
+   "8": "Come, scusa?"
+  },
+  "3802": {
+   "13": "Uau, grazie, Diane!",
+   "29": "Con calma. Non c'è fretta.",
+   "6": "Ho controllato le pozioni che hai consegnato."
+  },
+  "3803": {
+   "20": "Evviva!",
+   "31": "Con calma. Non c'è fretta.",
+   "6": "Ho controllato le pozioni che hai consegnato."
+  },
+  "3804": {
+   "23": "Evviva!",
+   "26": "Con calma. Non c'è fretta.",
+   "7": "Ho controllato le pozioni che hai consegnato."
+  },
+  "381": {
+   "4": "E allora che faccio?"
+  },
+  "3820": {
+   "14": "Cosa?",
+   "18": "<shake>Ah!</shake>"
+  },
+  "3828": {
+   "26": "Mmm...",
+   "27": "Che c'è?",
+   "33": "Ben fatto."
+  },
+  "386": {
+   "140": "Non lo so."
+  },
+  "387": {
+   "1": "Cos'è questo?"
+  },
+  "390": {
+   "1": "Ha funzionato? È successo qualcosa?",
+   "2": "Non ne sono sicuro."
+  },
+  "39500": {
+   "10": "Su questo non posso obiettare."
+  },
+  "398": {
+   "10": "Che vuoi dire?",
+   "11": "Cosa...?",
+   "12": "Eh?",
+   "2": "Che vuoi dire?",
+   "9": "Mmm?"
+  },
+  "39804": {
+   "19": "Uau! Grazie, Aurea! Sei la migliore!"
+  },
+  "39805": {
+   "2": "Che intenzioni hai?"
+  },
+  "40": {
+   "3": "Salve."
+  },
+  "400": {
+   "8": "Ah sì?"
+  },
+  "404": {
+   "29": "\"O strega, aiuta chi ti sta a portata di mano.\""
+  },
+  "406": {
+   "22": "Ellie."
+  },
+  "407": {
+   "13": "Che vuoi dire?",
+   "15": "Oh...",
+   "20": "Davvero?"
+  },
+  "408": {
+   "20": "Mmm...",
+   "36": "Tutto qui?",
+   "37": "Certo.",
+   "45": "Uau, grazie."
+  },
+  "410": {
+   "2": "Va bene.",
+   "3": "Va bene. Ecco qua!"
+  },
+  "4101": {
+   "10": "Cosa? E perché no?",
+   "40": "Va bene, lascio fare a te.",
+   "43": "Capito."
+  },
+  "4103": {
+   "10": "Scoprilo da sola.",
+   "16": "Va bene, lo farò.",
+   "9": "E allora?"
+  },
+  "4104": {
+   "4": "Ma..."
+  },
+  "4110": {
+   "3": "Proprio così.",
+   "8": "Va bene, lo farò."
+  },
+  "4111": {
+   "13": "Va bene, lo farò."
+  },
+  "4112": {
+   "3": "Certo."
+  },
+  "4113": {
+   "7": "Certo."
+  },
+  "4115": {
+   "11": "Cosa?",
+   "8": "Eh?"
+  },
+  "4116": {
+   "13": "Eh? Dove?",
+   "4": "Ma..."
+  },
+  "4117": {
+   "10": "Pare di sì.",
+   "3": "Cosa?"
+  },
+  "4129": {
+   "12": "Fammi vedere.",
+   "2": "Ah..."
+  },
+  "4130": {
+   "3": "Che vuoi dire?"
+  },
+  "4131": {
+   "3": "Sì.",
+   "4": "No"
+  },
+  "415": {
+   "27": "Uau, grazie."
+  },
+  "416": {
+   "1": "Enite! Cosa ti porta qui?"
+  },
+  "4202": {
+   "74": "Ah sì? Va bene, allora.",
+   "83": "Ah sì? Va bene, allora."
+  },
+  "4205": {
+   "2": "Eh?"
+  },
+  "421": {
+   "6": "Lascia perdere"
+  },
+  "42400": {
+   "1": "Che cosa faccio?",
+   "12": "La mia borsa è piena.",
+   "20": "Cominciamo!",
+   "28": "Bene, è ora di [em1]personalizzare[/em1]!",
+   "30": "Chissà che cosa ne verrà fuori, di questo mobile.",
+   "31": "Ci rivediamo... domani a quest'ora!",
+   "33": "Hmpf, e allora non stupirti troppo, Virgil.",
+   "34": "Lascia perdere",
+   "5": "Che cosa faccio?"
+  },
+  "425": {
+   "15": "Dai, andiamo!"
+  },
+  "42501": {
+   "3": "Salve, signorina Ellie."
+  },
+  "42502": {
+   "14": "Mi fa piacere sentirtelo dire.",
+   "167": "O Strega, aiuta chi ti sta a portata di mano.",
+   "28": "Ma certo!",
+   "29": "Ma certo!",
+   "7": "Capito.",
+   "81": "Eh? Tutto qui?"
+  },
+  "4301": {
+   "3": "Mmm...",
+   "4": "Che c'è?",
+   "44": "Ben fatto."
+  },
+  "4316": {
+   "11": "Giusto."
+  },
+  "4317": {
+   "7": "Andiamo!"
+  },
+  "439": {
+   "1": "Ciao, Ellie.",
+   "3": "Che c'è?"
+  },
+  "44": {
+   "24": "Ehm..."
+  },
+  "4400": {
+   "15": "Ma cosa?",
+   "28": "Grazie ancora dell'aiuto.",
+   "47": "Che peccato.",
+   "57": "Va bene.",
+   "6": "Va bene."
+  },
+  "4401": {
+   "24": "Eh? Tutto qui?",
+   "41": "Che c'è?",
+   "48": "Certo."
+  },
+  "4500": {
+   "23": "Non fa niente.",
+   "25": "Capita.",
+   "34": "Va bene, grazie.",
+   "4": "Arden.",
+   "42": "Oh, grazie.",
+   "73": "Ah sì?",
+   "9": "Sì."
+  },
+  "452": {
+   "129": "Wisteria",
+   "2": "Che c'è?",
+   "28": "Ah, ecco.",
+   "36": "Sì, esatto."
+  },
+  "454": {
+   "57": "Certo.",
+   "75": "Sì, esatto."
+  },
+  "455": {
+   "137": "Capito."
+  },
+  "457": {
+   "113": "Questa è una cosa e quella è un'altra."
+  },
+  "45701": {
+   "5": "Spiega la situazione"
+  },
+  "45800": {
+   "19": "Certo.",
+   "21": "Grazie.",
+   "25": "[em1][lua(GetLocalizedString(\"Item\", \"FestivalInvitation_Name\"))] [/em1] Capitolo 2 [lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "46000": {
+   "6": "Guarda le parole chiave"
+  },
+  "461": {
+   "154": "Cosa?",
+   "156": "Ehm...",
+   "167": "Cosa?",
+   "179": "Certo.",
+   "189": "Che vuoi dire?"
+  },
+  "462": {
+   "19": "Che intenzioni hai?"
+  },
+  "46200": {
+   "5": "Come lo sai?"
+  },
+  "4622": {
+   "7": "Cosa?"
+  },
+  "4623": {
+   "26": "Ehm... beh..."
+  },
+  "4625": {
+   "3": "Come lo sai?"
+  },
+  "4627": {
+   "31": "Rubrum"
+  },
+  "463": {
+   "13": "Uffa...",
+   "6": "Uau...",
+   "9": "Uau..."
+  },
+  "4630": {
+   "10": "Va bene, lo farò.",
+   "20": "Ti prego, smettila.",
+   "25": "Perché no?",
+   "43": "Va bene."
+  },
+  "4632": {
+   "21": "...Mmm."
+  },
+  "4633": {
+   "1": "Non allontanarti troppo."
+  },
+  "4634": {
+   "15": "Buona idea.",
+   "7": "Allora..."
+  },
+  "464": {
+   "8": "Sì.",
+   "9": "Ehm."
+  },
+  "465": {
+   "25": "Sì.",
+   "3": "Mmm.",
+   "53": "Una strega è sempre pronta ad aiutare la gente, a partire da chi le sta intorno.",
+   "59": "Mmm."
+  },
+  "46502": {
+   "15": "Ma certo!",
+   "23": "Certo.",
+   "25": "Sì.",
+   "34": "Ellie.",
+   "35": "Che vuoi dire?",
+   "37": "Ma si figuri.",
+   "39": "Che vuoi dire?",
+   "45": "[em1][lua(GetLocalizedString(\"Item\", \"FestivalInvitation_Name\"))] [/em1] Capitolo 2 [lua(GetLocalizedString(\"Choice\", \"LetsBringItem\"))]"
+  },
+  "46600": {
+   "4": "C'è qualcun altro?",
+   "6": "Guarda le parole chiave"
+  },
+  "46602": {
+   "10": "Uau, davvero?"
+  },
+  "46603": {
+   "2": "Perché?",
+   "9": "Ma certo!"
+  },
+  "467": {
+   "56": "Ehm...",
+   "68": "Arden?",
+   "72": "Non lo so."
+  },
+  "46801": {
+   "3": "Oh no..."
+  },
+  "4700": {
+   "18": "Bene, comincio a lavorarci domani."
+  },
+  "47000": {
+   "7": "Allora..."
+  },
+  "472": {
+   "2": "Giusto!"
+  },
+  "47200": {
+   "6": "Sì!"
+  },
+  "47201": {
+   "10": "Ehehe."
+  },
+  "47300": {
+   "17": "Guarda le parole chiave",
+   "3": "Va bene."
+  },
+  "476": {
+   "3": "Arden?",
+   "4": "Prendi."
+  },
+  "47600": {
+   "13": "Che vuoi dire?",
+   "20": "Ma...",
+   "82": "Esatto."
+  },
+  "479": {
+   "9": "Vero?"
+  },
+  "480": {
+   "16": "Sono d'accordo."
+  },
+  "4800": {
+   "103": "Davvero?",
+   "34": "È proprio questo il problema.",
+   "35": "Che vuoi dire?",
+   "5": "La tua passione per i fiori di glicine?",
+   "81": "Allora...",
+   "82": "Allora...",
+   "98": "Che vuoi dire?"
+  },
+  "48000": {
+   "1": "Va bene."
+  },
+  "48001": {
+   "14": "Grazie."
+  },
+  "48002": {
+   "5": "Va bene."
+  },
+  "48003": {
+   "11": "Eh? Che c'è?",
+   "18": "Ehm..."
+  },
+  "48009": {
+   "28": "È vero?",
+   "42": "Sono d'accordo.",
+   "61": "Ma...",
+   "62": "Ma?",
+   "69": "Meraviglioso."
+  },
+  "4801": {
+   "1": "Ellie, che c'è?",
+   "31": "Sì?",
+   "35": "EVVIVA!!!"
+  },
+  "48016": {
+   "2": "È qui che si trova il cuore del rovo spinoso.",
+   "3": "Ora raduniamo tutti e piantiamo il seme insieme!"
+  },
+  "48017": {
+   "24": "Anch'io.",
+   "25": "Che vuoi dire?",
+   "34": "Anch'io.",
+   "41": "Anch'io.",
+   "55": "Sì.",
+   "61": "Anche questo è vero.",
+   "8": "E poi usiamo la paletta per piantare il seme e la bandiera nel terreno."
+  },
+  "4802": {
+   "38": "Grazie, Ellie."
+  },
+  "48021": {
+   "16": "Ho capito.",
+   "25": "Ah, ecco.",
+   "27": "Bene, cominciamo.",
+   "52": "Davvero? Davvero?"
+  },
+  "48028": {
+   "1": "Grazie a tutti di essere venuti."
+  },
+  "48029": {
+   "15": "La penso allo stesso modo.",
+   "34": "Grazie a tutti."
+  },
+  "48032": {
+   "10": "Esatto.",
+   "5": "Me?"
+  },
+  "48034": {
+   "1": "Uau!"
+  },
+  "48035": {
+   "18": "Lisa...",
+   "26": "Enite...",
+   "30": "Ellie.",
+   "31": "Mmm...",
+   "32": "Diventerai una grande strega.",
+   "33": "Certo.",
+   "53": "Che il cielo di stanotte sia indaco."
+  },
+  "48036": {
+   "11": "Grazie.",
+   "13": "Certo che no.",
+   "15": "Anche questo è vero.",
+   "17": "Grazie.",
+   "2": "Sì.",
+   "4": "Anch'io.",
+   "9": "Anche questo è vero."
+  },
+  "4807": {
+   "8": "Mmm..."
+  },
+  "481": {
+   "16": "Va bene.",
+   "18": "Come lo sai?",
+   "27": "Va bene, lo farò."
+  },
+  "482": {
+   "4": "Sì, esatto.",
+   "9": "Grazie."
+  },
+  "483": {
+   "11": "Faccia con comodo."
+  },
+  "48700": {
+   "13": "Grazie.",
+   "32": "Non ce n'è bisogno."
+  },
+  "48701": {
+   "11": "Prendi.",
+   "24": "3 -> 4",
+   "9": "Benvenuta."
+  },
+  "48800": {
+   "13": "Grazie."
+  },
+  "48900": {
+   "21": "Ellie..."
+  },
+  "48901": {
+   "2": "Benvenuta, Ellie.",
+   "24": "3 -> 4",
+   "3": "Accetteresti questo?",
+   "9": "Ciao, Ellie."
+  },
+  "49": {
+   "21": "Eh? Dov'è finito il gatto?"
+  },
+  "4900": {
+   "1": "Che cosa faccio?",
+   "2": "Usala",
+   "9": "Lascia perdere"
+  },
+  "49200": {
+   "17": "Grazie."
+  },
+  "49400": {
+   "2": "Un regalo per me?",
+   "8": "Grazie."
+  },
+  "49600": {
+   "7": "È [em1][lua(GetLocalizedString(\"Item\", presentID))][/em1]?"
+  },
+  "49800": {
+   "12": "Vuoi darmi questo [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]?",
+   "13": "Grazie.",
+   "31": "Non ce n'è bisogno.",
+   "35": "Non ce n'è bisogno.",
+   "7": "Vuoi darmi questo [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]?",
+   "8": "Grazie, Ellie."
+  },
+  "49801": {
+   "14": "Grazie mille.",
+   "27": "3 -> 4"
+  },
+  "5": {
+   "7": "Salve."
+  },
+  "50000": {
+   "12": "Vuoi darmi questo [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]?",
+   "13": "Grazie.",
+   "33": "Grazie lo stesso.",
+   "7": "Vuoi darmi questo [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]?"
+  },
+  "50001": {
+   "24": "3 -> 4",
+   "3": "Tieni."
+  },
+  "50100": {
+   "14": "Vuoi darmi questo [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]?",
+   "2": "Hai un regalo per me?",
+   "31": "<shake>Grazie!</shake>",
+   "7": "Vuoi darmi questo [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]?"
+  },
+  "50101": {
+   "24": "3 -> 4"
+  },
+  "50300": {
+   "13": "Grazie.",
+   "15": "È [em1][lua(GetLocalizedString(\"Item\", presentID))][/em1]?",
+   "2": "Un regalo per me?",
+   "8": "Grazie mille."
+  },
+  "50301": {
+   "15": "Ciao, Ellie.",
+   "2": "Salve.",
+   "24": "3 -> 4",
+   "4": "Spero che le piaccia."
+  },
+  "50400": {
+   "12": "Grazie per [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]!",
+   "15": "Grazie.",
+   "22": "Grazie mille.",
+   "8": "Grazie, Ellie."
+  },
+  "50401": {
+   "17": "Tieni.",
+   "2": "Ciao, Ellie!",
+   "24": "3 -> 4",
+   "9": "Ciao, Ellie."
+  },
+  "50500": {
+   "7": "È [em1][lua(GetLocalizedString(\"Item\", presentID))][/em1]?"
+  },
+  "50700": {
+   "7": "Vuoi darmi questo [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]?",
+   "8": "Grazie, Ellie."
+  },
+  "50701": {
+   "15": "Benvenuta.",
+   "2": "Benvenuta, Ellie.",
+   "24": "3 -> 4",
+   "3": "Tieni.",
+   "9": "Ciao, Ellie."
+  },
+  "508": {
+   "1": "Oh, eccoti.",
+   "42": "Ah sì?",
+   "9": "Quindi le servo io?"
+  },
+  "510": {
+   "18": "Eh?"
+  },
+  "512": {
+   "13": "Dovrei andare a prendere la [em1][lua(GetLocalizedString(\"Item\", \"PrayerStone_Name\"))][/em1].",
+   "2": "Uau, hai ragione."
+  },
+  "513": {
+   "15": "Dovrei andare a prendere la [em1][lua(GetLocalizedString(\"Item\", \"PrayerStone_Name\"))][/em1]."
+  },
+  "514": {
+   "4": "Che vuoi dire?"
+  },
+  "5200": {
+   "139": "Che c'è?"
+  },
+  "521": {
+   "100": "Bene, comincio a lavorarci domani.",
+   "64": "Che c'è?",
+   "95": "Al momento serve questo.",
+   "99": "Faccia con comodo."
+  },
+  "527": {
+   "12": "Ellie.",
+   "18": "Grazie, Ellie."
+  },
+  "52800": {
+   "32": "Davvero? Grazie!",
+   "39": "Davvero?"
+  },
+  "529": {
+   "29": "Uau, grazie.",
+   "36": "Va bene, lo farò."
+  },
+  "531": {
+   "9": "Controlliamo!"
+  },
+  "53100": {
+   "20": "Mi sono dimenticato di portare la [em1][lua(GetItemName(\"CopycatMarionette\"))][/em1]."
+  },
+  "532": {
+   "28": "Vero?",
+   "31": "Su quello non saprei.",
+   "37": "Uno spirito?"
+  },
+  "53201": {
+   "23": "Esatto!"
+  },
+  "534": {
+   "13": "Lascia perdere"
+  },
+  "53402": {
+   "9": "Che c'è?"
+  },
+  "53403": {
+   "19": "Mi sono dimenticato di portare la [em1][lua(GetItemName(\"CopycatMarionette\"))][/em1]."
+  },
+  "536": {
+   "8": "Va bene, lo farò."
+  },
+  "537": {
+   "10": "Hai già raccolto tutto? Che velocità.",
+   "11": "Faccia con comodo.",
+   "7": "Al momento serve questo."
+  },
+  "54": {
+   "5": "Eh?"
+  },
+  "5400": {
+   "15": "Ehm...",
+   "3": "È una storia lunga."
+  },
+  "5401": {
+   "22": "Sì!",
+   "7": "Va bene.",
+   "73": "Davvero?",
+   "82": "Grazie, Ellie."
+  },
+  "541": {
+   "3": "C'è altro?"
+  },
+  "5410": {
+   "35": "Mmh, vediamo...",
+   "72": "Uff..."
+  },
+  "5412": {
+   "22": "Ma si figuri. Sono contenta di aver trovato un destinatario.",
+   "31": "Lascia perdere",
+   "4": "Quale lettera gli mostro?"
+  },
+  "5413": {
+   "24": "Ma si figuri. Sono contenta di aver trovato un destinatario.",
+   "29": "Lascia perdere",
+   "5": "Quale lettera gli mostro?"
+  },
+  "5414": {
+   "30": "Lascia perdere"
+  },
+  "5415": {
+   "19": "Lascia perdere",
+   "4": "Quale lettera gli mostro?"
+  },
+  "5416": {
+   "17": "Lascia perdere",
+   "4": "Quale lettera gli mostro?"
+  },
+  "5417": {
+   "20": "Lascia perdere"
+  },
+  "5418": {
+   "1": "Quale lettera gli mostro?",
+   "15": "Lascia perdere"
+  },
+  "5419": {
+   "1": "Quale lettera gli mostro?",
+   "15": "Lascia perdere"
+  },
+  "542": {
+   "38": "Cosa...?",
+   "6": "Che c'è?"
+  },
+  "5430": {
+   "13": "Più o meno."
+  },
+  "5432": {
+   "6": "Com'è andata?"
+  },
+  "544": {
+   "3": "Vediamo..."
+  },
+  "5440": {
+   "37": "Uffa."
+  },
+  "5441": {
+   "16": "Benissimo!",
+   "18": "Che c'è?"
+  },
+  "5442": {
+   "8": "Cos'è questo?"
+  },
+  "5443": {
+   "10": "Lascia perdere",
+   "45": "Arden",
+   "46": "Kyla",
+   "66": "Lascia perdere"
+  },
+  "5445": {
+   "7": "Bene... Ho annotato tutto quello che ho sentito sul [em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1]."
+  },
+  "5447": {
+   "9": "Bene... Ho annotato tutto quello che ho sentito sul [em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1]."
+  },
+  "5448": {
+   "10": "Bene... Ho annotato tutto quello che ho sentito sul [em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1]."
+  },
+  "5449": {
+   "10": "Non credo proprio.",
+   "12": "Bene... Ho annotato tutto quello che ho sentito sul [em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1]."
+  },
+  "545": {
+   "6": "No."
+  },
+  "5450": {
+   "8": "Bene... Ho annotato tutto quello che ho sentito sul [em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1]."
+  },
+  "5451": {
+   "12": "Bene... Ho annotato tutto quello che ho sentito sul [em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1]."
+  },
+  "5452": {
+   "4": "Dai, pensaci, ti prego."
+  },
+  "5453": {
+   "8": "Bene... Ho annotato tutto quello che ho sentito sul [em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1]."
+  },
+  "5454": {
+   "5": "Bene... Ho annotato tutto quello che ho sentito sul [em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1]."
+  },
+  "5455": {
+   "8": "Bene... Ho annotato tutto quello che ho sentito sul [em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1]."
+  },
+  "5456": {
+   "8": "Bene... Ho annotato tutto quello che ho sentito sul [em1][lua(GetLocalizedString(\"Item\", \"InvestigateNotebook_Ghost_Name\"))][/em1]."
+  },
+  "5458": {
+   "3": "Arden",
+   "4": "Kyla"
+  },
+  "5460": {
+   "13": "Cosa?",
+   "14": "Eh?",
+   "16": "Ottimo."
+  },
+  "548": {
+   "6": "Qui giace Ellie Blueriver, di anni sedici..."
+  },
+  "550": {
+   "177": "Grazie mille.",
+   "178": "Tu la conosci, Virgil."
+  },
+  "5500": {
+   "37": "Mmm...",
+   "50": "Davvero?"
+  },
+  "5501": {
+   "8": "Esatto."
+  },
+  "5502": {
+   "49": "Cosa?"
+  },
+  "5503": {
+   "17": "Ma si figuri.",
+   "19": "Davvero?",
+   "29": "Che vuoi dire?",
+   "40": "Cosa?",
+   "5": "È più semplice di quanto pensassi.",
+   "60": "Arrivederci."
+  },
+  "551": {
+   "213": "Me ne pentirò."
+  },
+  "556": {
+   "2": "Ehm...",
+   "4": "Eh?"
+  },
+  "557": {
+   "77": "Molto gentile da parte tua."
+  },
+  "558": {
+   "9": "In quel caso..."
+  },
+  "5601": {
+   "21": "Ottimo."
+  },
+  "5602": {
+   "15": "Grazie mille.",
+   "16": "Sono contento di essere stato utile.",
+   "19": "Uau, grazie.",
+   "5": "Benvenuta, Ellie."
+  },
+  "5603": {
+   "32": "In che senso?"
+  },
+  "5606": {
+   "34": "Che c'è?",
+   "40": "Oh!"
+  },
+  "562": {
+   "13": "Capisco...",
+   "14": "Io..."
+  },
+  "564": {
+   "21": "Però immagino che chiedere in giro non faccia male.",
+   "26": "Virgil."
+  },
+  "566": {
+   "7": "Salve."
+  },
+  "57": {
+   "19": "EVVIVA!!!"
+  },
+  "5700": {
+   "15": "Giusto!"
+  },
+  "5701": {
+   "35": "Adesso ho capito che cosa intendeva il cappello prima.",
+   "40": "Prima di tutto, pescare è facile da imparare e difficile da padroneggiare.",
+   "41": "Lo spiego una volta sola. Ascolta bene.",
+   "43": "Capito?",
+   "44": "Mmm... Probabilmente.",
+   "45": "Mi basta fare <swing>frush</swing> col galleggiante così che faccia <shake>splash</shake> vicino ai pesci, giusto?",
+   "46": "Con una descrizione così vaga non ci capisce niente nessuno.",
+   "47": "Più o meno...",
+   "48": "Yuhu.",
+   "49": "Adesso ho quasi paura che Ellie sia portata per la pesca.",
+   "50": "Comunque, segui quello che ho detto e provaci. Ci prenderai la mano.",
+   "54": "Cosa?",
+   "56": "E perché darlo a me?",
+   "57": "Perché mi hai insegnato a pescare. E poi non saprei nemmeno pulirlo, se lo prendessi.",
+   "58": "Allora posso dartelo, Freddie?",
+   "59": "Sai proprio come procurarmi guai...",
+   "6": "Ellie è svelta a passare all'azione. Vedrai.",
+   "62": "Va bene, io vado."
+  },
+  "571": {
+   "15": "Ah sì?",
+   "20": "Davvero?"
+  },
+  "573": {
+   "100": "Caricherà un documento e verrà una strega.",
+   "101": "E scopriranno che qui non c'è nessuna strega maestra.",
+   "102": "E allora che faccio?",
+   "103": "Una casa della strega può ripararla anche un artigiano capace.",
+   "104": "Allora lo chiedo a Kyla.",
+   "42": "Allora...",
+   "43": "Sì?",
+   "96": "Dovrei dirlo a Diane, giusto?",
+   "97": "Non diventerebbe una cosa ufficiale, se lo dici a Diane?",
+   "98": "Ma che stai dicendo?",
+   "99": "È un impegno di spesa."
+  },
+  "575": {
+   "2": "Benvenuta, Ellie.",
+   "4": "Eccolo qui.",
+   "45": "Le mie domande finiscono qui."
+  },
+  "576": {
+   "109": "Un attimo solo.",
+   "68": "Che c'è?"
+  },
+  "5800": {
+   "14": "Cosa?"
+  },
+  "5801": {
+   "29": "Enite"
+  },
+  "5802": {
+   "14": "Capisco...",
+   "30": "Eccolo qui.",
+   "35": "La mia salute peggiora.",
+   "36": "Non pensavo che sarebbe successo così in fretta... La paura mi sta divorando.",
+   "37": "Credevo fosse un malanno da poco, e invece si è rivelato incurabile.",
+   "38": "Arden sarà probabilmente ancora vivo molto tempo dopo che me ne sarò andata...",
+   "39": "E siccome è un drago millenario, Arden si dimenticherà di me.",
+   "40": "Il tempo che abbiamo passato insieme sembra breve perfino a me. Per Arden sarà forse un battito di ciglia?",
+   "41": "Ogni volta che ci penso mi si stringe il petto.",
+   "42": "Quali parole dovrei lasciargli perché si ricordi di me?",
+   "43": "Spero che Arden riesca a ricordare ogni dettaglio di me, per quanto piccolo e insignificante.",
+   "44": "Se solo il Dio Gatto Nero avesse pietà di me e mi desse più tempo...",
+   "45": "Ah..."
+  },
+  "5803": {
+   "97": "Lascia perdere"
+  },
+  "5810": {
+   "14": "Grazie!",
+   "3": "Che c'è?"
+  },
+  "5814": {
+   "12": "Arden?",
+   "14": "Come, scusa?",
+   "4": "Allora..."
+  },
+  "5820": {
+   "3": "Sei qui.",
+   "57": "Arden...",
+   "78": "Grazie.",
+   "86": "Che vuoi dire?",
+   "96": "Che vuoi dire?"
+  },
+  "5821": {
+   "1": "Quale pagina leggiamo?",
+   "10": "Il [em1]lago sotto la cascata[/em1], quieto e immenso, è perfetto per rilassarsi.",
+   "11": "Ho insegnato ad Arden a [em1]far rimbalzare i sassi[/em1], ma non è ancora bravo quanto me.",
+   "12": "Gli ho promesso di esaudirgli un desiderio quando riuscirà a battermi coi sassi, ma la strada è ancora lunga.",
+   "15": "Questa pagina parla di Arden e della Guerriera che si riposano al [em1]lago sotto la cascata[/em1] della [lua(GetLocalizedString(\"Common\", \"Common_Theme_GreenForest\"))] dopo una giornata di lavoro al ristorante.",
+   "16": "24 aprile",
+   "17": "Nei giorni di riposo io e Arden passeggiamo nella foresta attorno al villaggio.",
+   "18": "Di solito sono io a trascinarlo per forza, ma nonostante tutte le sue lamentele viene lo stesso.",
+   "19": "[em1]Addentrandoci[/em1] nella foresta si arriva a una zona buia.",
+   "2": "10 marzo",
+   "20": "È quasi tutta in penombra, ma guardando bene si trova una chiazza di sole che filtra fra le foglie. Quel punto meraviglioso è la nostra base segreta.",
+   "21": "Fra i cespugli c'è un masso enorme. Gliene ho [em1]spianata la cima[/em1] per usarlo come sedia.",
+   "22": "Anche se Arden si lamenta della lunga camminata, il posto sembra piacergli.",
+   "23": "Sto scolpendo una statua di Arden. Di solito mi perdo talmente nel lavoro che mi dimentico che è lì accanto a me.",
+   "25": "Oggi ho portato i colori così potevamo dipingere insieme.",
+   "26": "Ahahah! Arden è pessimo a dipingere. Sono caduta per terra dal ridere appena ho visto il suo ritratto di me.",
+   "27": "Arden è andato subito su tutte le furie. Ha provato a riprendersi il quadro e a bruciarlo, ma non gliel'ho lasciato fare.",
+   "28": "È il mio tesoro. Oggi ho finito la statua di Arden e ci metterò dentro il quadro per conservarlo.",
+   "3": "Il ristorante è aperto da tre mesi. Pensavo che avremmo chiuso in un attimo, e invece a poco a poco ci siamo avviati.",
+   "30": "Questa pagina parla di Arden e della Guerriera che passano il tempo [em1]nel folto della [lua(GetLocalizedString(\"Common\", \"Common_Theme_GreenForest\"))][/em1].",
+   "31": "3 maggio",
+   "32": "Io e Arden siamo tornati nel punto della [em1][lua(GetLocalizedString(\"Common\", \"Common_Theme_GreenForest\"))][/em1] dove abbiamo piantato il Fiore dell'Amore. Arden ha detto che il nome è infantile,",
+   "33": "e ha schioccato la lingua vedendomi scavare la terra con la spada, ma poi è venuto lo stesso ad aiutarmi.",
+   "34": "Dicono che più sei sincero, più [em1]grande sarà il tuo Fiore dell'Amore[/em1]. Non vedo l'ora che il mio sbocci.",
+   "35": "I fiori più grandi ci mettono più tempo a sbocciare, ma una volta aperti non appassiscono facilmente.",
+   "36": "Arden ha liquidato il detto come \"sciocchezze in cui credono solo i bambini\". Di romanticismo non capisce niente.",
+   "37": "È fatto così. Una volta gli ho chiesto di considerarmi una gemma e di dirmi qualcosa di dolce,",
+   "38": "e quel drago con la testa di legno mi ha risposto: \"Una gemma è solo un minerale prezioso. Che cosa ci si può dire di dolce?\"",
+   "39": "Per tenere compagnia al Fiore dell'Amore l'ho [em1]circondato di altri fiori[/em1]. Anche se appassiranno, i loro semi faranno nascere fiori nuovi.",
+   "4": "Nonostante tutte le sue lamentele iniziali, Arden è diventato parte fissa della cucina.",
+   "40": "Potrebbe arrivare un giorno in cui non potremo più venire qui insieme, ma spero che questo fiore resti sempre qui come segno.",
+   "41": "Il segno che io e Arden siamo stati qui insieme.",
+   "42": "Non credo che questa [em1]rupe[/em1] riceva molte visite, quindi i fiori probabilmente non verranno calpestati.",
+   "43": "Adesso non mi sento sola, perché ho Arden. Spero che il Fiore dell'Amore provi lo stesso.",
+   "44": "Non vedo l'ora che il fiore sbocci.",
+   "5": "Nello stufato di oggi non ha messo abbastanza pepe. Gli ho detto di aggiungerne.",
+   "51": "Questa pagina parla di Arden e della Guerriera che piantano un Fiore dell'Amore sulla [em1]rupe della [lua(GetLocalizedString(\"Common\", \"Common_Theme_GreenForest\"))][/em1].",
+   "52": "4 maggio",
+   "53": "Siamo tornati a vedere il [em1]Fiore dell'Amore[/em1]. Arden non credeva che sarebbe sbocciato così in fretta, ma voleva vederlo lo stesso, così ci siamo andati insieme.",
+   "54": "Proprio mentre tornavamo indietro ha tirato fuori una cosa e me l'ha porta. Era un [em1]fermacapelli[/em1].",
+   "55": "\"Non volevi festeggiare il compleanno? Ecco il tuo regalo\", ha detto.",
+   "56": "Il mio compleanno non è un giorno qualunque! Comunque sono piuttosto contenta.",
+   "57": "Sono stata così impegnata col ristorante che non ho avuto modo di accorciarmi i capelli. Ogni tanto mi danno fastidio.",
+   "58": "Questo fermacapelli ha un nastro verde, probabilmente perché io, pensando all'aspetto di Arden, avevo detto che mi piaceva il verde.",
+   "59": "Ha anche una gemma d'argento, che ad Arden piace. È tenero da parte sua aver scelto questo colore.",
+   "6": "Gli stufati sono buoni solo con tanto pepe! Ops... Solo a pensarci mi è tornata fame.",
+   "60": "Arden è timidissimo, ma dopo che l'ho supplicato più volte",
+   "61": "alla fine mi ha legato i capelli sotto il [em1]vecchio albero che guardava il Fiore dell'Amore[/em1].",
+   "62": "Vorrei che lo facesse tutti i giorni. Voglio farmi vedere dai clienti.",
+   "68": "Questa pagina parla di Arden che regala il [em1]fermacapelli[/em1] alla Guerriera.",
+   "69": "29 novembre",
+   "7": "Ah, e c'è un posto in cui andiamo di solito dopo la giornata di lavoro.",
+   "70": "Oggi doveva essere il più bello dei giorni.",
+   "71": "Ero finalmente riuscita a preparare un cestino da picnic, e ci avevo perfino aggiunto il [em1]fungo[/em1] di moda come sorpresa!",
+   "72": "Dicono che quei [em1]giganteschi[/em1] funghi gemmaterra, coltivati con le tecniche delle streghe, siano buonissimi.",
+   "73": "Ho comprato un [em1]fungo viola[/em1] raccolto nella [em1][lua(GetLocalizedString(\"Common\", \"Common_Theme_RainbowForest\"))][/em1]. Per adesso mi arriva al polpaccio, ma dicono che crescerà.",
+   "74": "Avevo intenzione di mostrare ad Arden il fungo e il cestino che avevo preparato, ma il mio piano è andato a monte del tutto.",
+   "75": "Prima di partire per la [em1][lua(GetLocalizedString(\"Common\", \"Common_Theme_RainbowForest\"))][/em1] ho sentito da un cliente una cosa che avrei preferito non sapere mai.",
+   "76": "E per giunta l'ho saputa da qualcun altro invece che da Arden.",
+   "77": "Pensavo che Arden fosse chiamato \"drago millenario\" solo perché aveva una vita lunga.",
+   "78": "Ma quando diceva di aver vissuto più vite intendeva in realtà che aveva [em1]perso i ricordi[/em1]...",
+   "79": "Ho chiesto ad Arden perché non mi avesse detto prima una cosa così importante.",
+   "8": "C'è una [em1]cascata[/em1] a pochi passi oltre la [em1]rupe[/em1], nel folto della [lua(GetLocalizedString(\"Common\", \"Common_Theme_GreenForest\"))].",
+   "80": "Ha risposto che non la riteneva importante, e questo mi ha fatto arrabbiare ancora di più.",
+   "81": "Non riesco a smettere di pensarci: quando morirò, Arden si dimenticherà di me, com'è naturale.",
+   "82": "Si dimenticherà... di me.",
+   "84": "Questa pagina parla di un [em1]fungo viola della [lua(GetLocalizedString(\"Common\", \"Common_Theme_RainbowForest\"))][/em1] e di come la Guerriera abbia saputo da un cliente che cosa significhi \"drago millenario\".",
+   "85": "L'ultima pagina",
+   "86": "La mia salute peggiora.",
+   "87": "Non pensavo che sarebbe successo così in fretta... La paura mi sta divorando.",
+   "88": "Credevo fosse un malanno da poco, e invece si è rivelato incurabile.",
+   "89": "Arden sarà probabilmente ancora vivo molto tempo dopo che me ne sarò andata...",
+   "9": "Di solito è difficile da raggiungere, ma Arden può portarmi sulla schiena, ahah!",
+   "90": "E siccome è un drago millenario, Arden si dimenticherà di me.",
+   "91": "Il tempo che abbiamo passato insieme sembra breve perfino a me. Per Arden sarà forse un battito di ciglia?",
+   "92": "Ogni volta che ci penso mi si stringe il petto.",
+   "93": "Quali parole dovrei lasciargli perché si ricordi di me?",
+   "94": "Spero che Arden riesca a ricordare ogni dettaglio di me, per quanto piccolo e insignificante.",
+   "95": "Se solo il Dio Gatto Nero avesse pietà di me e mi desse più tempo...",
+   "96": "In questa pagina... la Guerriera scopre la propria malattia. Non è indicato nessun altro luogo.",
+   "97": "Lascia perdere",
+   "99": "Non ci capisco una parola. La faccio tradurre ad [em1]Arin[/em1]."
+  },
+  "5822": {
+   "1": "Sembra uno dei luoghi indicati nel diario."
+  },
+  "5823": {
+   "2": "Fammi vedere."
+  },
+  "5824": {
+   "1": "Eh? Cos'è questo?",
+   "12": "Arden?"
+  },
+  "5825": {
+   "24": "Arden."
+  },
+  "5829": {
+   "1": "Sembra uno dei luoghi indicati nel diario."
+  },
+  "5836": {
+   "1": "Sembra uno dei luoghi indicati nel diario."
+  },
+  "584": {
+   "96": "Ah."
+  },
+  "5843": {
+   "2": "Fammi vedere."
+  },
+  "5850": {
+   "2": "Arden?"
+  },
+  "5852": {
+   "46": "Davvero?",
+   "47": "Sì.",
+   "48": "Sì.",
+   "74": "Sciocchezze."
+  },
+  "5853": {
+   "19": "Che c'è?",
+   "23": "Grazie.",
+   "5": "Arden..."
+  },
+  "5855": {
+   "4": "Tieni.",
+   "5": "Cos'è questo?",
+   "60": "Che c'è?",
+   "63": "Grazie, Ellie.",
+   "73": "Ristorante"
+  },
+  "586": {
+   "44": "Orario"
+  },
+  "5902": {
+   "6": "Su questo hai ragione."
+  },
+  "5906": {
+   "8": "Oh no..."
+  },
+  "59100": {
+   "34": "Grazie, Enite!"
+  },
+  "59700": {
+   "41": "Me?",
+   "44": "Cos'è questo?",
+   "50": "Perché?"
+  },
+  "6": {
+   "26": "Arrivederci.",
+   "3": "Ciao, Ellie."
+  },
+  "6000": {
+   "1": "Salve, Dio Gatto Bianco!",
+   "16": "Che c'è?",
+   "32": "Che vuoi dire?"
+  },
+  "60903": {
+   "18": "Probabilmente."
+  },
+  "60914": {
+   "2": "Probabilmente."
+  },
+  "60916": {
+   "4": "Esatto."
+  },
+  "60917": {
+   "21": "Non lo so.",
+   "5": "Sono d'accordo."
+  },
+  "60921": {
+   "14": "Eh? Dove?"
+  },
+  "60923": {
+   "1": "Evviva! La [em1][lua(GetLocalizedString(\"Item\", \"SunlightPotion_Name\"))][/em1] è pronta!",
+   "2": "Il [lua(GetLocalizedString(\"Item\", \"MoonFlower_Collect_Name\"))] si può raccogliere solo di notte.",
+   "3": "Aspettare la notte e salire in cima?",
+   "7": "Quando sei pronta porta la [em1][lua(GetLocalizedString(\"Item\", \"SunlightPotion_Name\"))][/em1] in [em1]cima alla collina della [lua(GetLocalizedString(\"Common\", \"Common_Theme_GreenForest\"))][/em1].",
+   "8": "Saliamo sulla montagna adesso?"
+  },
+  "60924": {
+   "11": "Il [lua(GetLocalizedString(\"Item\", \"MoonFlower_Collect_Name\"))] si può raccogliere solo di notte.",
+   "12": "Aspettare la notte e usare la [em1][lua(GetLocalizedString(\"Item\", \"SunlightPotion_Name\"))][/em1]?",
+   "16": "Usare adesso la [em1][lua(GetLocalizedString(\"Item\", \"SunlightPotion_Name\"))][/em1]?"
+  },
+  "60925": {
+   "8": "Va bene. Ecco qua!"
+  },
+  "60927": {
+   "1": "Bene, adesso andiamo al dispensario. ",
+   "2": "Dovrei preparare le [em1][lua(GetLocalizedString(\"Item\", \"MoonTear_Name\"))][/em1]."
+  },
+  "60928": {
+   "1": "Evviva! Le [lua(GetLocalizedString(\"Item\", \"MoonTear_Name\"))] sono pronte!",
+   "2": "Adesso non mi resta che togliere il cuore."
+  },
+  "60930": {
+   "8": "Capita."
+  },
+  "60931": {
+   "25": "Questo posto l'ho già esaminato."
+  },
+  "60932": {
+   "18": "Questo posto l'ho già esaminato."
+  },
+  "60933": {
+   "12": "Forse.",
+   "13": "Questo posto l'ho già esaminato."
+  },
+  "60934": {
+   "59": "Non lo so.",
+   "73": "Su questo non posso obiettare.",
+   "91": "Va bene."
+  },
+  "60936": {
+   "3": "Certo che no.",
+   "6": "Non ne ho idea."
+  },
+  "6100": {
+   "12": "Ho capito.",
+   "9": "Ah sì?"
+  },
+  "61000": {
+   "11": "Allora...",
+   "7": "Allora..."
+  },
+  "6101": {
+   "4": "Ciao, Ellie."
+  },
+  "6102": {
+   "1": "(GetGlobalVariable(\"$615\") == true)"
+  },
+  "6103": {
+   "7": "(GetGlobalVariable(\"$616\") == false)"
+  },
+  "61200": {
+   "1": "Ehm..."
+  },
+  "61700": {
+   "1": "Salve.",
+   "17": "Che vuoi dire?",
+   "23": "E adesso che fai?",
+   "24": "Allora...",
+   "5": "Che vuoi dire?",
+   "9": "Che vuoi dire?"
+  },
+  "6202": {
+   "4": "No, direi di no."
+  },
+  "62101": {
+   "13": "Sì, è così."
+  },
+  "62102": {
+   "7": "Ho capito."
+  },
+  "62200": {
+   "1": "Ellie, possiamo parlare un momento?"
+  },
+  "62401": {
+   "6": "Mi sono dimenticato di portare la [em1][lua(GetItemName(\"CopycatMarionette\"))][/em1]."
+  },
+  "63200": {
+   "12": "Che c'è?",
+   "2": "Benvenuta, Ellie.",
+   "56": "Mmm...",
+   "61": "Va bene.",
+   "69": "Io...",
+   "76": "Va bene.",
+   "82": "Ellie.",
+   "83": "Che vuoi dire?",
+   "84": "Grazie.",
+   "85": "Mmm...",
+   "87": "Grazie, Ellie.",
+   "92": "Grazie, Ellie."
+  },
+  "63201": {
+   "105": "E...",
+   "19": "Allora...",
+   "26": "Allora...",
+   "34": "Allora...",
+   "4": "Ben fatto.",
+   "6": "Sì.",
+   "64": "Ho capito.",
+   "94": "Esatto."
+  },
+  "6402": {
+   "8": "Va tutto bene."
+  },
+  "6403": {
+   "14": "Esatto!"
+  },
+  "6500": {
+   "13": "È una buona idea.",
+   "23": "Che ne dici, Ellie?"
+  },
+  "6502": {
+   "2": "Non lo so.",
+   "8": "Vero?"
+  },
+  "66001": {
+   "23": "3 -> 4"
+  },
+  "6603": {
+   "11": "Te ne do un po'.",
+   "4": "Benvenuti alla Munchy Bakery!"
+  },
+  "6604": {
+   "2": "Ti serviva qualcosa?",
+   "3": "Che c'è?"
+  },
+  "6605": {
+   "19": "Vinch",
+   "34": "Alvin",
+   "41": "Amici",
+   "52": "Lascia perdere",
+   "90": "Passatempi",
+   "91": "Grotta Stellata",
+   "92": "Roy",
+   "93": "Giorno",
+   "94": "Rubrum"
+  },
+  "6606": {
+   "120": "(Rileggere la storia di prima?)\r",
+   "123": "Infanzia",
+   "124": "Clala",
+   "125": "Indietro",
+   "131": "Passatempi",
+   "135": "Davvero? Ti invidio...",
+   "36": "Che vuoi dire?",
+   "72": "Oh, davvero?"
+  },
+  "6608": {
+   "166": "Benvenuti alla Munchy Bakery!",
+   "167": "Negozio",
+   "169": "Ellie, arrivi al momento giusto.",
+   "175": "Ciao, Ellie!",
+   "7": "Lascia perdere"
+  },
+  "6655": {
+   "51": "Lascia perdere",
+   "85": "Pesca",
+   "86": "Notte",
+   "87": "Foresta Verde",
+   "88": "Kyla"
+  },
+  "6656": {
+   "23": "Mmm?",
+   "93": "(Rileggere la storia di prima?)\r",
+   "98": "Lascia perdere"
+  },
+  "68900": {
+   "6": "Mi sono dimenticato di portare la [em1][lua(GetItemName(\"CopycatMarionette\"))][/em1]."
+  },
+  "7": {
+   "12": "Wisteria",
+   "27": "Oh no...",
+   "32": "Cibo",
+   "36": "Treni",
+   "49": "Streghe",
+   "54": "Aspirazioni",
+   "62": "Biblioteca",
+   "66": "Pesca",
+   "70": "Lascia perdere",
+   "71": "Giorno"
+  },
+  "71702": {
+   "3": "Ma che stai dicendo?"
+  },
+  "72": {
+   "1": "Devo cambiare la bottiglia di vetro per usare l'estrattore.",
+   "10": "Non volevi andare al villaggio?",
+   "12": "Vero, però...",
+   "13": "Con la ricetta che ho adesso sembra impossibile eliminare quel colosso.",
+   "14": "In effetti la ricetta di base pare un po' insufficiente.",
+   "16": "Ora che l'[em1]estrattore[/em1] è riparato, potrai preparare le pozioni delle [em1]ricette di base[/em1].",
+   "17": "Se prepari la [em1][lua(GetLocalizedString(\"Item\", \"BadGrassPotion_Name\"))][/em1], puoi togliere di mezzo la [em1][lua(GetLocalizedString(\"InteractableObject\", \"LittleHoneyPumkin\"))][/em1]...",
+   "18": "Ancora un po'... Sì, quindi la foresta...",
+   "2": "Uso per l'estrattore la bottiglia di vetro che ho?",
+   "20": "Esploriamo la foresta! Ci sarà pure qualcosa!",
+   "22": "È quello che sto dicendo.",
+   "3": "Usala",
+   "5": "Bene, adesso posso usare l'estrattore.",
+   "6": "Finalmente possiamo preparare pozioni come si deve.",
+   "9": "E adesso che faccio?"
+  },
+  "72202": {
+   "16": "Ma dai...",
+   "22": "Vediamo...",
+   "48": "Cosa...?"
+  },
+  "72203": {
+   "8": "Che c'è?"
+  },
+  "72209": {
+   "20": "<shake>*brontolio di pancia*</shake>"
+  },
+  "73302": {
+   "21": "Non ne ho idea.",
+   "6": "Davvero?"
+  },
+  "73303": {
+   "17": "Davvero?",
+   "21": "Che c'è?",
+   "23": "Grazie.",
+   "25": "Stammi bene, mi raccomando."
+  },
+  "73314": {
+   "1": "Bene, rimettiamo insieme i pezzi...",
+   "7": "<shake>Ahhhh!</shake>"
+  },
+  "73315": {
+   "1": "Che succede?",
+   "101": "Cosa vuol dire?",
+   "103": "Non ne ho idea.",
+   "104": "Cosa?",
+   "107": "Anch'io.",
+   "132": "Lascia perdere",
+   "140": "Pensaci bene.",
+   "149": "Me?",
+   "151": "Sì, è così.",
+   "163": "Mmm...",
+   "196": "Mmm...",
+   "200": "Cosa? E perché no?",
+   "205": "Grazie.",
+   "215": "Lascia perdere",
+   "238": "Ah!",
+   "268": "Che vuoi dire?",
+   "271": "Rex.",
+   "31": "Tutto qui?",
+   "33": "...Rex.",
+   "63": "Lascia perdere",
+   "71": "Mmm...",
+   "79": "Sì.",
+   "87": "Sì.",
+   "93": "Vinch?"
+  },
+  "73316": {
+   "12": "Eh?",
+   "3": "Che c'è?",
+   "5": "E allora?"
+  },
+  "73500": {
+   "9": "Che vuoi dire?"
+  },
+  "73501": {
+   "6": "Che vuoi dire?",
+   "8": "Cioè?"
+  },
+  "73700": {
+   "11": "Per niente.",
+   "2": "Sì, me la ricordo."
+  },
+  "73701": {
+   "11": "Mmm...",
+   "4": "Sì, esatto."
+  },
+  "74600": {
+   "3": "Che c'è?"
+  },
+  "75200": {
+   "12": "Va bene, lo farò.",
+   "14": "Certo!"
+  },
+  "75500": {
+   "9": "Va bene, grazie."
+  },
+  "75600": {
+   "27": "Ellie.",
+   "28": "Che vuoi dire?",
+   "3": "Esatto.",
+   "34": "Oh...",
+   "40": "Va bene."
+  },
+  "76800": {
+   "29": "Sì.",
+   "6": "Ma...",
+   "7": "Ma?",
+   "80": "Cosa? In che senso?"
+  },
+  "76803": {
+   "1": "Diane! Ho preparato la [em1][lua(GetLocalizedString(\"Item\", \"FirecrackerPotion_Name\"))][/em1]."
+  },
+  "76804": {
+   "12": "Torno più tardi."
+  },
+  "76805": {
+   "25": "Sì.",
+   "27": "Sì.",
+   "28": "Sì!",
+   "77": "Sì!"
+  },
+  "76807": {
+   "23": "Mmm..."
+  },
+  "76809": {
+   "28": "Ah...!"
+  },
+  "76810": {
+   "174": "Che pagina guardo?",
+   "179": "Indietro",
+   "88": "Luogo"
+  },
+  "76811": {
+   "12": "Ah...!",
+   "15": "Esatto.",
+   "40": "E allora...",
+   "53": "Arin...",
+   "60": "Probabilmente.",
+   "62": "Quindi le servo io?",
+   "63": "Ma certo!",
+   "76": "Uau!",
+   "77": "Non fa niente.",
+   "96": "È sparito...",
+   "97": "Arin..."
+  },
+  "76812": {
+   "20": "Ehi!"
+  },
+  "76815": {
+   "102": "Che rapidità!",
+   "2": "Luogo",
+   "34": "Hai ragione.",
+   "69": "Vero?",
+   "92": "Indietro"
+  },
+  "76817": {
+   "36": "Arin?",
+   "37": "Arin?"
+  },
+  "76818": {
+   "46": "Capisco..."
+  },
+  "76819": {
+   "6": "Che cosa faccio?"
+  },
+  "77603": {
+   "17": "Davvero!?",
+   "22": "Meno male."
+  },
+  "77900": {
+   "3": "Davvero?"
+  },
+  "79504": {
+   "13": "Io...",
+   "88": "Io..."
+  },
+  "8": {
+   "156": "Me?",
+   "55": "Perché?",
+   "57": "Ehehe...",
+   "95": "(Rileggere la storia di prima?)\r",
+   "96": "Presentati",
+   "98": "Foresta Verde",
+   "99": "Indietro"
+  },
+  "83300": {
+   "23": "3 -> 4"
+  },
+  "86800": {
+   "23": "3 -> 4"
+  },
+  "88": {
+   "108": "Eh?"
+  },
+  "90": {
+   "7": "Salve.",
+   "8": "Riguardati."
+  },
+  "9006": {
+   "26": "Lascia perdere",
+   "49": "Enite",
+   "7": "Wisteria",
+   "95": "Passatempi"
+  },
+  "9007": {
+   "141": "(Rileggere la storia di prima?)\r",
+   "146": "Indietro"
+  },
+  "91900": {
+   "4": "Esatto.",
+   "6": "Dici?"
+  },
+  "91901": {
+   "10": "Ma cosa c'entra?",
+   "6": "Che c'è?"
+  },
+  "92800": {
+   "23": "3 -> 4"
+  },
+  "93": {
+   "1": "Ehm..."
+  },
+  "95": {
+   "30": "No.",
+   "36": "Esatto."
+  },
+  "95002": {
+   "3": "Va bene",
+   "4": "Andiamo!",
+   "6": "No"
+  },
+  "95009": {
+   "11": "Forse.",
+   "14": "Forse."
+  },
+  "95012": {
+   "13": "Forse."
+  },
+  "95017": {
+   "12": "Cosa vuol dire?",
+   "14": "Non ci capisco una parola.",
+   "6": "Questa è..."
+  },
+  "95018": {
+   "10": "Che c'è?",
+   "12": "Su questo non posso obiettare."
+  },
+  "95020": {
+   "36": "Lisa Whitegarden"
+  },
+  "95021": {
+   "44": "Probabilmente.",
+   "49": "Quando?"
+  },
+  "95029": {
+   "3": "Uau, hai ragione."
+  },
+  "95032": {
+   "1": "Eh? Tutto qui?",
+   "17": "Hai ragione.",
+   "24": "Dove?"
+  },
+  "95033": {
+   "20": "Ahi ahi..."
+  },
+  "95037": {
+   "1": "Non ha nessun senso!!",
+   "3": "Oltre alla morte di Lisa?",
+   "4": "P-probabilmente..."
+  },
+  "95038": {
+   "1": "Virgil.",
+   "22": "Perché?",
+   "3": "L'oriente è la culla donde nascono il giorno e la notte.",
+   "8": "Sì."
+  },
+  "95040": {
+   "16": "Sul serio?"
+  },
+  "95053": {
+   "5": "Non necessariamente."
+  },
+  "95054": {
+   "5": "Allora...",
+   "7": "Davvero?",
+   "8": "Perché no?"
+  },
+  "95058": {
+   "23": "Ehm..."
+  },
+  "95062": {
+   "20": "In che senso?"
+  },
+  "95066": {
+   "7": "Ehm...",
+   "9": "Ehm..."
+  },
+  "95067": {
+   "8": "Sentiamo."
+  },
+  "95068": {
+   "10": "Eh?",
+   "12": "Ah, giusto.",
+   "15": "E allora?",
+   "21": "Esatto."
+  },
+  "95069": {
+   "1": "Bene, ho chiesto a tutti.",
+   "10": "Chi?"
+  },
+  "95071": {
+   "10": "Dio Gatto Bianco?",
+   "7": "Dio Gatto Bianco?"
+  },
+  "95072": {
+   "1": "Che succede?",
+   "111": "Oh?",
+   "123": "Cosa...?",
+   "128": "Io...",
+   "134": "Ma...",
+   "145": "Ma...",
+   "146": "Io...",
+   "152": "Ti aiuto.",
+   "159": "Grazie.",
+   "68": "Lisa...",
+   "71": "Dio Gatto Bianco?",
+   "82": "Sì...",
+   "89": "Niente.",
+   "93": "Che vuoi dire?"
+  },
+  "97": {
+   "25": "Ma certo!"
+  },
+  "97003": {
+   "20": "Allora..."
+  },
+  "97007": {
+   "9": "Eh?"
+  },
+  "97011": {
+   "27": "Uffa...",
+   "30": "Uff... "
+  },
+  "97012": {
+   "4": "Uau. Sembra buonissima!"
+  },
+  "97017": {
+   "11": "Eh?",
+   "38": "Allora...",
+   "5": "Ho capito."
+  },
+  "98101": {
+   "1": "Che c'è?",
+   "15": "Cioè?",
+   "30": "Non lo so nemmeno io.",
+   "55": "Va bene."
+  },
+  "98102": {
+   "18": "Magari la prossima volta."
+  },
+  "98900": {
+   "23": "Grazie!"
+  },
+  "99": {
+   "80": "Guarda laggiù!"
+  }
+ }
+}

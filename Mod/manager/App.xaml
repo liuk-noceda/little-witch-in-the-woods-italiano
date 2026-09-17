@@ -1,0 +1,245 @@
+<Application x:Class="LiukNoceda.LittleWitchManager.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+  <Application.Resources>
+
+    <!-- Palette presa dal gioco: il verde del bosco e il glicine di Wisteria,
+         che e' il fiore da cui il villaggio prende il nome. -->
+    <Color x:Key="cBg">#FF101610</Color>
+    <Color x:Key="cSurface">#FF192016</Color>
+    <Color x:Key="cSurface2">#FF23301F</Color>
+    <Color x:Key="cWisteria">#FFB48CD6</Color>
+    <Color x:Key="cWisteriaDeep">#FF6C4A8F</Color>
+    <Color x:Key="cText">#FFEDE8DA</Color>
+    <Color x:Key="cMuted">#FF95A08C</Color>
+    <Color x:Key="cOk">#FF7BC47F</Color>
+    <Color x:Key="cWarn">#FFE0B44A</Color>
+
+    <SolidColorBrush x:Key="Bg"           Color="{StaticResource cBg}"/>
+    <SolidColorBrush x:Key="Surface"      Color="{StaticResource cSurface}"/>
+    <SolidColorBrush x:Key="Surface2"     Color="{StaticResource cSurface2}"/>
+    <SolidColorBrush x:Key="Wisteria"     Color="{StaticResource cWisteria}"/>
+    <SolidColorBrush x:Key="WisteriaDeep" Color="{StaticResource cWisteriaDeep}"/>
+    <SolidColorBrush x:Key="Text"         Color="{StaticResource cText}"/>
+    <SolidColorBrush x:Key="Muted"        Color="{StaticResource cMuted}"/>
+    <SolidColorBrush x:Key="Ok"           Color="{StaticResource cOk}"/>
+    <SolidColorBrush x:Key="Warn"         Color="{StaticResource cWarn}"/>
+
+    <!-- ============================ Pulsanti ============================ -->
+    <Style x:Key="BaseButton" TargetType="Button">
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="Background" Value="{StaticResource Surface2}"/>
+      <Setter Property="BorderBrush" Value="#FF35452F"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="Padding" Value="18,10"/>
+      <Setter Property="FontSize" Value="13"/>
+      <Setter Property="Cursor" Value="Hand"/>
+      <Setter Property="SnapsToDevicePixels" Value="True"/>
+      <Setter Property="Template">
+        <Setter.Value>
+          <ControlTemplate TargetType="Button">
+            <Border x:Name="b" CornerRadius="4"
+                    Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    BorderThickness="{TemplateBinding BorderThickness}">
+              <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"
+                                Margin="{TemplateBinding Padding}"/>
+            </Border>
+            <ControlTemplate.Triggers>
+              <Trigger Property="IsMouseOver" Value="True">
+                <Setter TargetName="b" Property="Background" Value="#FF2C3A26"/>
+                <Setter TargetName="b" Property="BorderBrush" Value="{StaticResource Wisteria}"/>
+              </Trigger>
+              <Trigger Property="IsEnabled" Value="False">
+                <Setter TargetName="b" Property="Opacity" Value="0.4"/>
+                <Setter Property="Cursor" Value="Arrow"/>
+              </Trigger>
+            </ControlTemplate.Triggers>
+          </ControlTemplate>
+        </Setter.Value>
+      </Setter>
+    </Style>
+
+    <!-- azione principale: pieno glicine -->
+    <Style x:Key="PrimaryButton" TargetType="Button" BasedOn="{StaticResource BaseButton}">
+      <Setter Property="Background" Value="{StaticResource WisteriaDeep}"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Wisteria}"/>
+      <Setter Property="FontWeight" Value="SemiBold"/>
+      <Setter Property="Template">
+        <Setter.Value>
+          <ControlTemplate TargetType="Button">
+            <Border x:Name="b" CornerRadius="4"
+                    Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1">
+              <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"
+                                Margin="{TemplateBinding Padding}"/>
+            </Border>
+            <ControlTemplate.Triggers>
+              <Trigger Property="IsMouseOver" Value="True">
+                <Setter TargetName="b" Property="Background" Value="{StaticResource Wisteria}"/>
+                <Setter Property="Foreground" Value="#FF201A28"/>
+              </Trigger>
+              <Trigger Property="IsEnabled" Value="False">
+                <Setter TargetName="b" Property="Opacity" Value="0.35"/>
+              </Trigger>
+            </ControlTemplate.Triggers>
+          </ControlTemplate>
+        </Setter.Value>
+      </Setter>
+    </Style>
+
+    <!-- azione secondaria scritta come un link: non compete col pulsante principale -->
+    <Style x:Key="LinkButton" TargetType="Button">
+      <Setter Property="Foreground" Value="{StaticResource Muted}"/>
+      <Setter Property="Background" Value="Transparent"/>
+      <Setter Property="BorderThickness" Value="0"/>
+      <Setter Property="Padding" Value="2,1"/>
+      <Setter Property="FontSize" Value="11.5"/>
+      <Setter Property="Cursor" Value="Hand"/>
+      <Setter Property="Template">
+        <Setter.Value>
+          <ControlTemplate TargetType="Button">
+            <Border Background="Transparent" Padding="{TemplateBinding Padding}">
+              <TextBlock x:Name="t" Text="{TemplateBinding Content}"
+                         Foreground="{TemplateBinding Foreground}"
+                         FontSize="{TemplateBinding FontSize}"/>
+            </Border>
+            <ControlTemplate.Triggers>
+              <Trigger Property="IsMouseOver" Value="True">
+                <Setter TargetName="t" Property="Foreground" Value="{StaticResource Wisteria}"/>
+                <Setter TargetName="t" Property="TextDecorations" Value="Underline"/>
+              </Trigger>
+              <Trigger Property="IsEnabled" Value="False">
+                <Setter TargetName="t" Property="Opacity" Value="0.4"/>
+                <Setter Property="Cursor" Value="Arrow"/>
+              </Trigger>
+            </ControlTemplate.Triggers>
+          </ControlTemplate>
+        </Setter.Value>
+      </Setter>
+    </Style>
+
+    <Style TargetType="TextBlock">
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="FontFamily" Value="Segoe UI"/>
+    </Style>
+
+    <Style x:Key="H1" TargetType="TextBlock">
+      <Setter Property="FontSize" Value="21"/>
+      <Setter Property="FontWeight" Value="Light"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+    </Style>
+
+    <Style x:Key="Sub" TargetType="TextBlock">
+      <Setter Property="FontSize" Value="12"/>
+      <Setter Property="Foreground" Value="{StaticResource Muted}"/>
+      <Setter Property="TextWrapping" Value="Wrap"/>
+    </Style>
+
+    <Style TargetType="TextBox">
+      <Setter Property="Background" Value="{StaticResource Surface2}"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="BorderBrush" Value="#FF35452F"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="Padding" Value="8,7"/>
+      <Setter Property="FontSize" Value="12"/>
+      <Setter Property="CaretBrush" Value="{StaticResource Wisteria}"/>
+    </Style>
+
+    <Style TargetType="ProgressBar">
+      <Setter Property="Height" Value="3"/>
+      <Setter Property="Background" Value="{StaticResource Surface2}"/>
+      <Setter Property="Foreground" Value="{StaticResource Wisteria}"/>
+      <Setter Property="BorderThickness" Value="0"/>
+    </Style>
+
+    <!-- ============================ Riquadri ============================ -->
+    <Style x:Key="Card" TargetType="Border">
+      <Setter Property="Background" Value="#CC192016"/>
+      <Setter Property="BorderBrush" Value="#FF2E3C29"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="CornerRadius" Value="8"/>
+      <Setter Property="Padding" Value="22,18"/>
+      <Setter Property="Effect">
+        <Setter.Value>
+          <DropShadowEffect Color="#000000" BlurRadius="18" ShadowDepth="3" Opacity="0.45"/>
+        </Setter.Value>
+      </Setter>
+    </Style>
+
+    <!-- pastiglia di stato -->
+    <Style x:Key="Badge" TargetType="Border">
+      <Setter Property="CornerRadius" Value="11"/>
+      <Setter Property="Padding" Value="11,4"/>
+      <Setter Property="Background" Value="#22FFFFFF"/>
+      <Setter Property="VerticalAlignment" Value="Center"/>
+    </Style>
+
+    <!-- glifi Segoe MDL2, presenti su tutti i Windows supportati -->
+    <Style x:Key="Glyph" TargetType="TextBlock">
+      <Setter Property="FontFamily" Value="Segoe MDL2 Assets"/>
+      <Setter Property="FontSize" Value="14"/>
+      <Setter Property="VerticalAlignment" Value="Center"/>
+      <Setter Property="Margin" Value="0,0,9,0"/>
+    </Style>
+
+    <!-- ===================== Interruttore di un modulo ===================== -->
+    <Style x:Key="ModuleCard" TargetType="CheckBox">
+      <Setter Property="Cursor" Value="Hand"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="Template">
+        <Setter.Value>
+          <ControlTemplate TargetType="CheckBox">
+            <Border x:Name="card" CornerRadius="8" Padding="20,16"
+                    Background="#CC192016" BorderThickness="1.5" BorderBrush="#FF2E3C29">
+              <Border.Effect>
+                <DropShadowEffect Color="#000000" BlurRadius="16" ShadowDepth="2" Opacity="0.45"/>
+              </Border.Effect>
+              <Grid>
+                <Grid.ColumnDefinitions>
+                  <ColumnDefinition Width="Auto"/>
+                  <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Border x:Name="box" Grid.Column="0" Width="21" Height="21" CornerRadius="4"
+                        BorderThickness="1.5" BorderBrush="#FF45553E" Background="#FF131A12"
+                        VerticalAlignment="Top" Margin="0,2,15,0">
+                  <TextBlock x:Name="tick" Text="&#xE73E;" FontFamily="Segoe MDL2 Assets"
+                             FontSize="12" Foreground="#FFFFFFFF" Opacity="0"
+                             HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Border>
+
+                <ContentPresenter Grid.Column="1" VerticalAlignment="Center"/>
+              </Grid>
+            </Border>
+            <ControlTemplate.Triggers>
+              <Trigger Property="IsChecked" Value="True">
+                <Setter TargetName="card" Property="BorderBrush" Value="{StaticResource Wisteria}"/>
+                <Setter TargetName="card" Property="Background" Value="#E623301F"/>
+                <Setter TargetName="box" Property="Background" Value="{StaticResource WisteriaDeep}"/>
+                <Setter TargetName="box" Property="BorderBrush" Value="{StaticResource Wisteria}"/>
+                <Setter TargetName="tick" Property="Opacity" Value="1"/>
+              </Trigger>
+              <Trigger Property="IsMouseOver" Value="True">
+                <Setter TargetName="card" Property="BorderBrush" Value="#FF95A08C"/>
+              </Trigger>
+              <MultiTrigger>
+                <MultiTrigger.Conditions>
+                  <Condition Property="IsMouseOver" Value="True"/>
+                  <Condition Property="IsChecked" Value="True"/>
+                </MultiTrigger.Conditions>
+                <Setter TargetName="card" Property="BorderBrush" Value="{StaticResource Wisteria}"/>
+              </MultiTrigger>
+              <Trigger Property="IsEnabled" Value="False">
+                <Setter Property="Opacity" Value="0.4"/>
+                <Setter Property="Cursor" Value="Arrow"/>
+              </Trigger>
+            </ControlTemplate.Triggers>
+          </ControlTemplate>
+        </Setter.Value>
+      </Setter>
+    </Style>
+
+  </Application.Resources>
+</Application>

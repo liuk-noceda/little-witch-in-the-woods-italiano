@@ -1,0 +1,60 @@
+﻿CONDIZIONI D'USO
+Little Witch in the Woods in italiano — Liuk Noceda (Luca Nasi)
+
+────────────────────────────────────────────────────────────────────────
+
+1. OGGETTO
+
+Questo accordo riguarda esclusivamente il software "Little Witch in the
+Woods in italiano" (il gestore, il plugin e i testi tradotti) realizzato
+da Liuk Noceda (Luca Nasi). Non riguarda in alcun modo il gioco Little
+Witch in the Woods, che resta soggetto alle condizioni del suo titolare.
+
+2. GRATUITÀ
+
+Il progetto è gratuito. È vietato venderlo, includerlo in pacchetti a
+pagamento o subordinarne l'accesso a un compenso, a un abbonamento o
+alla visualizzazione di pubblicità con sistemi di attesa forzata.
+
+3. REQUISITO DI COPIA ORIGINALE
+
+L'uso di questa patch presuppone il possesso di una copia originale e
+regolarmente acquistata di Little Witch in the Woods. Il progetto non
+fornisce, non facilita e non incoraggia in alcun modo l'ottenimento del
+gioco per vie non autorizzate.
+
+4. REDISTRIBUZIONE
+
+È consentito ridistribuire il pacchetto integro e non modificato,
+purché resti gratuito, sia attribuito a Liuk Noceda (Luca Nasi) e sia
+accompagnato da queste condizioni e dall'avviso.
+
+Per varianti modificate è richiesto indicare chiaramente che si tratta
+di una versione non ufficiale, distinta da quella di Liuk Noceda
+(Luca Nasi).
+
+5. CONTENUTI DEL GIOCO
+
+Questo pacchetto non contiene risorse originali di Little Witch in the
+Woods. I testi tradotti sono opera derivata realizzata a scopo di
+fruizione personale da parte di chi possiede il gioco, senza finalità
+di lucro.
+
+Su richiesta del titolare dei diritti, la distribuzione verrà
+interrotta.
+
+6. ASSENZA DI GARANZIA
+
+Il software è fornito "così com'è", senza garanzie di alcun tipo,
+esplicite o implicite. Liuk Noceda (Luca Nasi) non risponde di eventuali
+danni derivanti dall'uso, incluse perdite di dati o di salvataggi.
+
+7. MARCHI
+
+Little Witch in the Woods è un marchio di Sunny Side Up. I marchi citati
+appartengono ai rispettivi titolari e sono usati a puro scopo
+descrittivo, senza alcuna affiliazione.
+
+────────────────────────────────────────────────────────────────────────
+
+© 2026 Liuk Noceda (Luca Nasi) — progetto amatoriale senza scopo di lucro

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+
+    <AssemblyName>LittleWitchInItaliano</AssemblyName>
+    <RootNamespace>LiukNoceda.LittleWitchManager</RootNamespace>
+    <Version>1.0.0</Version>
+    <Company>Liuk Noceda (Luca Nasi)</Company>
+    <Product>Little Witch in the Woods in italiano</Product>
+    <Copyright>© 2026 Liuk Noceda (Luca Nasi) — traduzione amatoriale non ufficiale</Copyright>
+    <ApplicationIcon>Resources\icon.ico</ApplicationIcon>
+
+    <!-- un solo .exe, e il runtime .NET resta quello di sistema -->
+    <SelfContained>false</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SatelliteResourceLanguages>it;en</SatelliteResourceLanguages>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\icon.ico" Condition="Exists('Resources\icon.ico')" />
+    <Resource Include="Resources\logo.png" Condition="Exists('Resources\logo.png')" />
+  </ItemGroup>
+
+</Project>

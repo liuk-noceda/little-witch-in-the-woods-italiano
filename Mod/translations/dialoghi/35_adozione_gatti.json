@@ -1,0 +1,170 @@
+{
+ "conversazioni": {
+  "104300": {
+   "67": "Vieni a vivere con me.",
+   "69": "Farò meglio di prima. Stavolta ne sono certissima.",
+   "70": "(La coda del gatto si alza dritta.)",
+   "71": "Accetteresti la [em1]medaglietta[/em1], allora?",
+   "72": "Non è una decisione da prendere alla leggera... Devo prepararmi un po'.",
+   "73": "Spero davvero che potremo vivere di nuovo insieme... ma concedimi un po' di tempo.",
+   "74": "(La coda del gatto ondeggia dolcemente.)",
+   "75": "Come sono andate le cose?",
+   "76": "(Il gatto si avvicina a Ellie.)",
+   "77": "Sembra che la vita al villaggio ti piaccia. Ne sono felicissima!",
+   "78": "Ma vorrei comunque chiederti una cosa.",
+   "80": "Ti andrebbe di tornare a vivere da me?",
+   "82": "Vuoi usare la [em1]Medaglietta dell'amicizia[/em1] sul gatto?",
+   "86": "Ripensaci."
+  },
+  "104301": {
+   "1": "È una mia impressione o ce l'hai con me? È perché non ti sono venuta a trovare o non ti ho accarezzato abbastanza? Scusami, tesoro."
+  },
+  "104302": {
+   "1": "Mi sa che dovrò impegnarmi di più se voglio renderti felice."
+  },
+  "104303": {
+   "10": "Lascia che te la rimetta.",
+   "7": "Tieni, questa è la [em1]Medaglietta dell'amicizia[/em1]."
+  },
+  "104304": {
+   "11": "Ecco fatto.",
+   "14": "So di avertelo già detto una volta, ma d'ora in avanti <wave>saremo ottimi amici</wave>.",
+   "21": "Grazie per avermi dato un'altra possibilità. Te ne sono davvero grata.",
+   "24": "(Il gatto ricambia lo sguardo di Ellie con affetto.)"
+  },
+  "104305": {
+   "45": "Vuoi tornare al villaggio, non è vero...?",
+   "50": "Lo lascerò andare.",
+   "51": "Lo lascerò andare.",
+   "52": "Mi rattrista, ma voglio rispettare la sua volontà.",
+   "55": "Stai andando subito al villaggio? Ti accompagno io.",
+   "58": "Lo convincerò a restare.",
+   "59": "Lo convincerò a restare.",
+   "65": "Farò del mio meglio per fugare ogni tua preoccupazione.",
+   "66": "Saremo amici.",
+   "73": "Forse è merito del collarino... So in qualche modo che vuole tornare al villaggio.",
+   "75": "Se solo mi fossi presa più cura di te.",
+   "76": "(Il gatto inizia a fare le fusa.)",
+   "83": "(Il gatto fissa Ellie con indifferenza.)",
+   "84": "Hai qualcosa da dire?",
+   "85": "Trattenerlo contro la sua volontà potrebbe non essere una buona idea."
+  },
+  "104306": {
+   "12": "Puoi sempre tornare da me quando vuoi.",
+   "14": "C-ciao allora!",
+   "8": "Spero che la vita al villaggio ti piaccia!"
+  },
+  "104307": {
+   "16": "Un altro amico perso.",
+   "25": "Detto questo... Abbiamo trascorso del tempo insieme, e farò tesoro di quei ricordi.",
+   "27": "Puoi sempre andare a fargli visita al villaggio.",
+   "28": "La prossima volta farò meglio."
+  },
+  "104308": {
+   "77": "Vuoi tornare al villaggio?",
+   "79": "Lo lascerò andare.",
+   "81": "Mi rattrista, ma voglio rispettare la sua volontà.",
+   "82": "Stai andando subito al villaggio? Ti accompagno io.",
+   "88": "Forse è merito del collarino... So in qualche modo che vuole tornare al villaggio.",
+   "90": "Se solo mi fossi presa più cura di te."
+  },
+  "79500": {
+   "16": "Sei sicura? Vivere con un altro essere vivente significa assumersi delle responsabilità.",
+   "17": "Fiducia...?",
+   "18": "Ce l'ho!",
+   "19": "...Forse non ancora.",
+   "2": "Se potessi vederti ogni giorno a casa, il risveglio la mattina sarebbe molto più felice. Che ne dici?",
+   "20": "Aspettavo questo giorno da tanto. Anche tu sei emozionato, vero?",
+   "21": "(La coda del gatto si alza dritta.)",
+   "22": "Allora... ho preparato un regalo. Lo accetti?",
+   "23": "Come hai detto tu, Virgil, è una cosa su cui dovrei riflettere attentamente.",
+   "24": "Quindi... puoi aspettare finché non sarò pronta?",
+   "25": "(La coda del gatto ondeggia dolcemente.)",
+   "26": "Vorrei chiederti una cosa. Rimarresti ancora un po' con me?",
+   "27": "(Il gatto si accosta a Ellie.)",
+   "28": "Se ti va, vorresti venire a vivere a casa mia?",
+   "29": "Penso solo che sarebbe bello stare vicini.",
+   "3": "(Il gatto emette delle fusa sommesse.)",
+   "30": "Mi piacerebbe molto vivere insieme, ma... c'è ancora molto che devo preparare.",
+   "31": "Ce l'ho!",
+   "32": "...Forse non ancora.",
+   "33": "Vuoi usare la [em1]Medaglietta dell'amicizia[/em1] sul gatto?"
+  },
+  "79501": {
+   "1": "Ecco. Questa è la [em1]Medaglietta dell'amicizia[/em1] che ho preparato per te.",
+   "4": "Portandola farai sapere a tutti che sei un amico che vive con me.",
+   "6": "(Il gatto annusa la medaglietta, poi fa le fusa soddisfatto.)"
+  },
+  "79502": {
+   "1": "È stato bello passare del tempo con te. Ora vivrai al villaggio, giusto?",
+   "2": "(La coda del gatto ondeggia dolcemente.)",
+   "3": "Non è che lascerai Ellie per sempre. Sii felice.",
+   "4": "Lo so, Virgil. Sto solo... ripensando all'amicizia che abbiamo costruito.",
+   "6": "Allora... stammi bene!",
+   "7": "(Il gatto miagola guardando Ellie.)"
+  },
+  "79503": {
+   "10": "Quindi da domani... <wave>saremo ottimi amici.</wave>",
+   "12": "Virgil, sento che il gatto si fida di me. È una sensazione così strana e meravigliosa.",
+   "13": "Davvero? Allora non starai mica dimenticando la responsabilità che ne deriva, vero?",
+   "14": "Ma certo che no! Me ne prenderò grandissima cura.",
+   "15": "(Il gatto ricambia lo sguardo di Ellie con affetto.)",
+   "16": "Grazie alla medaglietta, riesco a percepire cosa prova il gatto.",
+   "5": "Bene, fatto.",
+   "7": "Potresti dare la notizia ai nostri amici, oggi?",
+   "8": "Dovrei dare una sistemata alla casa prima che tu arrivi."
+  },
+  "79504": {
+   "1": "Mmh? Hai qualcosa da dirmi?",
+   "100": "Se solo mi fossi presa più cura di te.",
+   "102": "(Il gatto fissa Ellie con indifferenza.)",
+   "103": "Hai qualcosa da dire?",
+   "104": "Trattenerlo contro la sua volontà potrebbe non essere una buona idea.",
+   "115": "Certo che dovrei chiederglielo. Ti fideresti di me ancora una volta?",
+   "116": "(Il gatto strofina il muso contro Ellie.)",
+   "117": "Sento la tua fiducia. Allora è un sì!",
+   "118": "Farò del mio meglio: dopotutto ti stai fidando di me un'altra volta.",
+   "119": "(Il gatto inizia a fare le fusa.)",
+   "12": "Se il gatto vuole tornare al villaggio, cosa faresti?",
+   "120": "Benissimo! Saremo ottimi amici!",
+   "121": "Ti fideresti di me ancora una volta?",
+   "122": "(Il gatto strofina il muso contro Ellie.)",
+   "123": "Sento la tua fiducia.",
+   "124": "...Ma sento anche che stai ancora pensando di tornare al villaggio.",
+   "14": "Lo lascerò andare.",
+   "15": "Lo lascerò andare.",
+   "16": "Mi rattrista, ma...",
+   "17": "So di non aver sempre fatto del mio meglio per te.",
+   "19": "Quindi se vuoi andartene, vorrei almeno accompagnarti. Va bene, no?",
+   "2": "(La coda del gatto ondeggia lentamente da un lato all'altro.)",
+   "20": "(La coda del gatto ondeggia dolcemente.)",
+   "22": "Lo convincerò a restare.",
+   "23": "Lo convincerò a restare.",
+   "24": "Oh? Sei così sicura di te?",
+   "25": "Farò del mio meglio. Fidati di me.",
+   "28": "(Il gatto inizia a fare le fusa.)",
+   "29": "Benissimo! Conterò ancora su di te.",
+   "3": "A giudicare dalla tua espressione... hai qualcosa per la testa, vero?",
+   "35": "L'espressione del gatto è davvero diversa dal solito.",
+   "44": "Forse è per via della [em1]Medaglietta dell'amicizia[/em1]...",
+   "45": "Vuoi... davvero tornare al villaggio?",
+   "49": "(Il gatto guarda Ellie in silenzio.)",
+   "86": "Trattenerlo contro la sua volontà potrebbe non essere una buona idea.",
+   "87": "Vuoi tornare dove vivevi prima, non è vero?",
+   "89": "Lo lascerò andare.",
+   "90": "Lo lascerò andare.",
+   "91": "Mi rattrista, ma voglio rispettare la sua volontà.",
+   "92": "Stai andando subito al villaggio? Ti accompagno io.",
+   "94": "Lo convincerò a restare.",
+   "95": "Lo convincerò a restare.",
+   "98": "Forse è merito del collarino... So in qualche modo che vuole tornare al villaggio.",
+   "99": "Cosa fai?"
+  },
+  "91911": {
+   "12": "Non lo vedo più.",
+   "13": "Puoi sempre andarlo a trovare al villaggio.",
+   "14": "E la nostra amicizia non svanirà mai.",
+   "15": "Lo so, Virgil."
+  }
+ }
+}

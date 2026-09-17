@@ -1,0 +1,71 @@
+﻿LITTLE WITCH IN THE WOODS IN ITALIANO
+Traduzione italiana amatoriale — Liuk Noceda (Luca Nasi)
+
+────────────────────────────────────────────────────────────────────────
+
+PROGETTO NON UFFICIALE
+
+Questa è una traduzione amatoriale realizzata da fan, non affiliata né
+approvata da Sunny Side Up.
+
+Little Witch in the Woods e tutti i suoi contenuti sono proprietà dei
+rispettivi titolari. Questo progetto non distribuisce alcuna risorsa del
+gioco: non contiene testi originali, immagini, audio, font né codice di
+Little Witch in the Woods.
+
+Per usare questa patch serve una copia originale e regolarmente
+acquistata del gioco.
+
+────────────────────────────────────────────────────────────────────────
+
+COME FUNZIONA
+
+La traduzione non modifica nessun file del gioco. Viene applicata a
+runtime tramite BepInEx: l'italiano viene registrato come lingua in più
+all'avvio, e i testi tradotti vengono messi in memoria accanto a quelli
+originali.
+
+Questo significa che:
+
+  • le lingue originali restano tutte disponibili;
+  • nessun file del gioco viene sovrascritto o alterato;
+  • la patch si rimuove in qualsiasi momento riportando il gioco allo
+    stato esatto di prima;
+  • un aggiornamento del gioco non corrompe nulla: al più la patch
+    smette di funzionare finché non viene aggiornata a sua volta.
+
+Le lettere accentate italiane non esistono nei font del gioco, che ha
+solo inglese, coreano e cinese. Il plugin le risolve agganciando come
+ripiego un font già presente nel gioco: nessun font viene ridistribuito.
+
+────────────────────────────────────────────────────────────────────────
+
+STATO DELLA TRADUZIONE
+
+  Interfaccia   completa (menu, oggetti, missioni, enciclopedia)
+  Dialoghi      in corso
+
+Le parti non ancora tradotte restano in inglese e il gioco resta
+perfettamente giocabile.
+
+────────────────────────────────────────────────────────────────────────
+
+AVVERTENZE
+
+Il salvataggio del gioco non viene toccato, ma è sempre prudente farne
+una copia prima di installare qualsiasi modifica.
+
+L'uso di modifiche di terze parti è a tua discrezione e responsabilità.
+Se riscontri un problema nel gioco mentre la patch è attiva, rimuovila e
+verifica che il problema persista prima di segnalarlo agli sviluppatori
+di Little Witch in the Woods: non è corretto riportare loro bug causati
+da una mod.
+
+────────────────────────────────────────────────────────────────────────
+
+COMPONENTI DI TERZE PARTI
+
+  BepInEx 5.4.23.3    — LGPL-2.1   https://github.com/BepInEx/BepInEx
+  HarmonyX            — MIT        https://github.com/BepInEx/HarmonyX
+
+BepInEx viene distribuito nella sua forma originale, non modificata.
